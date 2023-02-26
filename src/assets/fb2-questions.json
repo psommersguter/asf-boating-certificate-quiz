@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Welche Wirkung hat der Radeffekt?",
+    "answer1": { "text": "Das Heck wird bei Schub voraus gegen Drehrichtung des Propellers versetzt.", "correct": false },
+    "answer2": { "text": "Das Heck wird bei Schub voraus in Drehrichtung des Propellers versetzt.", "correct": true },
+    "answer3": { "text": "Das Heck wird bei Schub achteraus gegen Drehrichtung des Propellers versetzt.", "correct": false },
+    "answer4": { "text": "Das Heck wird bei Schub achteraus in Drehrichtung des Propellers versetzt.", "correct": true },
+    "metadata": {
+      "category": "Jachtbedienung",
+      "number": 5,
+      "code": "A010201B"
+    }
+  },
+  {
+    "question": "b???",
+    "answer1": { "text": "b1", "correct": false },
+    "answer2": { "text": "b2", "correct": true },
+    "answer3": { "text": "b3", "correct": false },
+    "answer4": { "text": "b4", "correct": false }
+  },
+  {
+    "question": "c???",
+    "answer1": { "text": "c1", "correct": false },
+    "answer2": { "text": "c2", "correct": false },
+    "answer3": { "text": "c3", "correct": true },
+    "answer4": { "text": "c4", "correct": false }
+  }
+]
