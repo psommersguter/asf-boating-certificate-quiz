@@ -1,4 +1,14 @@
-import { Box, Button, Card, CardActions, CardContent, CardHeader, Checkbox, Typography } from '@mui/material';
+import {
+  Box,
+  Button,
+  Card,
+  CardActions,
+  CardContent,
+  CardHeader,
+  CardMedia,
+  Checkbox,
+  Typography
+} from '@mui/material';
 import { AnswerData, QuizItemData } from './model';
 import { useState } from 'react';
 
@@ -89,12 +99,14 @@ function QuizCard(props: Props) {
         subheader={subheaderText}
       >
       </CardHeader>
-      {/*<CardMedia*/}
-      {/*  component="img"*/}
-      {/*  height="194"*/}
-      {/*  image="/static/images/cards/paella.jpg"*/}
-      {/*  alt="Paella dish"*/}
-      {/*/>*/}
+      <Box sx={{
+        padding: "1rem"
+      }}>
+        <CardMedia
+          component="img"
+          image={itemData.pictureBase64}
+        />
+      </Box>
       <CardContent>
         <Box sx={{
           display: "grid",
