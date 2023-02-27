@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-question-json": "node gen/generate-questions.js"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
