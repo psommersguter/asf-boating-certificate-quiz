@@ -1,19 +1,7 @@
-export enum Category {
-  A = "Jachtbedienung",
-  B = "Bootsbau",
-  C = "Navigation",
-  D = "Rechtskunde",
-  E = "Wetter",
-  F = "Sicherheit",
-  M = "Modul Motor",
-  S = "Modul Segeln"
-
-}
-
 export interface QuizItemData {
   metadata?: {
-    category: Category
-    number: number
+    category: string
+    number: string
     code: string
   }
   question: string

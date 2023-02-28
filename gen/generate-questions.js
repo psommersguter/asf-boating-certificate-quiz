@@ -11,8 +11,28 @@ function getPathBesideFile(relativePath) {
 }
 
 function parseQuestion(questionParts) {
-  // console.log("parseQuestion", questionParts);
-
+  function determineCategory(rawCategory) {
+    switch (rawCategory) {
+      case "A":
+        return "Jachtbedienung";
+      case "B":
+        return "Bootsbau";
+      case "C":
+        return "Navigation";
+      case "D":
+        return "Rechtskunde";
+      case "E":
+        return "Wetter";
+      case "F":
+        return "Sicherheit";
+      case "M":
+        return "Modul Motor";
+      case "S":
+        return "Modul Segeln";
+      default:
+        throw new Error("Unable to determine category for given value " + rawCategory);
+    }
+  }
 
   function determineCorrect(rawAnswer) {
     const indicatorChar = rawAnswer.charAt(0);
@@ -28,14 +48,14 @@ function parseQuestion(questionParts) {
 
   return {
     "question": question,
-    "answer1": { "text": rawAnswer1.substring(4), "correct": determineCorrect(rawAnswer1) },
-    "answer2": { "text": rawAnswer2.substring(4), "correct": determineCorrect(rawAnswer2) },
-    "answer3": { "text": rawAnswer3.substring(4), "correct": determineCorrect(rawAnswer3) },
-    "answer4": { "text": rawAnswer4.substring(4), "correct": determineCorrect(rawAnswer4) },
+    "answer1": {"text": rawAnswer1.substring(4), "correct": determineCorrect(rawAnswer1)},
+    "answer2": {"text": rawAnswer2.substring(4), "correct": determineCorrect(rawAnswer2)},
+    "answer3": {"text": rawAnswer3.substring(4), "correct": determineCorrect(rawAnswer3)},
+    "answer4": {"text": rawAnswer4.substring(4), "correct": determineCorrect(rawAnswer4)},
     // "pictureBase64": "",
     "metadata": {
-      "category": questionParts[0].charAt(0),
-      "number": questionParts[questionParts.length-1],
+      "category": determineCategory(questionParts[0].charAt(0)),
+      "number": questionParts[questionParts.length - 1],
       "code": questionParts[0]
     }
   };
@@ -71,8 +91,4 @@ for (let i = 0; i < lines.length; i++) {
 
 }
 
-// console.log(parsedQuestions);
 fs.writeFileSync(getPathBesideFile("questions.json"), JSON.stringify(parsedQuestions), 'utf8')
-
-const used = process.memoryUsage().heapUsed / 1024 / 1024;
-console.log(`The script uses approximately ${Math.round(used * 100) / 100} MB`);
