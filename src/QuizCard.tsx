@@ -152,22 +152,25 @@ function QuizCard(props: Props) {
         <ValidationText everythingCorrect={showValidation ? allCheckboxesCorrect : null} />
       </CardContent>
       <CardActions>
-        <Button size="small" onClick={() => setShowValidation(!showValidation)}>Überprüfen</Button>
         <Box sx={{
-          width: {
-            xs: "30%",
-            md: "79%"
+          width: "100%",
+          textAlign: "right"
+        }}
+        >
+          {!showValidation ?
+            <Button size="small" onClick={() => setShowValidation(!showValidation)}>Überprüfen</Button>
+            :
+            <Button size="small" onClick={() => {
+              setAnswer1Check(false)
+              setAnswer2Check(false)
+              setAnswer3Check(false)
+              setAnswer4Check(false)
+              onNextQuestion()
+            }}>
+              Nächste Frage
+            </Button>
           }
-        }} />
-        <Button size="small" onClick={() => {
-          setAnswer1Check(false)
-          setAnswer2Check(false)
-          setAnswer3Check(false)
-          setAnswer4Check(false)
-          onNextQuestion()
-        }}>
-          Nächste Frage
-        </Button>
+        </Box>
       </CardActions>
     </Card>
   )
