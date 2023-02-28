@@ -5,8 +5,8 @@ import LearningQuiz from './LearningQuiz';
 import { Box } from '@mui/material';
 
 function App() {
-  const [welcomeVisible, setWelcomeVisible] = useState(false)
-  const [learnQuizVisible, setLearnQuizVisible] = useState(true)
+  const [welcomeVisible, setWelcomeVisible] = useState(true)
+  const [learnQuizVisible, setLearnQuizVisible] = useState(false)
 
   function startLearnQuiz() {
     setWelcomeVisible(false)

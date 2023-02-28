@@ -19,7 +19,7 @@ export function Welcome(props: Props) {
         flexDirection: "column"
       }}>
         <Button onClick={onStartLearnQuizClick}>
-          FB2 - Quiz zum Lernen für Starten
+          FB2 - Lernquiz Starten
         </Button>
       </Box>
     </Box>
