@@ -55,19 +55,30 @@ function parseQuestion(questionParts) {
     throw new Error("The length of the sanitizedQuestionAndAnswers array is not correct!");
   }
 
-  return {
+  const rawNumber = questionParts[questionParts.length - 1];
+  const questionObject = {
     "question": sanitizedQuestionAndAnswers[0],
     "answer1": {"text": sanitizedQuestionAndAnswers[1], "correct": determineCorrect(joinedQuestionsAndAnswers, "a")},
     "answer2": {"text": sanitizedQuestionAndAnswers[2], "correct": determineCorrect(joinedQuestionsAndAnswers, "b")},
     "answer3": {"text": sanitizedQuestionAndAnswers[3], "correct": determineCorrect(joinedQuestionsAndAnswers, "c")},
     "answer4": {"text": sanitizedQuestionAndAnswers[4], "correct": determineCorrect(joinedQuestionsAndAnswers, "d")},
-    // "pictureBase64": "",
     "metadata": {
       "category": determineCategory(questionParts[0].charAt(0)),
-      "number": questionParts[questionParts.length - 1],
+      "number": rawNumber,
       "code": questionParts[0]
     }
-  };
+  }
+
+  const possibleImagePath = getPathBesideFile(path.join("images", rawNumber.replaceAll(".", "") + ".png"))
+  if (fs.existsSync(possibleImagePath)) {
+    const imageAsBase64 = fs.readFileSync(possibleImagePath, 'base64');
+    return {
+      ...questionObject,
+      "pictureBase64": "data:image/png;base64," + imageAsBase64
+    }
+  }
+
+  return questionObject;
 }
 
 const data = fs.readFileSync(getPathBesideFile("raw-data.txt"), 'utf8');

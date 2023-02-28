@@ -99,14 +99,24 @@ function QuizCard(props: Props) {
         subheader={subheaderText}
       >
       </CardHeader>
-      <Box sx={{
-        padding: "1rem"
-      }}>
-        <CardMedia
-          component="img"
-          image={itemData.pictureBase64}
-        />
-      </Box>
+      {
+        itemData.pictureBase64 === undefined ? null :
+          <Box sx={{
+            padding: "1rem"
+          }}>
+            <CardMedia
+              component="img"
+              image={itemData.pictureBase64}
+              sx={{
+                width: { md: "auto" },
+                height: { md: "20rem" },
+                display: "block",
+                marginLeft: "auto",
+                marginRight: "auto"
+              }}
+            />
+          </Box>
+      }
       <CardContent>
         <Box sx={{
           display: "grid",
