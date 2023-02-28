@@ -7,6 +7,7 @@ import {
   CardHeader,
   CardMedia,
   Checkbox,
+  FormControlLabel,
   Typography
 } from '@mui/material';
 import { AnswerData, QuizItemData } from './model';
@@ -63,15 +64,16 @@ function AnswerThingy(props: AnswerThingyProps) {
   }
 
   return (
-    <>
-      <Checkbox checked={userChecked} onChange={event => setUserChecked(event.target.checked)} />
-      <Typography sx={{
+    <FormControlLabel
+      control={
+        <Checkbox checked={userChecked} onChange={event => setUserChecked(event.target.checked)} />
+      }
+      label={text}
+      sx={{
         textAlign: "left",
         color: determineValidationColor()
-      }}>
-        {text}
-      </Typography>
-    </>
+      }}
+    />
   )
 
 }
@@ -120,7 +122,7 @@ function QuizCard(props: Props) {
       <CardContent>
         <Box sx={{
           display: "grid",
-          gridTemplateColumns: " max-content 1fr",
+          gridTemplateColumns: "1fr",
           alignItems: "center",
           gridRowGap: "1rem"
         }}>
