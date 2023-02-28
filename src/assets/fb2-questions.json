@@ -360,22 +360,22 @@
     }
   },
   {
-    "question": "Wie sollte unter Maschine bei stärkerem Wind längsseits angelegt werden? o a Es sollte mit dem Wind angelegt werden. x b Es sollte gegen den Wind angelegt werden.",
+    "question": "Wie sollte unter Maschine bei stärkerem Wind längsseits angelegt werden?",
     "answer1": {
-      "text": "Beim Anlegen mit dem Wind sollten Achterspring und Vorleine zuerst ausgebracht",
+      "text": "Es sollte mit dem Wind angelegt werden.",
       "correct": false
     },
     "answer2": {
-      "text": "en.",
-      "correct": false
-    },
-    "answer3": {
-      "text": "Beim Anlegen gegen den Wind sollten Achterspring und Vorleine zuerst ausgebracht",
+      "text": "Es sollte gegen den Wind angelegt werden.",
       "correct": true
     },
-    "answer4": {
-      "text": "en.",
+    "answer3": {
+      "text": "Beim Anlegen mit dem Wind sollten Achterspring und Vorleine zuerst ausgebracht werden.",
       "correct": false
+    },
+    "answer4": {
+      "text": "Beim Anlegen gegen den Wind sollten Achterspring und Vorleine zuerst ausgebracht werden.",
+      "correct": true
     },
     "metadata": {
       "category": "Jachtbedienung",
@@ -576,21 +576,21 @@
     }
   },
   {
-    "question": "Die Jacht liegt längsseits bei stärkerem auflandigem Wind. Welche der angeführten Abläufe beschreiben übliche Ablegemanöver? o a Jacht gut abfendern und den Bug von der Mole wegdrücken, danach Ruder legen weg von der Mole und kräftigen Vorwärtsschub geben. o b Mit dem Beiboot den Anker parallel zur Mole ausbringen und mit Schub rückwärts das Heck gegen den Wind verholen.",
+    "question": "Die Jacht liegt längsseits bei stärkerem auflandigem Wind. Welche der angeführten Abläufe beschreiben übliche Ablegemanöver?",
     "answer1": {
-      "text": "Eindampfen in die Vorspring mit Ruder zur Mole bis das Heck im Wind steht, danach",
-      "correct": true
+      "text": "Jacht gut abfendern und den Bug von der Mole wegdrücken, danach Ruder legen weg von der Mole und kräftigen Vorwärtsschub geben.",
+      "correct": false
     },
     "answer2": {
-      "text": "b rückwärts und Vorspring los.",
+      "text": "Mit dem Beiboot den Anker parallel zur Mole ausbringen und mit Schub rückwärts das Heck gegen den Wind verholen.",
       "correct": false
     },
     "answer3": {
-      "text": "Achterspring ausbringen und mit Ruder von der Mole weg mit geringem Schub voraus",
-      "correct": false
+      "text": "Eindampfen in die Vorspring mit Ruder zur Mole bis das Heck im Wind steht, danach Schub rückwärts und Vorspring los.",
+      "correct": true
     },
     "answer4": {
-      "text": "Bug gegen den Wind von der Mole wegdrehen.",
+      "text": "Achterspring ausbringen und mit Ruder von der Mole weg mit geringem Schub voraus den Bug gegen den Wind von der Mole wegdrehen.",
       "correct": false
     },
     "metadata": {
@@ -600,17 +600,17 @@
     }
   },
   {
-    "question": "Die Jacht liegt Steuerbord längsseits bei stärkerem auflandigem Wind. Welche der angeführten Abläufe beschreiben übliche Ablegemanöver? o a Vor- und Achterspring los, Bug- und Heckleine los, Maschine vorwärts, Ruder hart backbord x b Eindampfen in die Vorspring mit Ruder hart Steuerbord bis das Heck im Wind steht,",
+    "question": "Die Jacht liegt Steuerbord längsseits bei stärkerem auflandigem Wind. Welche der angeführten Abläufe beschreiben übliche Ablegemanöver?",
     "answer1": {
-      "text": "ch Schub rückwärts und Vorspring los.",
+      "text": "Vor- und Achterspring los, Bug- und Heckleine los, Maschine vorwärts, Ruder hart backbord",
       "correct": false
     },
     "answer2": {
-      "text": "Eindampfen in die Vorspring mit Ruder hart Backbord bis das Heck im Wind steht,",
-      "correct": false
+      "text": "Eindampfen in die Vorspring mit Ruder hart Steuerbord bis das Heck im Wind steht, danach Schub rückwärts und Vorspring los.",
+      "correct": true
     },
     "answer3": {
-      "text": "ch Schub rückwärts und Vorspring los.",
+      "text": "Eindampfen in die Vorspring mit Ruder hart Backbord bis das Heck im Wind steht, danach Schub rückwärts und Vorspring los.",
       "correct": false
     },
     "answer4": {
@@ -672,17 +672,17 @@
     }
   },
   {
-    "question": "Die Jacht liegt Backbord längsseits bei stärkerem auflandigem Wind. Welche der angeführten Abläufe beschreiben übliche Ablegemanöver? o a Vor- und Achterspring los, Bug- und Heckleine los, Maschine vorwärts, Ruder hart Steuerbord. x b Eindampfen in die Vorspring mit Ruder hart Backbord bis das Heck im Wind steht,",
+    "question": "Die Jacht liegt Backbord längsseits bei stärkerem auflandigem Wind. Welche der angeführten Abläufe beschreiben übliche Ablegemanöver?",
     "answer1": {
-      "text": "ch Schub rückwärts und Vorspring los.",
+      "text": "Vor- und Achterspring los, Bug- und Heckleine los, Maschine vorwärts, Ruder hart Steuerbord.",
       "correct": false
     },
     "answer2": {
-      "text": "Eindampfen in die Vorspring mit Ruder hart Steuerbord bis das Heck im Wind steht,",
-      "correct": false
+      "text": "Eindampfen in die Vorspring mit Ruder hart Backbord bis das Heck im Wind steht, danach Schub rückwärts und Vorspring los.",
+      "correct": true
     },
     "answer3": {
-      "text": "ch Schub rückwärts und Vorspring los.",
+      "text": "Eindampfen in die Vorspring mit Ruder hart Steuerbord bis das Heck im Wind steht, danach Schub rückwärts und Vorspring los.",
       "correct": false
     },
     "answer4": {
@@ -768,21 +768,21 @@
     }
   },
   {
-    "question": "Ablegen von der Muring bei schwachem seitlichem Wind von Backbord mit Nachbarbooten in Lee und Luv: Welche der angeführten Abläufe beschreiben übliche Ablegemanöver? o a An Backbord gut abfendern, beide Achterleinen loswerfen und an der Muring die Jacht aus der Box verholen. o b An Steuerbord gut abfendern, beide Achterleinen loswerfen, Ruder hart Backbord und mit kräftigem Schub ablegen.",
+    "question": "Ablegen von der Muring bei schwachem seitlichem Wind von Backbord mit Nachbarbooten in Lee und Luv: Welche der angeführten Abläufe beschreiben übliche Ablegemanöver?",
     "answer1": {
-      "text": "Eindampfen in die Backbord-Achterleine, Muring fallen lassen, Backbord-Achterleine los",
-      "correct": true
+      "text": "An Backbord gut abfendern, beide Achterleinen loswerfen und an der Muring die Jacht aus der Box verholen.",
+      "correct": false
     },
     "answer2": {
-      "text": "aus der Box fahren.",
+      "text": "An Steuerbord gut abfendern, beide Achterleinen loswerfen, Ruder hart Backbord und mit kräftigem Schub ablegen.",
       "correct": false
     },
     "answer3": {
-      "text": "An Steuerbord gut abfendern, beide Achterleinen loswerfen, Ruder mittschiffs und mit",
-      "correct": false
+      "text": "Eindampfen in die Backbord-Achterleine, Muring fallen lassen, Backbord-Achterleine los und aus der Box fahren.",
+      "correct": true
     },
     "answer4": {
-      "text": "gem Schub ablegen.",
+      "text": "An Steuerbord gut abfendern, beide Achterleinen loswerfen, Ruder mittschiffs und mit mäßigem Schub ablegen.",
       "correct": false
     },
     "metadata": {
@@ -1008,13 +1008,13 @@
     }
   },
   {
-    "question": "Wie legt man ein Auge um einen Poller, an dem andere Festmacher belegt sind? o a Gar nicht.",
+    "question": "Wie legt man ein Auge um einen Poller, an dem andere Festmacher belegt sind?",
     "answer1": {
-      "text": "Fremde Festmacher lösen, eigenen Festmacher belegen, fremde Festmacher wieder",
+      "text": "Gar nicht.",
       "correct": false
     },
     "answer2": {
-      "text": "gen.",
+      "text": "Fremde Festmacher lösen, eigenen Festmacher belegen, fremde Festmacher wieder belegen.",
       "correct": false
     },
     "answer3": {
@@ -1248,17 +1248,17 @@
     }
   },
   {
-    "question": "Wie verhält man sich, wenn ein fremdes Boot im Paket anlegen möchte? o a Das Anlegen muss die Hafenbehörde genehmigen.",
+    "question": "Wie verhält man sich, wenn ein fremdes Boot im Paket anlegen möchte?",
     "answer1": {
-      "text": "Beim Anlegen dürfen die fremden Festmacher nicht übernommen werden.",
+      "text": "Das Anlegen muss die Hafenbehörde genehmigen.",
       "correct": false
     },
     "answer2": {
-      "text": "Das Anlegen sollte verweigert werden, wenn das ankommende Boot einen Stahl- oder",
+      "text": "Beim Anlegen dürfen die fremden Festmacher nicht übernommen werden.",
       "correct": false
     },
     "answer3": {
-      "text": "iniumrumpf hat.",
+      "text": "Das Anlegen sollte verweigert werden, wenn das ankommende Boot einen Stahl- oder Aluminiumrumpf hat.",
       "correct": false
     },
     "answer4": {
@@ -1272,18 +1272,18 @@
     }
   },
   {
-    "question": "Wodurch unterscheiden sich Manöver mit zwei Maschinen von Manövern mit einer Maschine? x a Der Radeffekt wird (teilweise) kompensiert",
+    "question": "Wodurch unterscheiden sich Manöver mit zwei Maschinen von Manövern mit einer Maschine?",
     "answer1": {
+      "text": "Der Radeffekt wird (teilweise) kompensiert",
+      "correct": true
+    },
+    "answer2": {
       "text": "Die Rumpfgeschwindigkeit ist doppelt so hoch",
       "correct": false
     },
-    "answer2": {
-      "text": "Verbesserte Manövrierfähigkeit durch unterschiedliche Motordrehzahlen bzw.",
-      "correct": true
-    },
     "answer3": {
-      "text": "rschiedliche Schubrichtungen",
-      "correct": false
+      "text": "Verbesserte Manövrierfähigkeit durch unterschiedliche Motordrehzahlen bzw. unterschiedliche Schubrichtungen",
+      "correct": true
     },
     "answer4": {
       "text": "Manövrierfähigkeit auf engstem Raum",
@@ -1344,14 +1344,14 @@
     }
   },
   {
-    "question": "Was ist bei der Bedienung eines Bugstrahlruders zu beachten? o a Die Servicebatterien müssen vor Bedienung voll aufgeladen sein.",
+    "question": "Was ist bei der Bedienung eines Bugstrahlruders zu beachten?",
     "answer1": {
-      "text": "Das Bugstrahlruder nur in kurzen Schüben betätigen, um die Batterie nicht zu stark zu",
-      "correct": true
+      "text": "Die Servicebatterien müssen vor Bedienung voll aufgeladen sein.",
+      "correct": false
     },
     "answer2": {
-      "text": "sten.",
-      "correct": false
+      "text": "Das Bugstrahlruder nur in kurzen Schüben betätigen, um die Batterie nicht zu stark zu belasten.",
+      "correct": true
     },
     "answer3": {
       "text": "Das Bugstrahlruder darf nur eingesetzt werden, wenn keine Fahrt im Schiff ist.",
@@ -1656,13 +1656,13 @@
     }
   },
   {
-    "question": "Welche Maßnahmen sind üblicherweise bei Inanspruchnahme von Schlepphilfe erforderlich? x a Die eigene Schlepptrosse wird übergeben.",
+    "question": "Welche Maßnahmen sind üblicherweise bei Inanspruchnahme von Schlepphilfe erforderlich?",
     "answer1": {
-      "text": "Das eigene Boot ist nach dem Belegen der Schlepptrosse bis auf den Rudergänger zu",
-      "correct": false
+      "text": "Die eigene Schlepptrosse wird übergeben.",
+      "correct": true
     },
     "answer2": {
-      "text": "assen.",
+      "text": "Das eigene Boot ist nach dem Belegen der Schlepptrosse bis auf den Rudergänger zu verlassen.",
       "correct": false
     },
     "answer3": {
@@ -1848,21 +1848,21 @@
     }
   },
   {
-    "question": "Was ist ein Reitgewicht? o a Ein Gewicht, das am Kreuz des Ankers befestigt wird, um das Eingraben des Ankers zu erleichtern x b Ein Gewicht, das an der Ankerkette mit einem Gleitschäkel bis auf den Grund hinab",
+    "question": "Was ist ein Reitgewicht?",
     "answer1": {
-      "text": "ssen wird, um einen flacheren Kettenwinkel bei Belastung zu erzielen",
+      "text": "Ein Gewicht, das am Kreuz des Ankers befestigt wird, um das Eingraben des Ankers zu erleichtern",
       "correct": false
     },
     "answer2": {
+      "text": "Ein Gewicht, das an der Ankerkette mit einem Gleitschäkel bis auf den Grund hinab gelassen wird, um einen flacheren Kettenwinkel bei Belastung zu erzielen",
+      "correct": true
+    },
+    "answer3": {
       "text": "Ein Gewicht, das am Ankerstock befestigt ist, um den Ankerstock am Boden zu halten.",
       "correct": false
     },
-    "answer3": {
-      "text": "Ein Gewicht, das am Schaft eines Plattenankers befestigt wird, um den Ankerschaft am",
-      "correct": false
-    },
     "answer4": {
-      "text": "n zu halten",
+      "text": "Ein Gewicht, das am Schaft eines Plattenankers befestigt wird, um den Ankerschaft am Boden zu halten",
       "correct": false
     },
     "metadata": {
@@ -2424,10 +2424,10 @@
     }
   },
   {
-    "question": "Wodurch unterscheiden sich Patentanker von Gewichtsankern? x a Sie graben sich aufgrund Ihrer speziellen Konstruktion, nicht aufgrund ihres Gewichts in",
+    "question": "Wodurch unterscheiden sich Patentanker von Gewichtsankern?",
     "answer1": {
-      "text": "Grund ein.",
-      "correct": false
+      "text": "Sie graben sich aufgrund Ihrer speziellen Konstruktion, nicht aufgrund ihres Gewichts in den Grund ein.",
+      "correct": true
     },
     "answer2": {
       "text": "Sie sind aus hochfesten Stählen gefertigt.",
@@ -2712,21 +2712,21 @@
     }
   },
   {
-    "question": "Welche der folgenden Abläufe beschreiben übliche (Bug-)Ankermanöver unter Motor? o a Zügig über die gewählte Position fahren ohne abzustoppen - Anker fallen - bei Fahrt Voraus Kette stecken - auf Marschdrehzahl erhöhen und Anker einfahren o b Mit dem Heck gegen den Wind über die gewählten Position fahren - Anker fallen - bei langsamer Fahrt achteraus Kette stecken - Anker mit Schub achteraus einfahren",
+    "question": "Welche der folgenden Abläufe beschreiben übliche (Bug-)Ankermanöver unter Motor?",
     "answer1": {
-      "text": "An der gewählten Position abstoppen - Anker fallen - bei langsamer Fahrt achteraus",
-      "correct": true
+      "text": "Zügig über die gewählte Position fahren ohne abzustoppen - Anker fallen - bei Fahrt Voraus Kette stecken - auf Marschdrehzahl erhöhen und Anker einfahren",
+      "correct": false
     },
     "answer2": {
-      "text": "e stecken - Anker mit Schub achteraus einfahren",
+      "text": "Mit dem Heck gegen den Wind über die gewählten Position fahren - Anker fallen - bei langsamer Fahrt achteraus Kette stecken - Anker mit Schub achteraus einfahren",
       "correct": false
     },
     "answer3": {
-      "text": "An der gewählten Position abstoppen - Anker fallen - bei langsamer Fahrt voraus Kette",
-      "correct": false
+      "text": "An der gewählten Position abstoppen - Anker fallen - bei langsamer Fahrt achteraus Kette stecken - Anker mit Schub achteraus einfahren",
+      "correct": true
     },
     "answer4": {
-      "text": "ken - Anker mit Schub voraus einfahren",
+      "text": "An der gewählten Position abstoppen - Anker fallen - bei langsamer Fahrt voraus Kette stecken - Anker mit Schub voraus einfahren",
       "correct": false
     },
     "metadata": {
@@ -2856,18 +2856,18 @@
     }
   },
   {
-    "question": "Wie wird der Anker üblicherweise klariert, wenn über der eigenen eine andere Ankerkette liegt? o a Das andere Boot muss jedenfalls ablegen/Anker auf gehen. o b Das freie Ende der eigenen Kette wird vom Boot gelöst und unterhalb der fremden Kette",
+    "question": "Wie wird der Anker üblicherweise klariert, wenn über der eigenen eine andere Ankerkette liegt?",
     "answer1": {
-      "text": "hgezogen.",
+      "text": "Das andere Boot muss jedenfalls ablegen/Anker auf gehen.",
       "correct": false
     },
     "answer2": {
-      "text": "Die fremde Kette wird mit einer Leine unterfangen und angehoben, der eigene Anker",
-      "correct": true
+      "text": "Das freie Ende der eigenen Kette wird vom Boot gelöst und unterhalb der fremden Kette durchgezogen.",
+      "correct": false
     },
     "answer3": {
-      "text": "ben und die fremde Kette danach wieder fallen gelassen.",
-      "correct": false
+      "text": "Die fremde Kette wird mit einer Leine unterfangen und angehoben, der eigene Anker gehoben und die fremde Kette danach wieder fallen gelassen.",
+      "correct": true
     },
     "answer4": {
       "text": "Der fremde Anker wird mit dem eigenen ausgebrochen und danach wieder fallengelassen.",
@@ -3264,22 +3264,22 @@
     }
   },
   {
-    "question": "Was ist ein Reiseplan? o a Ein ausführliches Logbuch.",
+    "question": "Was ist ein Reiseplan?",
     "answer1": {
-      "text": "Eine Liste anzusteuernder Häfen.",
+      "text": "Ein ausführliches Logbuch.",
       "correct": false
     },
     "answer2": {
+      "text": "Eine Liste anzusteuernder Häfen.",
+      "correct": false
+    },
+    "answer3": {
       "text": "Verpflichtende Vorbereitung einer Bootsreise nach SOLAS V.",
       "correct": true
     },
-    "answer3": {
-      "text": "Vorbereitung einer Bootsreise mit allen Aspekten der Routenplanung, Sicherheit,",
-      "correct": true
-    },
     "answer4": {
-      "text": "gation, Ausrüstung, Terminplanung, ...",
-      "correct": false
+      "text": "Vorbereitung einer Bootsreise mit allen Aspekten der Routenplanung, Sicherheit, Navigation, Ausrüstung, Terminplanung, ...",
+      "correct": true
     },
     "metadata": {
       "category": "Jachtbedienung",
@@ -3288,13 +3288,13 @@
     }
   },
   {
-    "question": "Was ist ein Logbuch? x a Regelmäßige Aufzeichnungen über alle die Seefahrt betreffenden Vorkommnisse.",
+    "question": "Was ist ein Logbuch?",
     "answer1": {
-      "text": "Ein Nachweis über die ordnungsgemäße Durchführung der Schiffs-Wartungsarbeiten",
-      "correct": false
+      "text": "Regelmäßige Aufzeichnungen über alle die Seefahrt betreffenden Vorkommnisse.",
+      "correct": true
     },
     "answer2": {
-      "text": "chnisches Tagebuch“).",
+      "text": "Ein Nachweis über die ordnungsgemäße Durchführung der Schiffs-Wartungsarbeiten („technisches Tagebuch“).",
       "correct": false
     },
     "answer3": {
@@ -3312,14 +3312,14 @@
     }
   },
   {
-    "question": "Welche Eintragungen enthält ein Logbuch? o a Nur die besonderen Vorkommnisse während einer Fahrt",
+    "question": "Welche Eintragungen enthält ein Logbuch?",
     "answer1": {
-      "text": "Nach Uhrzeit erfasste Positionen, Abfahrt/Ankunft, Kurse, Peilungen, Antriebsart,",
-      "correct": true
+      "text": "Nur die besonderen Vorkommnisse während einer Fahrt",
+      "correct": false
     },
     "answer2": {
-      "text": "lführung, Geschwindigkeit/Logstand, Wetterinformationen, nautische Ereignisse, …",
-      "correct": false
+      "text": "Nach Uhrzeit erfasste Positionen, Abfahrt/Ankunft, Kurse, Peilungen, Antriebsart, Segelführung, Geschwindigkeit/Logstand, Wetterinformationen, nautische Ereignisse, …",
+      "correct": true
     },
     "answer3": {
       "text": "Abfahrtsort, Ankunftsort und die zurückgelgte Distanz",
@@ -3384,22 +3384,22 @@
     }
   },
   {
-    "question": "Welche Rechte und Pflichten hat ein Schiffsführer? x a Das Weisungsrecht in allen nautischen Belangen.",
+    "question": "Welche Rechte und Pflichten hat ein Schiffsführer?",
     "answer1": {
+      "text": "Das Weisungsrecht in allen nautischen Belangen.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Die Verantwortung des Schiffsführers wird in einem Crewvertrag festgelegt.",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Der Skipper ist nur für die Navigation und die richtige Abfolge der Manöver zuständig.",
       "correct": false
     },
-    "answer3": {
-      "text": "Der Skipper ist grundsätzlich für alle navigatorischen und technischen Belange am Schiff",
-      "correct": true
-    },
     "answer4": {
-      "text": "ntwortlich, kann aber bestimmte Verantwortlichkeiten delegieren.",
-      "correct": false
+      "text": "Der Skipper ist grundsätzlich für alle navigatorischen und technischen Belange am Schiff verantwortlich, kann aber bestimmte Verantwortlichkeiten delegieren.",
+      "correct": true
     },
     "metadata": {
       "category": "Jachtbedienung",
@@ -3408,9 +3408,9 @@
     }
   },
   {
-    "question": "Wenn vor Antritt der Fahrt der Skipper nicht feststeht, dann …? o a … kann jeweils der Wachführer für seine Wache die Aufgaben und Pflichten des Skippers",
+    "question": "Wenn vor Antritt der Fahrt der Skipper nicht feststeht, dann …?",
     "answer1": {
-      "text": "nehmen.",
+      "text": "… kann jeweils der Wachführer für seine Wache die Aufgaben und Pflichten des Skippers übernehmen.",
       "correct": false
     },
     "answer2": {
@@ -3456,17 +3456,17 @@
     }
   },
   {
-    "question": "Welche Flaggen muss bzw. darf eine Jacht führen? x a Die Seeflagge des Registerstaats und ggf. die Gastlandflagge sind vorgeschrieben.",
+    "question": "Welche Flaggen muss bzw. darf eine Jacht führen?",
     "answer1": {
-      "text": "Ein Vereins- oder Clubstander ist erlaubt.",
+      "text": "Die Seeflagge des Registerstaats und ggf. die Gastlandflagge sind vorgeschrieben.",
       "correct": true
     },
     "answer2": {
-      "text": "Fantasieflaggen und Werbeflaggen sind erlaubt, wenn sie keine anstößigen Abbildungen",
-      "correct": false
+      "text": "Ein Vereins- oder Clubstander ist erlaubt.",
+      "correct": true
     },
     "answer3": {
-      "text": " Texte zeigen.",
+      "text": "Fantasieflaggen und Werbeflaggen sind erlaubt, wenn sie keine anstößigen Abbildungen oder Texte zeigen.",
       "correct": false
     },
     "answer4": {
@@ -3576,17 +3576,17 @@
     }
   },
   {
-    "question": "Was ist die Gastlandflagge? o a Die Begrüßungsflagge für fremde Jachten an Stegen anerkannter Clubs. x b Die Seelflagge/Handelsflagge des Landes, in dessen Hoheitsgewässern sich ein Schiff",
+    "question": "Was ist die Gastlandflagge?",
     "answer1": {
-      "text": "ndet.",
+      "text": "Die Begrüßungsflagge für fremde Jachten an Stegen anerkannter Clubs.",
       "correct": false
     },
     "answer2": {
-      "text": "Die Nationalflagge der Nation, der die Crew angehört (wenn sie anders ist als die des",
-      "correct": false
+      "text": "Die Seelflagge/Handelsflagge des Landes, in dessen Hoheitsgewässern sich ein Schiff befindet.",
+      "correct": true
     },
     "answer3": {
-      "text": "ffes).",
+      "text": "Die Nationalflagge der Nation, der die Crew angehört (wenn sie anders ist als die des Schiffes).",
       "correct": false
     },
     "answer4": {
@@ -3600,17 +3600,17 @@
     }
   },
   {
-    "question": "Wann wird die Gastlandflagge gesetzt? x a Beim Einlaufen in das fremde Hoheitsgewässer.",
+    "question": "Wann wird die Gastlandflagge gesetzt?",
     "answer1": {
+      "text": "Beim Einlaufen in das fremde Hoheitsgewässer.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Beim Einlaufen in den Port of Entry.",
       "correct": false
     },
-    "answer2": {
-      "text": "Wenn das Schiff außerhalb der Hoheitsgewässer des Heimatlandes des Schiffsführers",
-      "correct": false
-    },
     "answer3": {
-      "text": "rwegs ist.",
+      "text": "Wenn das Schiff außerhalb der Hoheitsgewässer des Heimatlandes des Schiffsführers unterwegs ist.",
       "correct": false
     },
     "answer4": {
@@ -3768,14 +3768,14 @@
     }
   },
   {
-    "question": "Wann wird die Flagge Q geführt? o a Vom Erreichen der Hoheitsgewässer bis vor den Zollhafen.",
+    "question": "Wann wird die Flagge Q geführt?",
     "answer1": {
-      "text": "Vom Erreichen der Seezollgrenze (12-Seemeilen-Zone) bis zur Beendigung der",
-      "correct": true
+      "text": "Vom Erreichen der Hoheitsgewässer bis vor den Zollhafen.",
+      "correct": false
     },
     "answer2": {
-      "text": "larierungsformalitäten.",
-      "correct": false
+      "text": "Vom Erreichen der Seezollgrenze (12-Seemeilen-Zone) bis zur Beendigung der Einklarierungsformalitäten.",
+      "correct": true
     },
     "answer3": {
       "text": "Vor dem Einlaufen in einen Hafen.",
@@ -3936,13 +3936,13 @@
     }
   },
   {
-    "question": "Unter welchen Umständen ist man beim Empfang eines Seenotsignals von der Hilfeleistung befreit? o a Als Freizeitschiff unter gar keinen Umständen.",
+    "question": "Unter welchen Umständen ist man beim Empfang eines Seenotsignals von der Hilfeleistung befreit?",
     "answer1": {
-      "text": "Nach dem Weiterleiten des Hilferufs an eine Behörde erlischt die Verpflichtung zu",
+      "text": "Als Freizeitschiff unter gar keinen Umständen.",
       "correct": false
     },
     "answer2": {
-      "text": "erer Hilfeleistung.",
+      "text": "Nach dem Weiterleiten des Hilferufs an eine Behörde erlischt die Verpflichtung zu weiterer Hilfeleistung.",
       "correct": false
     },
     "answer3": {
@@ -4368,18 +4368,18 @@
     }
   },
   {
-    "question": "Wo entsorgen Sie angefallenes AltöI? o a Auf offener See. o b Öl mit Spülmittel mischen um es aufzulösen. Danach kann die Emulsion ins Meer entsorgt",
+    "question": "Wo entsorgen Sie angefallenes AltöI?",
     "answer1": {
-      "text": "en.",
+      "text": "Auf offener See.",
       "correct": false
     },
     "answer2": {
-      "text": "Öl in gut verschlossenen Behältern lagern, bis es an Land zu einer geeigneten",
-      "correct": true
+      "text": "Öl mit Spülmittel mischen um es aufzulösen. Danach kann die Emulsion ins Meer entsorgt werden.",
+      "correct": false
     },
     "answer3": {
-      "text": "elstelle gebracht wird.",
-      "correct": false
+      "text": "Öl in gut verschlossenen Behältern lagern, bis es an Land zu einer geeigneten Sammelstelle gebracht wird.",
+      "correct": true
     },
     "answer4": {
       "text": "Stets nur in Häfen oder Marinas, an den dafür gekennzeichneten Stellen.",
@@ -4392,21 +4392,21 @@
     }
   },
   {
-    "question": "In ihre Bilge ist Öl geflossen. Wie entsorgen Sie dieses Öl-Wassergemisch? x a Bilgewasser in einen Behälter pumpen",
+    "question": "In ihre Bilge ist Öl geflossen. Wie entsorgen Sie dieses Öl-Wassergemisch?",
     "answer1": {
+      "text": "Bilgewasser in einen Behälter pumpen",
+      "correct": true
+    },
+    "answer2": {
       "text": "Außerhalb der 12-Meilen-Zone kann eine Entsorgung im Meer erfolgen.",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Außerhalb der 3-Meilen-Zone kann eine Entsorgung im Meer erfolgen.",
       "correct": false
     },
-    "answer3": {
-      "text": "Öl-Wassergemisch mit Putzpapier aufsaugen, trocknen lassen und anzünden,",
-      "correct": false
-    },
     "answer4": {
-      "text": "hließend ins Meer werfen.",
+      "text": "Öl-Wassergemisch mit Putzpapier aufsaugen, trocknen lassen und anzünden, anschließend ins Meer werfen.",
       "correct": false
     },
     "metadata": {
@@ -4512,17 +4512,17 @@
     }
   },
   {
-    "question": "Was ist an Land beim Reinigen eines mit Antifouling behandelten Unterwasserschiffes zu beachten? o a Reinigung darf erst nach Abtrocknung des Rumpfes stattfinden.",
+    "question": "Was ist an Land beim Reinigen eines mit Antifouling behandelten Unterwasserschiffes zu beachten?",
     "answer1": {
-      "text": "Reinigung soll erst unmittelbar vor erneutem Zuwasserlassen stattfinden.",
+      "text": "Reinigung darf erst nach Abtrocknung des Rumpfes stattfinden.",
       "correct": false
     },
     "answer2": {
-      "text": "Antifouling muss vollständig entfernt werden, erneutes Aufbringen ist aus",
+      "text": "Reinigung soll erst unmittelbar vor erneutem Zuwasserlassen stattfinden.",
       "correct": false
     },
     "answer3": {
-      "text": "ltschutzgründen verboten.",
+      "text": "Antifouling muss vollständig entfernt werden, erneutes Aufbringen ist aus Umweltschutzgründen verboten.",
       "correct": false
     },
     "answer4": {
@@ -4584,10 +4584,10 @@
     }
   },
   {
-    "question": "Was wird als ökonomische Fahrt bezeichnet? x a Geschwindigkeit, bei der bei gegebener Treibstoffmenge die größtmögliche Distanz",
+    "question": "Was wird als ökonomische Fahrt bezeichnet?",
     "answer1": {
-      "text": "ckgelegt wird",
-      "correct": false
+      "text": "Geschwindigkeit, bei der bei gegebener Treibstoffmenge die größtmögliche Distanz zurückgelegt wird",
+      "correct": true
     },
     "answer2": {
       "text": "Fahrt mit einer Motordrehzahl unter 1500 U/min",
@@ -4680,21 +4680,21 @@
     }
   },
   {
-    "question": "Für Fallen verwendet man …? o a … gleiches Tauwerk wie für Festmacher, sind untereinander ausgetauschbar.",
+    "question": "Für Fallen verwendet man …?",
     "answer1": {
-      "text": "… Tauwerk mit hoher Elastizität zur Schonung des Segels.",
+      "text": "… gleiches Tauwerk wie für Festmacher, sind untereinander ausgetauschbar.",
       "correct": false
     },
     "answer2": {
+      "text": "… Tauwerk mit hoher Elastizität zur Schonung des Segels.",
+      "correct": false
+    },
+    "answer3": {
       "text": "… Tauwerk mit geringer Elastizität.",
       "correct": true
     },
-    "answer3": {
-      "text": "… Tauwerk mit ausreichender Bruchfestigkeit, die Elastizität spielt eine untergeordnete",
-      "correct": false
-    },
     "answer4": {
-      "text": "e.",
+      "text": "… Tauwerk mit ausreichender Bruchfestigkeit, die Elastizität spielt eine untergeordnete Rolle.",
       "correct": false
     },
     "metadata": {
@@ -4704,21 +4704,21 @@
     }
   },
   {
-    "question": "Für Schoten verwendet man …? o a … gleiches Tauwerk wie für Festmacher, sind untereinander ausgetauschbar.",
+    "question": "Für Schoten verwendet man …?",
     "answer1": {
+      "text": "… gleiches Tauwerk wie für Festmacher, sind untereinander ausgetauschbar.",
+      "correct": false
+    },
+    "answer2": {
       "text": "… Tauwerk mit mäßiger Elastizität zur Schonung des Segels.",
       "correct": true
     },
-    "answer2": {
+    "answer3": {
       "text": "… Tauwerk mit geringer Elastizität.",
       "correct": false
     },
-    "answer3": {
-      "text": "… Tauwerk mit ausreichender Bruchfestigkeit, die Elastizität spielt eine untergeordnete",
-      "correct": false
-    },
     "answer4": {
-      "text": "e.",
+      "text": "… Tauwerk mit ausreichender Bruchfestigkeit, die Elastizität spielt eine untergeordnete Rolle.",
       "correct": false
     },
     "metadata": {
@@ -5592,14 +5592,14 @@
     }
   },
   {
-    "question": "Was sind Unterschiede zwischen Formstabilität und Gewichtsstabilität? o a Formstabilität bedingt eine Zunahme der Stabilität mit zunehmendem Krängungswinkel",
+    "question": "Was sind Unterschiede zwischen Formstabilität und Gewichtsstabilität?",
     "answer1": {
-      "text": "Gewichtsstabilität bedingt eine Zunahme der Stabilität mit zunehmendem",
-      "correct": true
+      "text": "Formstabilität bedingt eine Zunahme der Stabilität mit zunehmendem Krängungswinkel",
+      "correct": false
     },
     "answer2": {
-      "text": "gungswinkeln",
-      "correct": false
+      "text": "Gewichtsstabilität bedingt eine Zunahme der Stabilität mit zunehmendem Krängungswinkeln",
+      "correct": true
     },
     "answer3": {
       "text": "Formstabilität bedingt eine Auftriebskraft größer als die Gewichtskraft",
@@ -5616,21 +5616,21 @@
     }
   },
   {
-    "question": "Was sind Eigenschaften von ausschließlich formstabilen bzw. gewichtsstabilen Booten? x a Ausschließlich formstabile Boote kentern bei Krängungswinkeln kleiner 90° o b Gewichtsstabile Boote können nicht kentern",
+    "question": "Was sind Eigenschaften von ausschließlich formstabilen bzw. gewichtsstabilen Booten?",
     "answer1": {
-      "text": "Bei ausschließlich formstabilen Booten liegt der Gewichtsschwerpunkt (ohne Krängung)",
+      "text": "Ausschließlich formstabile Boote kentern bei Krängungswinkeln kleiner 90°",
       "correct": true
     },
     "answer2": {
-      "text": "s höher als der Auftriebsschwerpunkt.",
+      "text": "Gewichtsstabile Boote können nicht kentern",
       "correct": false
     },
     "answer3": {
-      "text": "Bei ausschließlich formstabilen Booten liegt der Gewichtsschwerpunkt (ohne Krängung)",
-      "correct": false
+      "text": "Bei ausschließlich formstabilen Booten liegt der Gewichtsschwerpunkt (ohne Krängung) stets höher als der Auftriebsschwerpunkt.",
+      "correct": true
     },
     "answer4": {
-      "text": "s unter dem Auftriebsschwerpunkt.",
+      "text": "Bei ausschließlich formstabilen Booten liegt der Gewichtsschwerpunkt (ohne Krängung) stets unter dem Auftriebsschwerpunkt.",
       "correct": false
     },
     "metadata": {
@@ -5640,10 +5640,10 @@
     }
   },
   {
-    "question": "Wann wird ein Boot als gewichtsstabil bezeichnet? x a Wenn der tief liegende Gewichtsschwerpunkt (Ballastkiel) auch bei Krängungswinkeln",
+    "question": "Wann wird ein Boot als gewichtsstabil bezeichnet?",
     "answer1": {
-      "text": "er 90° ein aufrichtendes Moment erzeugt",
-      "correct": false
+      "text": "Wenn der tief liegende Gewichtsschwerpunkt (Ballastkiel) auch bei Krängungswinkeln größer 90° ein aufrichtendes Moment erzeugt",
+      "correct": true
     },
     "answer2": {
       "text": "Wenn es bei Seegang unanfällig gegen (ungewollte) Kursänderungen ist",
@@ -5808,21 +5808,21 @@
     }
   },
   {
-    "question": "Was wird im Jachtbau als (scheinbares) Metazentrum bezeichnet? o a Der Schnittpunkt der Symmetrieebene des Schiffes mit der Wirkungslinie der Gewichtskraft x b Der Schnittpunkt der Symmetrieebene des Schiffes mit der Wirkungslinie der",
+    "question": "Was wird im Jachtbau als (scheinbares) Metazentrum bezeichnet?",
     "answer1": {
-      "text": "riebskraft",
+      "text": "Der Schnittpunkt der Symmetrieebene des Schiffes mit der Wirkungslinie der Gewichtskraft",
       "correct": false
     },
     "answer2": {
+      "text": "Der Schnittpunkt der Symmetrieebene des Schiffes mit der Wirkungslinie der Auftriebskraft",
+      "correct": true
+    },
+    "answer3": {
       "text": "Der Schnittpunkt der Symmetrieebene des Schiffes mit der Wirkungslinie der Querkraft",
       "correct": false
     },
-    "answer3": {
-      "text": "Der Schnittpunkt der Symmetrieebene des Schiffes mit der Wirkungslinie der",
-      "correct": false
-    },
     "answer4": {
-      "text": "riebskraft",
+      "text": "Der Schnittpunkt der Symmetrieebene des Schiffes mit der Wirkungslinie der Vortriebskraft",
       "correct": false
     },
     "metadata": {
@@ -5832,17 +5832,17 @@
     }
   },
   {
-    "question": "Was stellt im Jachtbau eine Stabilitätskurve dar? o a Die Verformung des Rumpfes bei mechanischer Belastung",
+    "question": "Was stellt im Jachtbau eine Stabilitätskurve dar?",
     "answer1": {
+      "text": "Die Verformung des Rumpfes bei mechanischer Belastung",
+      "correct": false
+    },
+    "answer2": {
       "text": "Den Verlauf des aufrichtenden Moments als Funktion des Krängungswinkels",
       "correct": true
     },
-    "answer2": {
-      "text": "Den Verlauf der Krängungwinkels als Funktion von Windgeschwindigkeit und",
-      "correct": false
-    },
     "answer3": {
-      "text": "einfallswinkel",
+      "text": "Den Verlauf der Krängungwinkels als Funktion von Windgeschwindigkeit und Windeinfallswinkel",
       "correct": false
     },
     "answer4": {
@@ -6672,21 +6672,21 @@
     }
   },
   {
-    "question": "@Wie sind Bordheizungen üblicherweise aufgebaut? o a @Batteriebetriebene Infrarotstrahler erwärmen Bootsrumpf und Inneneinrichtung. x b @In einer meist mit Diesel betriebenen Brennkammer wird Luft erwärmt und mit einem Ventilator über ein Schlauchsystem im Boot verteilt.",
+    "question": "@Wie sind Bordheizungen üblicherweise aufgebaut?",
     "answer1": {
-      "text": "@Warmwasser aus einem Boiler oder Kühlwasser des Motors versorgen Radiatoren im",
+      "text": "@Batteriebetriebene Infrarotstrahler erwärmen Bootsrumpf und Inneneinrichtung.",
       "correct": false
     },
     "answer2": {
-      "text": ".",
-      "correct": false
+      "text": "@In einer meist mit Diesel betriebenen Brennkammer wird Luft erwärmt und mit einem Ventilator über ein Schlauchsystem im Boot verteilt.",
+      "correct": true
     },
     "answer3": {
-      "text": "@Über einen Wärmetauscher wird die Luft mit dem Motorkühlwasser erwärmt und über",
+      "text": "@Warmwasser aus einem Boiler oder Kühlwasser des Motors versorgen Radiatoren im Boot.",
       "correct": false
     },
     "answer4": {
-      "text": "Schlauchsystem im Boot verteilt.",
+      "text": "@Über einen Wärmetauscher wird die Luft mit dem Motorkühlwasser erwärmt und über ein Schlauchsystem im Boot verteilt.",
       "correct": false
     },
     "metadata": {
@@ -7080,21 +7080,21 @@
     }
   },
   {
-    "question": "Welche Gefahren birgt Flüssiggas? o a Das geruchlose Gas führt zu Verätzungen von Augen und Schleimhäuten. o b Das geruchlose Gas löst innerhalb kurzer Zeit Schwindel und Ohnmacht aus.",
+    "question": "Welche Gefahren birgt Flüssiggas?",
     "answer1": {
-      "text": "Das brennbare Gas ist schwerer als Luft und sammelt sich im Falle einer Leckage in der",
-      "correct": true
+      "text": "Das geruchlose Gas führt zu Verätzungen von Augen und Schleimhäuten.",
+      "correct": false
     },
     "answer2": {
-      "text": "e.",
+      "text": "Das geruchlose Gas löst innerhalb kurzer Zeit Schwindel und Ohnmacht aus.",
       "correct": false
     },
     "answer3": {
-      "text": "Das stark verdichtete Gas kühlt im Falle einer Leckage ab und kann zu lokalen",
-      "correct": false
+      "text": "Das brennbare Gas ist schwerer als Luft und sammelt sich im Falle einer Leckage in der Bilge.",
+      "correct": true
     },
     "answer4": {
-      "text": "ierungen führen.",
+      "text": "Das stark verdichtete Gas kühlt im Falle einer Leckage ab und kann zu lokalen Erfrierungen führen.",
       "correct": false
     },
     "metadata": {
@@ -7176,21 +7176,21 @@
     }
   },
   {
-    "question": "Was ist in Bezug auf Flüssiggasanlagen auf Jachten beachten? x a Es dürfen nur zugelassene Geräte und Armaturen verwendet werden. o b Es soll sich möglichst niemand im Bootsinneren aufhalten, wenn die Anlage in Betrieb",
+    "question": "Was ist in Bezug auf Flüssiggasanlagen auf Jachten beachten?",
     "answer1": {
-      "text": "mmen wird.",
-      "correct": false
+      "text": "Es dürfen nur zugelassene Geräte und Armaturen verwendet werden.",
+      "correct": true
     },
     "answer2": {
-      "text": "Es muss sichergestellt sein, dass immer ein Überdruck in der Anlage herrscht.",
+      "text": "Es soll sich möglichst niemand im Bootsinneren aufhalten, wenn die Anlage in Betrieb genommen wird.",
       "correct": false
     },
     "answer3": {
-      "text": "Vor jeder Inbetriebnahme des Gasherds muss die Dichtheit der Leitungen überprüft",
+      "text": "Es muss sichergestellt sein, dass immer ein Überdruck in der Anlage herrscht.",
       "correct": false
     },
     "answer4": {
-      "text": "en.",
+      "text": "Vor jeder Inbetriebnahme des Gasherds muss die Dichtheit der Leitungen überprüft werden.",
       "correct": false
     },
     "metadata": {
@@ -8040,13 +8040,13 @@
     }
   },
   {
-    "question": "Wie werden in einer Mercator-Seekarte Entfernungen üblicherweise ermittelt? o a Distanz in der Seekarte messen und mit dem Kartenmaßstab umrechnen.",
+    "question": "Wie werden in einer Mercator-Seekarte Entfernungen üblicherweise ermittelt?",
     "answer1": {
-      "text": "Distanzen stehen am rechten bzw. linken Kartenrand entsprechend des Kartenmaßstabs",
+      "text": "Distanz in der Seekarte messen und mit dem Kartenmaßstab umrechnen.",
       "correct": false
     },
     "answer2": {
-      "text": "eemeilen bzw. Kabel.",
+      "text": "Distanzen stehen am rechten bzw. linken Kartenrand entsprechend des Kartenmaßstabs in Seemeilen bzw. Kabel.",
       "correct": false
     },
     "answer3": {
@@ -8376,22 +8376,22 @@
     }
   },
   {
-    "question": "Wie viele Karten umfasst ein Stromatlas für ein bestimmtes Seegebiet? o a Je nach Größe des Seegebiets verschieden",
+    "question": "Wie viele Karten umfasst ein Stromatlas für ein bestimmtes Seegebiet?",
     "answer1": {
-      "text": "Zwei Karten, eine für Springzeit und eine für Nippzeit",
+      "text": "Je nach Größe des Seegebiets verschieden",
       "correct": false
     },
     "answer2": {
-      "text": "12 Karten, 6 für Hochwasser, 6 für Niedrigwasser",
+      "text": "Zwei Karten, eine für Springzeit und eine für Nippzeit",
       "correct": false
     },
     "answer3": {
-      "text": "13 Karten, je 6 für die Stunden vor und nach dem Hochwasser und eine Karte für die",
-      "correct": true
+      "text": "12 Karten, 6 für Hochwasser, 6 für Niedrigwasser",
+      "correct": false
     },
     "answer4": {
-      "text": "de des Hochwassers",
-      "correct": false
+      "text": "13 Karten, je 6 für die Stunden vor und nach dem Hochwasser und eine Karte für die Stunde des Hochwassers",
+      "correct": true
     },
     "metadata": {
       "category": "Navigation",
@@ -8448,18 +8448,18 @@
     }
   },
   {
-    "question": "Was gilt für die 13 Kartenblätter eines Stromatlas eines bestimmten Seegebiets? x a Die Angaben über die Stromrichtung u. -geschwindigkeit sind bezogen auf den Zeitpunkt des HW am Bezugsort (bzw. 1 bis 6 Stunden vorher und nachher).",
+    "question": "Was gilt für die 13 Kartenblätter eines Stromatlas eines bestimmten Seegebiets?",
     "answer1": {
+      "text": "Die Angaben über die Stromrichtung u. -geschwindigkeit sind bezogen auf den Zeitpunkt des HW am Bezugsort (bzw. 1 bis 6 Stunden vorher und nachher).",
+      "correct": true
+    },
+    "answer2": {
       "text": "Jedes Blatt gibt Richtung und Geschwindigkeit des mittleren Gezeitenstromes an.",
       "correct": false
     },
-    "answer2": {
-      "text": "Jedes Blatt gibt Richtung und Geschwindigkeit des Gezeitenstroms für mittlere Nipp- und",
-      "correct": true
-    },
     "answer3": {
-      "text": "nghübe an.",
-      "correct": false
+      "text": "Jedes Blatt gibt Richtung und Geschwindigkeit des Gezeitenstroms für mittlere Nipp- und Springhübe an.",
+      "correct": true
     },
     "answer4": {
       "text": "Die Angaben gelten für 1 Jahr und müssen jährlich angepasst werden.",
@@ -8520,14 +8520,14 @@
     }
   },
   {
-    "question": "Wie wird der Aufstellungsort eines Steuerkompasses üblicherweise gewählt? o a So, dass die Variation möglichst gering ist und mit Gegenmagneten kompensiert werden kann.",
+    "question": "Wie wird der Aufstellungsort eines Steuerkompasses üblicherweise gewählt?",
     "answer1": {
-      "text": "So, dass die Deviation möglichst gering ist und mit Kompensationsmagneten weiter",
-      "correct": true
+      "text": "So, dass die Variation möglichst gering ist und mit Gegenmagneten kompensiert werden kann.",
+      "correct": false
     },
     "answer2": {
-      "text": "ziert werden kann.",
-      "correct": false
+      "text": "So, dass die Deviation möglichst gering ist und mit Kompensationsmagneten weiter reduziert werden kann.",
+      "correct": true
     },
     "answer3": {
       "text": "Möglichst weit entfernt von Eisenteilen und stromführenden Leitungen.",
@@ -8592,21 +8592,21 @@
     }
   },
   {
-    "question": "Welche Berichtigungen müssen auf den Magnetkompasskurs angerechnet werden? x a Missweisung",
+    "question": "Welche Berichtigungen müssen auf den Magnetkompasskurs angerechnet werden?",
     "answer1": {
-      "text": "Deviation (Ablenkung)",
+      "text": "Missweisung",
       "correct": true
     },
     "answer2": {
+      "text": "Deviation (Ablenkung)",
+      "correct": true
+    },
+    "answer3": {
       "text": "Inklination",
       "correct": false
     },
-    "answer3": {
-      "text": "Wenn der Magnetkompass richtig kompensiert wurde, müssen die magnetischen",
-      "correct": false
-    },
     "answer4": {
-      "text": "lüsse nicht mehr berücksichtigt werden.",
+      "text": "Wenn der Magnetkompass richtig kompensiert wurde, müssen die magnetischen Einflüsse nicht mehr berücksichtigt werden.",
       "correct": false
     },
     "metadata": {
@@ -9024,21 +9024,21 @@
     }
   },
   {
-    "question": "Wie verändert sich der Wert der Missweisung? o a Er verändert sich, wenn Veränderungen am Schiff vorgenommen werden, die den Schiffsmagnetismus beeinflussen. o b Er verändert sich je nach Kurs und wird aus der Variationstabelle entnommen.",
+    "question": "Wie verändert sich der Wert der Missweisung?",
     "answer1": {
-      "text": "Er verändert sich mit der Zeit, der aktuelle Wert wird aus der Seekarte entnommen und",
-      "correct": true
+      "text": "Er verändert sich, wenn Veränderungen am Schiff vorgenommen werden, die den Schiffsmagnetismus beeinflussen.",
+      "correct": false
     },
     "answer2": {
-      "text": " hochgerechnet.",
+      "text": "Er verändert sich je nach Kurs und wird aus der Variationstabelle entnommen.",
       "correct": false
     },
     "answer3": {
-      "text": "Er verändert sich je nach dem auf welcher Halbkugel (nördlich +, südlich -) man sich",
-      "correct": false
+      "text": "Er verändert sich mit der Zeit, der aktuelle Wert wird aus der Seekarte entnommen und ggf. hochgerechnet.",
+      "correct": true
     },
     "answer4": {
-      "text": "ndet.",
+      "text": "Er verändert sich je nach dem auf welcher Halbkugel (nördlich +, südlich -) man sich befindet.",
       "correct": false
     },
     "metadata": {
@@ -9288,13 +9288,13 @@
     }
   },
   {
-    "question": "Welches Vorzeichen hat die Deviation (Ablenkung)? o a Das Vorzeichen hängt vom Einbauort ab.",
+    "question": "Welches Vorzeichen hat die Deviation (Ablenkung)?",
     "answer1": {
-      "text": "Plus (oder) minus (-), je nachdem ob von oben nach unten oder umgekehrt gerechnet",
+      "text": "Das Vorzeichen hängt vom Einbauort ab.",
       "correct": false
     },
     "answer2": {
-      "text": ".",
+      "text": "Plus (oder) minus (-), je nachdem ob von oben nach unten oder umgekehrt gerechnet wird.",
       "correct": false
     },
     "answer3": {
@@ -9432,9 +9432,9 @@
     }
   },
   {
-    "question": "Wann kann auf die Einrechnung der Ablenkung (Deviation) verzichtet werden? o a Wenn Variation (Missweisung) und Deviation (Ablenkung) den gleichen Betrag aber",
+    "question": "Wann kann auf die Einrechnung der Ablenkung (Deviation) verzichtet werden?",
     "answer1": {
-      "text": "kehrtes Vorzeichen haben.",
+      "text": "Wenn Variation (Missweisung) und Deviation (Ablenkung) den gleichen Betrag aber umgekehrtes Vorzeichen haben.",
       "correct": false
     },
     "answer2": {
@@ -9456,22 +9456,22 @@
     }
   },
   {
-    "question": "Durch welche Eigenschaften unterscheidet sich ein Schiffs- bzw. Steuerkompass von einem Handpeilkompass? x a Der Schiffskompass kann kompensiert werden, der Handpeilkompass nicht.",
+    "question": "Durch welche Eigenschaften unterscheidet sich ein Schiffs- bzw. Steuerkompass von einem Handpeilkompass?",
     "answer1": {
+      "text": "Der Schiffskompass kann kompensiert werden, der Handpeilkompass nicht.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Der Schiffskompass wird durch die Missweisung beeinflusst, der Handpeilkompass nicht.",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Die Missweisung ist beim Handpeilkompass stärker als beim Schiffskompass .",
       "correct": false
     },
-    "answer3": {
-      "text": "Für den Handpeilkompass ist keine Ablenkung (Deviation) bekannt, für den",
-      "correct": true
-    },
     "answer4": {
-      "text": "ffskompass schon.",
-      "correct": false
+      "text": "Für den Handpeilkompass ist keine Ablenkung (Deviation) bekannt, für den Schiffskompass schon.",
+      "correct": true
     },
     "metadata": {
       "category": "Navigation",
@@ -9480,18 +9480,18 @@
     }
   },
   {
-    "question": "Was unterscheidet eine Peilung mit dem Handpeilkompass von einer Schiffskompasspeilung? o a Der Handpeilkompass unterliegt weder Deviation noch Variation.",
+    "question": "Was unterscheidet eine Peilung mit dem Handpeilkompass von einer Schiffskompasspeilung?",
     "answer1": {
-      "text": "Der Handpeilkompass unterliegt keiner Deviation.",
+      "text": "Der Handpeilkompass unterliegt weder Deviation noch Variation.",
       "correct": false
     },
     "answer2": {
-      "text": "Bei richtiger Anwendung ist die Deviation des Handpeilkompasses so gering, dass sie",
-      "correct": true
+      "text": "Der Handpeilkompass unterliegt keiner Deviation.",
+      "correct": false
     },
     "answer3": {
-      "text": "achlässigt werden kann.",
-      "correct": false
+      "text": "Bei richtiger Anwendung ist die Deviation des Handpeilkompasses so gering, dass sie vernachlässigt werden kann.",
+      "correct": true
     },
     "answer4": {
       "text": "Eine Peilung mit dem Handpeilkompass kann direkt in die Karte gezeichnet werden.",
@@ -9576,14 +9576,14 @@
     }
   },
   {
-    "question": "Was versteht man unter dem Kompensieren eines Kompasses? x a Das Korrigieren der Kompassanzeige durch mechanische oder elektronische Maßnahmen.",
+    "question": "Was versteht man unter dem Kompensieren eines Kompasses?",
     "answer1": {
-      "text": "Die Veränderung des Magnetfelds am Aufstellungsort des Kompasses durch",
+      "text": "Das Korrigieren der Kompassanzeige durch mechanische oder elektronische Maßnahmen.",
       "correct": true
     },
     "answer2": {
-      "text": "ensationsmagnete.",
-      "correct": false
+      "text": "Die Veränderung des Magnetfelds am Aufstellungsort des Kompasses durch Kompensationsmagnete.",
+      "correct": true
     },
     "answer3": {
       "text": "Die Korrektur des Schleppfehlers mit einem ermittelten Faktor",
@@ -9624,21 +9624,21 @@
     }
   },
   {
-    "question": "Wie wird eine Deviationstabelle erstellt? o a Die Deviation ist eine Schiffskenngröße und wird werkseitig ermittelt. o b Die Deviation ist abhängig vom Seegebiet, die Deviationstabelle liegt im Hafenamt oder der Marina auf.",
+    "question": "Wie wird eine Deviationstabelle erstellt?",
     "answer1": {
-      "text": "Durch Vergleich der Magnetkompasspeilung mit der missweisenden Peilung für Kurse in",
-      "correct": true
+      "text": "Die Deviation ist eine Schiffskenngröße und wird werkseitig ermittelt.",
+      "correct": false
     },
     "answer2": {
-      "text": "erschritten.",
+      "text": "Die Deviation ist abhängig vom Seegebiet, die Deviationstabelle liegt im Hafenamt oder der Marina auf.",
       "correct": false
     },
     "answer3": {
-      "text": "Durch Vergleich der rechtweisenden mit der missweisenden Peilung für Kurse in",
-      "correct": false
+      "text": "Durch Vergleich der Magnetkompasspeilung mit der missweisenden Peilung für Kurse in Zehnerschritten.",
+      "correct": true
     },
     "answer4": {
-      "text": "erschritten.",
+      "text": "Durch Vergleich der rechtweisenden mit der missweisenden Peilung für Kurse in Zehnerschritten.",
       "correct": false
     },
     "metadata": {
@@ -9816,14 +9816,14 @@
     }
   },
   {
-    "question": "Wie funktioniert ein Echolot? o a Die Tiefe wird aus der Zeit errechnet, die ein ausgesendetes Schallsignal bis zum Meeresgrund benötigt.",
+    "question": "Wie funktioniert ein Echolot?",
     "answer1": {
-      "text": "Die Tiefe wird aus der Zeit errechnet, die ein Ultraschallsignal von der Aussendung bis",
-      "correct": true
+      "text": "Die Tiefe wird aus der Zeit errechnet, die ein ausgesendetes Schallsignal bis zum Meeresgrund benötigt.",
+      "correct": false
     },
     "answer2": {
-      "text": "Empfang des am Meeresboden reflektierten Signals benötigt.",
-      "correct": false
+      "text": "Die Tiefe wird aus der Zeit errechnet, die ein Ultraschallsignal von der Aussendung bis zum Empfang des am Meeresboden reflektierten Signals benötigt.",
+      "correct": true
     },
     "answer3": {
       "text": "Die Tiefe wird aus der Frequenzverschiebung des reflektierten Signals errechnet.",
@@ -10104,22 +10104,22 @@
     }
   },
   {
-    "question": "Was ist eine Kreuzpeilung? o a Zwei Peilungen auf ein Peilobjekt zu unterschiedlichen Zeitpunkten",
+    "question": "Was ist eine Kreuzpeilung?",
     "answer1": {
+      "text": "Zwei Peilungen auf ein Peilobjekt zu unterschiedlichen Zeitpunkten",
+      "correct": false
+    },
+    "answer2": {
       "text": "Zwei Peilungen auf zwei Peilobjekte zum praktisch gleichen Zeitpunkt",
       "correct": true
     },
-    "answer2": {
+    "answer3": {
       "text": "Zwei Peilungen auf zwei Peilobjekte zu unterschiedlichen Zeitpunkten",
       "correct": false
     },
-    "answer3": {
-      "text": "Eine Deckpeilung von zwei Peilobjekten und eine gleichzeitige Peilung auf ein drittes",
-      "correct": true
-    },
     "answer4": {
-      "text": "objekt",
-      "correct": false
+      "text": "Eine Deckpeilung von zwei Peilobjekten und eine gleichzeitige Peilung auf ein drittes Peilobjekt",
+      "correct": true
     },
     "metadata": {
       "category": "Navigation",
@@ -10176,13 +10176,13 @@
     }
   },
   {
-    "question": "Wie wird der Standort eines Schiffes angegeben? o a Durch Planquadratnummern",
+    "question": "Wie wird der Standort eines Schiffes angegeben?",
     "answer1": {
-      "text": "Durch Richtungs- und Entfernungsangaben vom Referenzpunkt des nationalen",
+      "text": "Durch Planquadratnummern",
       "correct": false
     },
     "answer2": {
-      "text": "essungswesens",
+      "text": "Durch Richtungs- und Entfernungsangaben vom Referenzpunkt des nationalen Vermessungswesens",
       "correct": false
     },
     "answer3": {
@@ -10272,17 +10272,17 @@
     }
   },
   {
-    "question": "Was ist der Kurs durchs Wasser? x a Der rechtweisende Kurs berichtigt mit der Beschickung für Wind.",
+    "question": "Was ist der Kurs durchs Wasser?",
     "answer1": {
+      "text": "Der rechtweisende Kurs berichtigt mit der Beschickung für Wind.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Der rechtweisende Kurs berichtigt mit der Beschickung für Strom.",
       "correct": false
     },
-    "answer2": {
-      "text": "Der rechtweisende Kurs berichtigt mit der Beschickung für Wind und der Beschickung für",
-      "correct": false
-    },
     "answer3": {
-      "text": "m.",
+      "text": "Der rechtweisende Kurs berichtigt mit der Beschickung für Wind und der Beschickung für Strom.",
       "correct": false
     },
     "answer4": {
@@ -10296,21 +10296,21 @@
     }
   },
   {
-    "question": "Was ist der Kurs über Grund? o a Der rechtweisende Kurs berichtigt mit der Beschickung für Wind.",
+    "question": "Was ist der Kurs über Grund?",
     "answer1": {
-      "text": "Der rechtweisende Kurs berichtigt mit der Beschickung für Strom.",
+      "text": "Der rechtweisende Kurs berichtigt mit der Beschickung für Wind.",
       "correct": false
     },
     "answer2": {
+      "text": "Der rechtweisende Kurs berichtigt mit der Beschickung für Strom.",
+      "correct": false
+    },
+    "answer3": {
       "text": "Der rechtweisende Kurs berichtigt mit der Beschickung für Wind und Strom.",
       "correct": true
     },
-    "answer3": {
-      "text": "Der Magnetkompasskurs berichtigt mit der Beschickung für Wind und der Beschickung",
-      "correct": false
-    },
     "answer4": {
-      "text": "Strom.",
+      "text": "Der Magnetkompasskurs berichtigt mit der Beschickung für Wind und der Beschickung für Strom.",
       "correct": false
     },
     "metadata": {
@@ -10752,18 +10752,18 @@
     }
   },
   {
-    "question": "Was ist der Unterschied zwischen Besteckversetzung und Strom? o a Das ist praktisch dasselbe.",
+    "question": "Was ist der Unterschied zwischen Besteckversetzung und Strom?",
     "answer1": {
+      "text": "Das ist praktisch dasselbe.",
+      "correct": false
+    },
+    "answer2": {
       "text": "Strom wird bezogen auf eine Stunde, Besteckversetzung auf einen beliebigen Zeitraum.",
       "correct": true
     },
-    "answer2": {
-      "text": "Besteckversetzung ist eine Distanz in einer bestimmten Richtung, Strom ist eine",
-      "correct": true
-    },
     "answer3": {
-      "text": "gung mit Richtung und Geschwindigkeit.",
-      "correct": false
+      "text": "Besteckversetzung ist eine Distanz in einer bestimmten Richtung, Strom ist eine Bewegung mit Richtung und Geschwindigkeit.",
+      "correct": true
     },
     "answer4": {
       "text": "Der Strom ist das Ergebnis einer Besteckversetzung.",
@@ -10896,21 +10896,21 @@
     }
   },
   {
-    "question": "Was ist das Funktionsprinzip eines Impulsradars? o a Ausgestrahlte Ultraschallsignale werden von einem Ziel reflektiert, die Echos von der Antenne empfangen und am Radarschirm dargestellt. x b Von einer Antenne ausgesendete Funkimpulse werden von einem Ziel reflektiert, die Echos von der Antenne empfangen und am Radarschirm dargestellt.",
+    "question": "Was ist das Funktionsprinzip eines Impulsradars?",
     "answer1": {
-      "text": "Aus der Laufzeit elektromagnetischer Impulse wird die Entfernung zu einem Ziel",
-      "correct": true
+      "text": "Ausgestrahlte Ultraschallsignale werden von einem Ziel reflektiert, die Echos von der Antenne empfangen und am Radarschirm dargestellt.",
+      "correct": false
     },
     "answer2": {
-      "text": "immt.",
-      "correct": false
+      "text": "Von einer Antenne ausgesendete Funkimpulse werden von einem Ziel reflektiert, die Echos von der Antenne empfangen und am Radarschirm dargestellt.",
+      "correct": true
     },
     "answer3": {
-      "text": "Die Erkennung eines Ziels beruht auf dem Frequenzunterschied zwischen dem",
-      "correct": false
+      "text": "Aus der Laufzeit elektromagnetischer Impulse wird die Entfernung zu einem Ziel bestimmt.",
+      "correct": true
     },
     "answer4": {
-      "text": "esendeten Signal und dem reflektierten Echo.",
+      "text": "Die Erkennung eines Ziels beruht auf dem Frequenzunterschied zwischen dem ausgesendeten Signal und dem reflektierten Echo.",
       "correct": false
     },
     "metadata": {
@@ -10944,10 +10944,10 @@
     }
   },
   {
-    "question": "Worauf beruht die Distanzmessung beim Impulsradar? x a Auf der Ausbreitungsgeschwindigkeit elektromagnetischer Wellen und der Zeit, die",
+    "question": "Worauf beruht die Distanzmessung beim Impulsradar?",
     "answer1": {
-      "text": "chen Aussendung des Impulses und Empfang des Echos vergeht.",
-      "correct": false
+      "text": "Auf der Ausbreitungsgeschwindigkeit elektromagnetischer Wellen und der Zeit, die zwischen Aussendung des Impulses und Empfang des Echos vergeht.",
+      "correct": true
     },
     "answer2": {
       "text": "Auf der Messung der Geschwindigkeit eines reflektierten Signals.",
@@ -10968,14 +10968,14 @@
     }
   },
   {
-    "question": "Was ist die horizontale Auflösung einer Radaranlage? o a Der horizontale Öffnungswinkel der Radarantenne",
+    "question": "Was ist die horizontale Auflösung einer Radaranlage?",
     "answer1": {
-      "text": "Die Fähigkeit einer Radaranlage, nebeneinander liegende Ziele getrennt darstellen zu",
-      "correct": true
+      "text": "Der horizontale Öffnungswinkel der Radarantenne",
+      "correct": false
     },
     "answer2": {
-      "text": "en.",
-      "correct": false
+      "text": "Die Fähigkeit einer Radaranlage, nebeneinander liegende Ziele getrennt darstellen zu können.",
+      "correct": true
     },
     "answer3": {
       "text": "Der horizontale Bereich, in dem eine Radaranlage aussendet bzw. empfängt.",
@@ -11376,18 +11376,18 @@
     }
   },
   {
-    "question": "Was sind Radarantwortbaken (RACON)? o a Schwimmende Radareinrichtungen einer Radarleitkette zur Orientierung der Großschifffahrt",
+    "question": "Was sind Radarantwortbaken (RACON)?",
     "answer1": {
-      "text": "Radarstationen zur Kalibrierung des Schiffsradars",
+      "text": "Schwimmende Radareinrichtungen einer Radarleitkette zur Orientierung der Großschifffahrt",
       "correct": false
     },
     "answer2": {
-      "text": "Seezeichen, die bei Empfang eines Schiffsradars eigene Impulsgruppen aussenden, die",
-      "correct": true
+      "text": "Radarstationen zur Kalibrierung des Schiffsradars",
+      "correct": false
     },
     "answer3": {
-      "text": "adarmonitor als Morsecode eines Buchstabens dargestellt werden.",
-      "correct": false
+      "text": "Seezeichen, die bei Empfang eines Schiffsradars eigene Impulsgruppen aussenden, die am Radarmonitor als Morsecode eines Buchstabens dargestellt werden.",
+      "correct": true
     },
     "answer4": {
       "text": "Radareinrichtung für die Deviationskontrolle",
@@ -11400,21 +11400,21 @@
     }
   },
   {
-    "question": "Wie ist die Genauigkeit von Radarbeobachtungen zu bewerten? o a Peilungen sind üblicherweise genauer als Abstandsmessungen.",
+    "question": "Wie ist die Genauigkeit von Radarbeobachtungen zu bewerten?",
     "answer1": {
-      "text": "Peilungen und Distanzmessungen haben üblicherweise dieselbe Genauigkeit.",
+      "text": "Peilungen sind üblicherweise genauer als Abstandsmessungen.",
       "correct": false
     },
     "answer2": {
+      "text": "Peilungen und Distanzmessungen haben üblicherweise dieselbe Genauigkeit.",
+      "correct": false
+    },
+    "answer3": {
       "text": "Distanzmessungen sind üblicherweise genauer als Peilungen.",
       "correct": true
     },
-    "answer3": {
-      "text": "Die Genauigkeit hängt nur von der Qualität der Radaranlage ab, nicht von der Art der",
-      "correct": false
-    },
     "answer4": {
-      "text": "ung.",
+      "text": "Die Genauigkeit hängt nur von der Qualität der Radaranlage ab, nicht von der Art der Messung.",
       "correct": false
     },
     "metadata": {
@@ -11472,17 +11472,17 @@
     }
   },
   {
-    "question": "Was sind Hinweise auf einen möglichen Kollisionskurs? o a Der Winkel zwischen Kurs des Beobachters und Kurs des Kollisionsgegners wird kleiner.",
+    "question": "Was sind Hinweise auf einen möglichen Kollisionskurs?",
     "answer1": {
+      "text": "Der Winkel zwischen Kurs des Beobachters und Kurs des Kollisionsgegners wird kleiner.",
+      "correct": false
+    },
+    "answer2": {
       "text": "Die Richtung zum Kollisionsgegner bleibt gleich.",
       "correct": true
     },
-    "answer2": {
-      "text": "Die Vorausrichtung des Beobachters und Vorausrichtung des Kollisionsgegners kreuzen",
-      "correct": false
-    },
     "answer3": {
-      "text": ".",
+      "text": "Die Vorausrichtung des Beobachters und Vorausrichtung des Kollisionsgegners kreuzen sich.",
       "correct": false
     },
     "answer4": {
@@ -11544,17 +11544,17 @@
     }
   },
   {
-    "question": "Wann kann die vom GPS angezeigte Position direkt in die Seekarte eingetragen werden? o a Nie, sie muss immer umgerechnet werden. x b Nur dann, wenn im Setup das mit der Karte übereinstimmende Bezugssystem eingestellt",
+    "question": "Wann kann die vom GPS angezeigte Position direkt in die Seekarte eingetragen werden?",
     "answer1": {
-      "text": "",
+      "text": "Nie, sie muss immer umgerechnet werden.",
       "correct": false
     },
     "answer2": {
-      "text": "Immer, da der GPS-Empfänger das Bezugssystem aufgrund der aktuellen Position richtig",
-      "correct": false
+      "text": "Nur dann, wenn im Setup das mit der Karte übereinstimmende Bezugssystem eingestellt ist.",
+      "correct": true
     },
     "answer3": {
-      "text": "tellt.",
+      "text": "Immer, da der GPS-Empfänger das Bezugssystem aufgrund der aktuellen Position richtig darstellt.",
       "correct": false
     },
     "answer4": {
@@ -11760,14 +11760,14 @@
     }
   },
   {
-    "question": "Was ist der XTE am GPS-Empfänger? o a Ein Wert für die Ungenauigkeit der aktuellen GPS-Position",
+    "question": "Was ist der XTE am GPS-Empfänger?",
     "answer1": {
-      "text": "Der momentane Abstand von der Sollkurslinie, die zum Zeitpunkt der Zieleingabe",
-      "correct": true
+      "text": "Ein Wert für die Ungenauigkeit der aktuellen GPS-Position",
+      "correct": false
     },
     "answer2": {
-      "text": "chnet wurde",
-      "correct": false
+      "text": "Der momentane Abstand von der Sollkurslinie, die zum Zeitpunkt der Zieleingabe errechnet wurde",
+      "correct": true
     },
     "answer3": {
       "text": "Die Entfernung vom Ziel",
@@ -11808,10 +11808,10 @@
     }
   },
   {
-    "question": "Am GPS-Empfänger ist ein Wegpunkt aktiviert. Welche Informationen werden angezeigt? x a Der seitliche Abstand vom Sollkurs zum Wegpunkt, der zum Zeitpunkt der Zieleingabe",
+    "question": "Am GPS-Empfänger ist ein Wegpunkt aktiviert. Welche Informationen werden angezeigt?",
     "answer1": {
-      "text": "chnet wurde.",
-      "correct": false
+      "text": "Der seitliche Abstand vom Sollkurs zum Wegpunkt, der zum Zeitpunkt der Zieleingabe errechnet wurde.",
+      "correct": true
     },
     "answer2": {
       "text": "Die Distanz zum Wegpunkt",
@@ -11856,18 +11856,18 @@
     }
   },
   {
-    "question": "Was zeichnet das Word Geodetic System WGS 84 aus? o a WGS 84 ist das geodätische Modell des GPS.",
+    "question": "Was zeichnet das Word Geodetic System WGS 84 aus?",
     "answer1": {
-      "text": "WGS 84 ist das europäische geodätische Modell.",
+      "text": "WGS 84 ist das geodätische Modell des GPS.",
       "correct": false
     },
     "answer2": {
-      "text": "WGS 84 ist ein geodätisches Modell, das auf die gesamte Erde bezogen im Durchschnitt",
-      "correct": true
+      "text": "WGS 84 ist das europäische geodätische Modell.",
+      "correct": false
     },
     "answer3": {
-      "text": "t genaue Positionen liefert.",
-      "correct": false
+      "text": "WGS 84 ist ein geodätisches Modell, das auf die gesamte Erde bezogen im Durchschnitt recht genaue Positionen liefert.",
+      "correct": true
     },
     "answer4": {
       "text": "WGS 84 ist ein Seekartenstandard für die Berufsschifffahrt.",
@@ -11880,13 +11880,13 @@
     }
   },
   {
-    "question": "Was sind Rasterkarten? o a Seekarten mit einem Raster zur Positionsbestimmung",
+    "question": "Was sind Rasterkarten?",
     "answer1": {
-      "text": "Elektronische Seekarten in denen die Informationen nach einem festgelegten Raster",
+      "text": "Seekarten mit einem Raster zur Positionsbestimmung",
       "correct": false
     },
     "answer2": {
-      "text": "estellt werden",
+      "text": "Elektronische Seekarten in denen die Informationen nach einem festgelegten Raster dargestellt werden",
       "correct": false
     },
     "answer3": {
@@ -11904,14 +11904,14 @@
     }
   },
   {
-    "question": "Was sind Vektorkarten? o a Elektronische Seekarten mit einem von der IMO definierten Standard",
+    "question": "Was sind Vektorkarten?",
     "answer1": {
-      "text": "Elektronische Seekarten, deren einzelne Elemente Datensätze mit Eigenschaften und",
-      "correct": true
+      "text": "Elektronische Seekarten mit einem von der IMO definierten Standard",
+      "correct": false
     },
     "answer2": {
-      "text": "rmationen sind",
-      "correct": false
+      "text": "Elektronische Seekarten, deren einzelne Elemente Datensätze mit Eigenschaften und Informationen sind",
+      "correct": true
     },
     "answer3": {
       "text": "Alle elektronische Seekarten sind Vektorkarten, Rasterkarten sind Papier-Seekarten.",
@@ -12216,14 +12216,14 @@
     }
   },
   {
-    "question": "Was ist die Springverspätung? x a Die Zeitverzögerung zwischen einer entsprechenden Gestirnskonstellation und dem Eintreten der Auswirkungen auf die Gezeitenhöhen an einem Ort.",
+    "question": "Was ist die Springverspätung?",
     "answer1": {
-      "text": "Der Zeitverzögerung von Spring- und Nippzeit gegenüber den entsprechenden",
+      "text": "Die Zeitverzögerung zwischen einer entsprechenden Gestirnskonstellation und dem Eintreten der Auswirkungen auf die Gezeitenhöhen an einem Ort.",
       "correct": true
     },
     "answer2": {
-      "text": "phasen.",
-      "correct": false
+      "text": "Der Zeitverzögerung von Spring- und Nippzeit gegenüber den entsprechenden Mondphasen.",
+      "correct": true
     },
     "answer3": {
       "text": "Der Zeitunterschied des Auftretens des Hochwassers an verschiedenen Orten.",
@@ -12240,13 +12240,13 @@
     }
   },
   {
-    "question": "Was wird als Tidenkurve bezeichnet? o a Die grafische Darstellung des Gezeitenverlaufs an einem Ort über einen längeren",
+    "question": "Was wird als Tidenkurve bezeichnet?",
     "answer1": {
-      "text": "Die grafische Darstellung des Gezeitenverlaufs an einem Bezugsort über einen längeren",
+      "text": "Die grafische Darstellung des Gezeitenverlaufs an einem Ort über einen längeren",
       "correct": false
     },
     "answer2": {
-      "text": "raum",
+      "text": "Die grafische Darstellung des Gezeitenverlaufs an einem Bezugsort über einen längeren Zeitraum",
       "correct": false
     },
     "answer3": {
@@ -12336,14 +12336,14 @@
     }
   },
   {
-    "question": "Was wird als Tidenstieg bezeichnet? o a Die Zeitdauer vom Niedrigwasser zum folgenden Hochwasser",
+    "question": "Was wird als Tidenstieg bezeichnet?",
     "answer1": {
-      "text": "Der Höhenunterschied zwischen einem Niedrigwasser und dem darauffolgenden",
-      "correct": true
+      "text": "Die Zeitdauer vom Niedrigwasser zum folgenden Hochwasser",
+      "correct": false
     },
     "answer2": {
-      "text": "wasser",
-      "correct": false
+      "text": "Der Höhenunterschied zwischen einem Niedrigwasser und dem darauffolgenden Hochwasser",
+      "correct": true
     },
     "answer3": {
       "text": "Das Ansteigen der Hochwasserhöhen während eines Mondmonats",
@@ -13056,18 +13056,18 @@
     }
   },
   {
-    "question": "Was wird bei einem Leuchtfeuer als Wiederkehr bezeichnet? o a Die Häufigkeit mit der eine Lichterscheinung wiederkehrt.",
+    "question": "Was wird bei einem Leuchtfeuer als Wiederkehr bezeichnet?",
     "answer1": {
-      "text": "Die Anzahl der gleichen Lichterscheinungen in einer Gruppe",
+      "text": "Die Häufigkeit mit der eine Lichterscheinung wiederkehrt.",
       "correct": false
     },
     "answer2": {
-      "text": "Die Zeitdauer vom Beginn einer Lichterscheinung bis zum Beginn des nächsten",
-      "correct": true
+      "text": "Die Anzahl der gleichen Lichterscheinungen in einer Gruppe",
+      "correct": false
     },
     "answer3": {
-      "text": "retens derselben Lichterscheinung",
-      "correct": false
+      "text": "Die Zeitdauer vom Beginn einer Lichterscheinung bis zum Beginn des nächsten Auftretens derselben Lichterscheinung",
+      "correct": true
     },
     "answer4": {
       "text": "Die Zeit zwischen zwei Lichterscheinungen",
@@ -13752,17 +13752,17 @@
     }
   },
   {
-    "question": "Was ist die Tragweite eines Leuchtfeuers? x a Der Abstand, in dem ein Leuchtfeuer bei entsprechender Sicht jedenfalls noch wahrnehmbar ist. o b Der Abstand, in dem ein Leuchtfeuer bei einem bestimmten Sichtwert (0,74) gerade",
+    "question": "Was ist die Tragweite eines Leuchtfeuers?",
     "answer1": {
-      "text": " wahrnehmbar ist.",
-      "correct": false
+      "text": "Der Abstand, in dem ein Leuchtfeuer bei entsprechender Sicht jedenfalls noch wahrnehmbar ist.",
+      "correct": true
     },
     "answer2": {
-      "text": "Der Abstand, in dem ein Leuchtfeuer bei einer bestimmten Augeshöhe gerade noch",
+      "text": "Der Abstand, in dem ein Leuchtfeuer bei einem bestimmten Sichtwert (0,74) gerade noch wahrnehmbar ist.",
       "correct": false
     },
     "answer3": {
-      "text": "nehmbar ist.",
+      "text": "Der Abstand, in dem ein Leuchtfeuer bei einer bestimmten Augeshöhe gerade noch wahrnehmbar ist.",
       "correct": false
     },
     "answer4": {
@@ -13800,17 +13800,17 @@
     }
   },
   {
-    "question": "Was ist die Nenntragweite eines Leuchtfeuers? o a Der Abstand, in dem ein Leuchtfeuer gerade noch wahrnehmbar ist. x b Der Abstand, in dem ein Leuchtfeuer bei einem bestimmten Sichtwert (0,74) einen eben",
+    "question": "Was ist die Nenntragweite eines Leuchtfeuers?",
     "answer1": {
-      "text": " deutlichen Lichteindruck hervorruft.",
+      "text": "Der Abstand, in dem ein Leuchtfeuer gerade noch wahrnehmbar ist.",
       "correct": false
     },
     "answer2": {
-      "text": "Der Abstand, in dem ein Leuchtfeuer bei einer bestimmten Augeshöhe gerade noch",
-      "correct": false
+      "text": "Der Abstand, in dem ein Leuchtfeuer bei einem bestimmten Sichtwert (0,74) einen eben noch deutlichen Lichteindruck hervorruft.",
+      "correct": true
     },
     "answer3": {
-      "text": "nehmbar ist.",
+      "text": "Der Abstand, in dem ein Leuchtfeuer bei einer bestimmten Augeshöhe gerade noch wahrnehmbar ist.",
       "correct": false
     },
     "answer4": {
@@ -13824,13 +13824,13 @@
     }
   },
   {
-    "question": "Was ist die Sichtweite eines Leuchtfeuers? o a Der Abstand, in dem ein Leuchtfeuer gerade noch wahrnehmbar ist",
+    "question": "Was ist die Sichtweite eines Leuchtfeuers?",
     "answer1": {
-      "text": "Der Abstand, in dem ein Leuchtfeuer bei einem bestimmten Sichtwert (0,74) gerade",
+      "text": "Der Abstand, in dem ein Leuchtfeuer gerade noch wahrnehmbar ist",
       "correct": false
     },
     "answer2": {
-      "text": " wahrnehmbar ist",
+      "text": "Der Abstand, in dem ein Leuchtfeuer bei einem bestimmten Sichtwert (0,74) gerade noch wahrnehmbar ist",
       "correct": false
     },
     "answer3": {
@@ -13944,22 +13944,22 @@
     }
   },
   {
-    "question": "Wo sind die Kollisionsverhütungsregeln (KVR) gültig? o a Die KVR gelten ausschließlich auf hoher See.",
+    "question": "Wo sind die Kollisionsverhütungsregeln (KVR) gültig?",
     "answer1": {
-      "text": "Die KVR gelten ausschließlich in Küstennähe.",
+      "text": "Die KVR gelten ausschließlich auf hoher See.",
       "correct": false
     },
     "answer2": {
-      "text": "Die KVR gelten ausschließlich außerhalb der Hoheitsgebiete der Küstenstaaten.",
+      "text": "Die KVR gelten ausschließlich in Küstennähe.",
       "correct": false
     },
     "answer3": {
-      "text": "Die KVR gelten auf Hoher See und auf den zusammenhängenden, von Seeschiffen",
-      "correct": true
+      "text": "Die KVR gelten ausschließlich außerhalb der Hoheitsgebiete der Küstenstaaten.",
+      "correct": false
     },
     "answer4": {
-      "text": "hrbaren Gewässern.",
-      "correct": false
+      "text": "Die KVR gelten auf Hoher See und auf den zusammenhängenden, von Seeschiffen befahrbaren Gewässern.",
+      "correct": true
     },
     "metadata": {
       "category": "Rechtskunde",
@@ -14088,14 +14088,14 @@
     }
   },
   {
-    "question": "Welche Fahrzeuge gelten lt. KVR als manövrierbehindert? o a Fahrzeuge, die durch einen Schaden an der Ruderanlage nicht ausweichen können",
+    "question": "Welche Fahrzeuge gelten lt. KVR als manövrierbehindert?",
     "answer1": {
-      "text": "Fahrzeuge, die durch die Art ihres Einsatzes einem anderen Fahrzeug nicht ausweichen",
-      "correct": true
+      "text": "Fahrzeuge, die durch einen Schaden an der Ruderanlage nicht ausweichen können",
+      "correct": false
     },
     "answer2": {
-      "text": "en",
-      "correct": false
+      "text": "Fahrzeuge, die durch die Art ihres Einsatzes einem anderen Fahrzeug nicht ausweichen können",
+      "correct": true
     },
     "answer3": {
       "text": "Fahrzeuge, die die entsprechenden Lichter und Signalkörper führen",
@@ -14112,13 +14112,13 @@
     }
   },
   {
-    "question": "Welche Fahrzeuge gelten lt. KVR als manövrierunfähig? x a Fahrzeuge, die wegen außergewöhnlicher Umstände (z. B. Defekt) nicht ausweichen können",
+    "question": "Welche Fahrzeuge gelten lt. KVR als manövrierunfähig?",
     "answer1": {
-      "text": "Fahrzeuge, die durch die Art ihres Einsatzes einem anderen Fahrzeug nicht ausweichen",
-      "correct": false
+      "text": "Fahrzeuge, die wegen außergewöhnlicher Umstände (z. B. Defekt) nicht ausweichen können",
+      "correct": true
     },
     "answer2": {
-      "text": "en",
+      "text": "Fahrzeuge, die durch die Art ihres Einsatzes einem anderen Fahrzeug nicht ausweichen können",
       "correct": false
     },
     "answer3": {
@@ -14160,10 +14160,10 @@
     }
   },
   {
-    "question": "Was bedeutet der Begriff „in Fahrt“ nach KVR? x a Dass ein Fahrzeug weder vor Anker liegt, noch an Land festgemacht ist, noch auf Grund",
+    "question": "Was bedeutet der Begriff „in Fahrt“ nach KVR?",
     "answer1": {
-      "text": "t",
-      "correct": false
+      "text": "Dass ein Fahrzeug weder vor Anker liegt, noch an Land festgemacht ist, noch auf Grund sitzt",
+      "correct": true
     },
     "answer2": {
       "text": "Dass sich ein Fahrzeug durch Maschinenantrieb vorwärtsbewegt",
@@ -14280,21 +14280,21 @@
     }
   },
   {
-    "question": "Was ist ein Verkehrstrennungsgebiet? x a Ein Schifffahrtsweg, der durch eine Trennlinie oder -zone in Einbahnwege geteilt ist",
+    "question": "Was ist ein Verkehrstrennungsgebiet?",
     "answer1": {
+      "text": "Ein Schifffahrtsweg, der durch eine Trennlinie oder -zone in Einbahnwege geteilt ist",
+      "correct": true
+    },
+    "answer2": {
       "text": "Ein Zone, die die Berufsschifffahrt von der Freizeitschifffahrt trennt",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Ein Schiffahrtsweg, der nur in einer Richtung befahren werden darf",
       "correct": false
     },
-    "answer3": {
-      "text": "Ein Schiffahrtsweg, der befahren werden muss, außerhalb des",
-      "correct": false
-    },
     "answer4": {
-      "text": "ehrstrennungsgebietes darf nicht navigiert werden",
+      "text": "Ein Schiffahrtsweg, der befahren werden muss, außerhalb des Verkehrstrennungsgebietes darf nicht navigiert werden",
       "correct": false
     },
     "metadata": {
@@ -14304,21 +14304,21 @@
     }
   },
   {
-    "question": "Welche Regeln gelten u.a. für Fahrzeuge im Bereich eines Verkehrstrennungsgebietes? x a Ein Fahrzeug soll so weit wie möglich das Queren von Einbahnwegen vermeiden. x b Ein Fahrzeug von weniger als 20 Meter Länge oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeugs auf dem Einbahnweg nicht behindern.",
+    "question": "Welche Regeln gelten u.a. für Fahrzeuge im Bereich eines Verkehrstrennungsgebietes?",
     "answer1": {
-      "text": "Fahrzeuge von weniger als 20 Meter Länge, Segelfahrzeuge und fischende Fahrzeuge",
-      "correct": false
+      "text": "Ein Fahrzeug soll so weit wie möglich das Queren von Einbahnwegen vermeiden.",
+      "correct": true
     },
     "answer2": {
-      "text": "en ein Verkehrstrennungsgebiet nicht befahren.",
-      "correct": false
+      "text": "Ein Fahrzeug von weniger als 20 Meter Länge oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeugs auf dem Einbahnweg nicht behindern.",
+      "correct": true
     },
     "answer3": {
-      "text": "Maschinenfahrzeuge brauchen nicht auszuweichen, weil Sportboote immer",
+      "text": "Fahrzeuge von weniger als 20 Meter Länge, Segelfahrzeuge und fischende Fahrzeuge dürfen ein Verkehrstrennungsgebiet nicht befahren.",
       "correct": false
     },
     "answer4": {
-      "text": "eichpflichtig sind.",
+      "text": "Maschinenfahrzeuge brauchen nicht auszuweichen, weil Sportboote immer ausweichpflichtig sind.",
       "correct": false
     },
     "metadata": {
@@ -14376,21 +14376,21 @@
     }
   },
   {
-    "question": "Wie müssen Maschinenfahrzeuge auf entgegengesetzten Kursen ausweichen? x a Beide Fahrzeuge ändern ihren Kurs nach Stb. o b Beide Fahrzeuge ändern ihren Kurs nach Bb.",
+    "question": "Wie müssen Maschinenfahrzeuge auf entgegengesetzten Kursen ausweichen?",
     "answer1": {
-      "text": "Nachdem das erste Fahrzeug seinen Kurs geändert hat, weicht das zweite Fahrzeug auf",
-      "correct": false
+      "text": "Beide Fahrzeuge ändern ihren Kurs nach Stb.",
+      "correct": true
     },
     "answer2": {
-      "text": "andere Seite aus.",
+      "text": "Beide Fahrzeuge ändern ihren Kurs nach Bb.",
       "correct": false
     },
     "answer3": {
-      "text": "Wenn der Ausweichpflichtige seinen Kurs geändert hat, kann das andere Fahrzeug seinen",
+      "text": "Nachdem das erste Fahrzeug seinen Kurs geändert hat, weicht das zweite Fahrzeug auf die andere Seite aus.",
       "correct": false
     },
     "answer4": {
-      "text": " beibehalten.",
+      "text": "Wenn der Ausweichpflichtige seinen Kurs geändert hat, kann das andere Fahrzeug seinen Kurs beibehalten.",
       "correct": false
     },
     "metadata": {
@@ -14400,21 +14400,21 @@
     }
   },
   {
-    "question": "Wie müssen Maschinenfahrzeuge auf kreuzenden Kursen ausweichen? o a Das Fahrzeug, welches das andere Fahrzeug an Backbord hat, muss nach Steuerbord ausweichen. x b Das Fahrzeug, welches das andere Fahrzeug an Steuerbord hat, muss so ausweichen, dass der Bug des anderen möglichst nicht gekreuzt wird.",
+    "question": "Wie müssen Maschinenfahrzeuge auf kreuzenden Kursen ausweichen?",
     "answer1": {
-      "text": "Das Fahrzeug, welches das andere Fahrzeug an Backbord hat, muss nach Backbord",
+      "text": "Das Fahrzeug, welches das andere Fahrzeug an Backbord hat, muss nach Steuerbord ausweichen.",
       "correct": false
     },
     "answer2": {
-      "text": "eichen.",
-      "correct": false
+      "text": "Das Fahrzeug, welches das andere Fahrzeug an Steuerbord hat, muss so ausweichen, dass der Bug des anderen möglichst nicht gekreuzt wird.",
+      "correct": true
     },
     "answer3": {
-      "text": "Das Fahrzeug, welches das andere Fahrzeug an Steuerbord hat, muss nach Backbord",
+      "text": "Das Fahrzeug, welches das andere Fahrzeug an Backbord hat, muss nach Backbord ausweichen.",
       "correct": false
     },
     "answer4": {
-      "text": "eichen.",
+      "text": "Das Fahrzeug, welches das andere Fahrzeug an Steuerbord hat, muss nach Backbord ausweichen.",
       "correct": false
     },
     "metadata": {
@@ -14424,21 +14424,21 @@
     }
   },
   {
-    "question": "Wie weichen zwei Segelfahrzeuge einander aus? o a Haben die beiden Fahrzeuge den Wind nicht von der gleichen Seite, muss das Fahrzeug mit Wind von Steuerbord ausweichen. x b Haben die beiden Fahrzeuge den Wind nicht von der gleichen Seite, muss das Fahrzeug mit Wind von Backbord ausweichen.",
+    "question": "Wie weichen zwei Segelfahrzeuge einander aus?",
     "answer1": {
-      "text": "Haben die beiden Fahrzeuge den Wind von der gleichen Seite, muss das luvseitige",
-      "correct": true
+      "text": "Haben die beiden Fahrzeuge den Wind nicht von der gleichen Seite, muss das Fahrzeug mit Wind von Steuerbord ausweichen.",
+      "correct": false
     },
     "answer2": {
-      "text": "zeug ausweichen.",
-      "correct": false
+      "text": "Haben die beiden Fahrzeuge den Wind nicht von der gleichen Seite, muss das Fahrzeug mit Wind von Backbord ausweichen.",
+      "correct": true
     },
     "answer3": {
-      "text": "Haben die beiden Fahrzeuge den Wind von der gleichen Seite, muss das leeseitige",
-      "correct": false
+      "text": "Haben die beiden Fahrzeuge den Wind von der gleichen Seite, muss das luvseitige Fahrzeug ausweichen.",
+      "correct": true
     },
     "answer4": {
-      "text": "zeug ausweichen.",
+      "text": "Haben die beiden Fahrzeuge den Wind von der gleichen Seite, muss das leeseitige Fahrzeug ausweichen.",
       "correct": false
     },
     "metadata": {
@@ -14448,18 +14448,18 @@
     }
   },
   {
-    "question": "Wie ist das Ausweichen zwischen einem Segelfahrzeug und einem Fahrzeug, welches auf das Fahrwasser angewiesen ist, geregelt? o a Das Segelfahrzeug behält seinen Kurs bei, es hat immer Wegerecht gegenüber einem Maschinenfahrzeug. o b Das Segelfahrzeug behält seinen Kurs bei, es muss nur besonderen Maschinenfahrzeugen",
+    "question": "Wie ist das Ausweichen zwischen einem Segelfahrzeug und einem Fahrzeug, welches auf das Fahrwasser angewiesen ist, geregelt?",
     "answer1": {
-      "text": ". manövrierunfähigen Fahrzeugen) ausweichen.",
+      "text": "Das Segelfahrzeug behält seinen Kurs bei, es hat immer Wegerecht gegenüber einem Maschinenfahrzeug.",
       "correct": false
     },
     "answer2": {
-      "text": "Das Segelfahrzeug weicht aus, es darf die Durchfahrt eines Fahrzeuges, welches auf das",
-      "correct": true
+      "text": "Das Segelfahrzeug behält seinen Kurs bei, es muss nur besonderen Maschinenfahrzeugen (z.B. manövrierunfähigen Fahrzeugen) ausweichen.",
+      "correct": false
     },
     "answer3": {
-      "text": "wassers angewiesen ist, nicht behindern.",
-      "correct": false
+      "text": "Das Segelfahrzeug weicht aus, es darf die Durchfahrt eines Fahrzeuges, welches auf das Fahrwassers angewiesen ist, nicht behindern.",
+      "correct": true
     },
     "answer4": {
       "text": "Ein Segelfahrzeug darf ein enges Fahrwasser nicht befahren.",
@@ -14472,21 +14472,21 @@
     }
   },
   {
-    "question": "Wie ist das Ausweichen zwischen Segelfahrzeug und Maschinenfahrzeug geregelt? o a Das Segelfahrzeug behält seinen Kurs nur dann bei, wenn es den Wind von Backbord hat. o b Das Segelfahrzeug behält seinen Kurs nur dann bei, wenn es den Wind von Steuerbord hat.",
+    "question": "Wie ist das Ausweichen zwischen Segelfahrzeug und Maschinenfahrzeug geregelt?",
     "answer1": {
-      "text": "Das Segelfahrzeug behält Kurs und Geschwindigkeit bei, da es gegenüber einem",
-      "correct": true
+      "text": "Das Segelfahrzeug behält seinen Kurs nur dann bei, wenn es den Wind von Backbord hat.",
+      "correct": false
     },
     "answer2": {
-      "text": "hinenfahrzeug kurshaltepflichtig ist.",
+      "text": "Das Segelfahrzeug behält seinen Kurs nur dann bei, wenn es den Wind von Steuerbord hat.",
       "correct": false
     },
     "answer3": {
-      "text": "Das Segelfahrzeug ändert seinen Kurs, wenn es sich um ein Maschinenfahrzeug der",
-      "correct": false
+      "text": "Das Segelfahrzeug behält Kurs und Geschwindigkeit bei, da es gegenüber einem Maschinenfahrzeug kurshaltepflichtig ist.",
+      "correct": true
     },
     "answer4": {
-      "text": "fsschifffahrt handelt.",
+      "text": "Das Segelfahrzeug ändert seinen Kurs, wenn es sich um ein Maschinenfahrzeug der Berufsschifffahrt handelt.",
       "correct": false
     },
     "metadata": {
@@ -14496,9 +14496,9 @@
     }
   },
   {
-    "question": "Welches Fahrzeug ist kurshaltepflichtig, wenn eine Segelfahrzeug ein Maschinenfahrzeug überholt? o a Das Segelfahrzeug, weil Segelfahrzeuge immer Wegerecht vor Maschinenfahrzeugen",
+    "question": "Welches Fahrzeug ist kurshaltepflichtig, wenn eine Segelfahrzeug ein Maschinenfahrzeug überholt?",
     "answer1": {
-      "text": "n.",
+      "text": "Das Segelfahrzeug, weil Segelfahrzeuge immer Wegerecht vor Maschinenfahrzeugen haben.",
       "correct": false
     },
     "answer2": {
@@ -14544,22 +14544,22 @@
     }
   },
   {
-    "question": "Was ist lt. KVR unter „Fahren mit sicherer Geschwindigkeit“ zu verstehen? o a Ein Fahrzeug muss unter 3 kn fahren. o b Ein Fahrzeug muss auf halber Sichtweite zum Stehen gebracht werden können.",
+    "question": "Was ist lt. KVR unter „Fahren mit sicherer Geschwindigkeit“ zu verstehen?",
     "answer1": {
-      "text": "Die Geschwindigkeit eines Fahrzeugs darf max. 5 kn betragen, außer das Fahrzeug ist",
+      "text": "Ein Fahrzeug muss unter 3 kn fahren.",
       "correct": false
     },
     "answer2": {
-      "text": "einer betriebsfähigen Radaranlage ausgerüstet.",
+      "text": "Ein Fahrzeug muss auf halber Sichtweite zum Stehen gebracht werden können.",
       "correct": false
     },
     "answer3": {
-      "text": "Ein Fahrzeug muss jederzeit Manöver zur Verhinderung eines Zusammenstoßes",
-      "correct": true
+      "text": "Die Geschwindigkeit eines Fahrzeugs darf max. 5 kn betragen, außer das Fahrzeug ist mit einer betriebsfähigen Radaranlage ausgerüstet.",
+      "correct": false
     },
     "answer4": {
-      "text": "ühren können.",
-      "correct": false
+      "text": "Ein Fahrzeug muss jederzeit Manöver zur Verhinderung eines Zusammenstoßes ausführen können.",
+      "correct": true
     },
     "metadata": {
       "category": "Rechtskunde",
@@ -14592,22 +14592,22 @@
     }
   },
   {
-    "question": "Unter welchen Umständen muss eine betriebsfähige Radaranlage eingesetzt werden? o a Eine Radaranlage gehört nicht zur Ausrüstungspflicht einer Jacht und muss daher auch nicht verwendet werden.",
+    "question": "Unter welchen Umständen muss eine betriebsfähige Radaranlage eingesetzt werden?",
     "answer1": {
-      "text": "Nur bei Dunkelehiet oder schlechter Sicht.",
+      "text": "Eine Radaranlage gehört nicht zur Ausrüstungspflicht einer Jacht und muss daher auch nicht verwendet werden.",
       "correct": false
     },
     "answer2": {
-      "text": "Eine betriebsfähige Radaranlage muß diese ständig gebraucht werden.",
+      "text": "Nur bei Dunkelehiet oder schlechter Sicht.",
       "correct": false
     },
     "answer3": {
-      "text": "Eine betriebsfähige Radaranlage muss den Umständen und Bedingungen entsprechend",
-      "correct": true
+      "text": "Eine betriebsfähige Radaranlage muß diese ständig gebraucht werden.",
+      "correct": false
     },
     "answer4": {
-      "text": "aucht werden.",
-      "correct": false
+      "text": "Eine betriebsfähige Radaranlage muss den Umständen und Bedingungen entsprechend gebraucht werden.",
+      "correct": true
     },
     "metadata": {
       "category": "Rechtskunde",
@@ -14664,18 +14664,18 @@
     }
   },
   {
-    "question": "Was bedeutet Ausguck halten? o a Nach vorne, in Richtung des Kurses schauen.",
+    "question": "Was bedeutet Ausguck halten?",
     "answer1": {
+      "text": "Nach vorne, in Richtung des Kurses schauen.",
+      "correct": false
+    },
+    "answer2": {
       "text": "Auf einer erhöhten Fläche die Umgebung beobachten.",
       "correct": true
     },
-    "answer2": {
-      "text": "Sich durch Sehen und Hören und andere geeignete Mittel einen vollständigen Überblick",
-      "correct": true
-    },
     "answer3": {
-      "text": " das Verkehrsgeschehen verschaffen",
-      "correct": false
+      "text": "Sich durch Sehen und Hören und andere geeignete Mittel einen vollständigen Überblick über das Verkehrsgeschehen verschaffen",
+      "correct": true
     },
     "answer4": {
       "text": "Auf Hoher See ein mindestens stündlicher Rundblick.",
@@ -14928,21 +14928,21 @@
     }
   },
   {
-    "question": "Wann sind laut KVR Lichter zu zeigen? o a Von Sonnenaufgang bis Sonnenuntergang",
+    "question": "Wann sind laut KVR Lichter zu zeigen?",
     "answer1": {
+      "text": "Von Sonnenaufgang bis Sonnenuntergang",
+      "correct": false
+    },
+    "answer2": {
       "text": "Von Sonnenuntergang bis Sonnenaufgang und bei verminderter Sicht",
       "correct": true
     },
-    "answer2": {
+    "answer3": {
       "text": "Während der Nacht in Küstennähe bei Annäherung eines anderen Schiffs",
       "correct": false
     },
-    "answer3": {
-      "text": "Vom Ende der nautischen Dämmerung nach Sonnenuntergang bis Beginn der",
-      "correct": false
-    },
     "answer4": {
-      "text": "erlichen Dämmerung vor Sonnenaufgang",
+      "text": "Vom Ende der nautischen Dämmerung nach Sonnenuntergang bis Beginn der bürgerlichen Dämmerung vor Sonnenaufgang",
       "correct": false
     },
     "metadata": {
@@ -14976,21 +14976,21 @@
     }
   },
   {
-    "question": "Was ist ein Topplicht nach KVR? x a Ein weißes Licht über der Längsachse des Fahrzeugs, das über einen horizontalen Bogen von 225° scheint. x b Ein weißes Licht über der Längsachse des Fahrzeugs, das von recht voraus bis 22,5° (2 Strich) achterlicher als querab an Backbord und an Steuerbord scheint.",
+    "question": "Was ist ein Topplicht nach KVR?",
     "answer1": {
-      "text": "Ein weißes Licht über der Längsachse des Fahrzeugs, das von recht voraus bis querab an",
-      "correct": false
+      "text": "Ein weißes Licht über der Längsachse des Fahrzeugs, das über einen horizontalen Bogen von 225° scheint.",
+      "correct": true
     },
     "answer2": {
-      "text": "bord und an Steuerbord scheint.",
-      "correct": false
+      "text": "Ein weißes Licht über der Längsachse des Fahrzeugs, das von recht voraus bis 22,5° (2 Strich) achterlicher als querab an Backbord und an Steuerbord scheint.",
+      "correct": true
     },
     "answer3": {
-      "text": "Ein weißes Licht über der Längsachse des Fahrzeugs, das über einen horizontalen Kreis",
+      "text": "Ein weißes Licht über der Längsachse des Fahrzeugs, das von recht voraus bis querab an Backbord und an Steuerbord scheint.",
       "correct": false
     },
     "answer4": {
-      "text": "360° scheint.",
+      "text": "Ein weißes Licht über der Längsachse des Fahrzeugs, das über einen horizontalen Kreis von 360° scheint.",
       "correct": false
     },
     "metadata": {
@@ -15360,22 +15360,22 @@
     }
   },
   {
-    "question": "Eine Segeljacht unter 7 m zeigt eine Dreifarbenlaterne, dann wird die Maschine gestartet. Was ändert sich an der Lichterführung? o a Zusätzlich wird ein Topplicht geführt werden.",
+    "question": "Eine Segeljacht unter 7 m zeigt eine Dreifarbenlaterne, dann wird die Maschine gestartet. Was ändert sich an der Lichterführung?",
     "answer1": {
-      "text": "Dreifarbenlaterne wird ausgeschaltet und ein weißes Rundumlicht vorbereitet.",
+      "text": "Zusätzlich wird ein Topplicht geführt werden.",
       "correct": false
     },
     "answer2": {
-      "text": "Zusätzlich zur Dreifarbenlaterne wird ein weißes Rundumlicht vorbereitet.",
+      "text": "Dreifarbenlaterne wird ausgeschaltet und ein weißes Rundumlicht vorbereitet.",
       "correct": false
     },
     "answer3": {
-      "text": "Dreifarbenlaterne wird ausgeschaltet, Seitenlichter, Hecklicht und Topplicht werden",
-      "correct": true
+      "text": "Zusätzlich zur Dreifarbenlaterne wird ein weißes Rundumlicht vorbereitet.",
+      "correct": false
     },
     "answer4": {
-      "text": "eschaltet.",
-      "correct": false
+      "text": "Dreifarbenlaterne wird ausgeschaltet, Seitenlichter, Hecklicht und Topplicht werden eingeschaltet.",
+      "correct": true
     },
     "metadata": {
       "category": "Rechtskunde",
@@ -15720,17 +15720,17 @@
     }
   },
   {
-    "question": "Gelten die Regelungen der SOLAS auch für Jachten? o a Die Regelungen der SOLAS gelten für alle Schife auf Joher See.",
+    "question": "Gelten die Regelungen der SOLAS auch für Jachten?",
     "answer1": {
-      "text": "Die Regelungen der SOLAS gelten nur für die Berufsschifffahrt.",
+      "text": "Die Regelungen der SOLAS gelten für alle Schife auf Joher See.",
       "correct": false
     },
     "answer2": {
-      "text": "Für österreichische Jachten gelten nur die Bestimmungen der Jachtverordnung, nicht die",
+      "text": "Die Regelungen der SOLAS gelten nur für die Berufsschifffahrt.",
       "correct": false
     },
     "answer3": {
-      "text": "SOLAS.",
+      "text": "Für österreichische Jachten gelten nur die Bestimmungen der Jachtverordnung, nicht die der SOLAS.",
       "correct": false
     },
     "answer4": {
@@ -15744,14 +15744,14 @@
     }
   },
   {
-    "question": "Warum sollte auch eine Jacht unbedingt ein Logbuch führen? o a Weil es lt. JachtVO Pflicht ist ein Logbuch zu führen.",
+    "question": "Warum sollte auch eine Jacht unbedingt ein Logbuch führen?",
     "answer1": {
-      "text": "Um ggf. den Nachweis ordnungsgemäßer Schiffsführung in einem Schadensfall erbringen",
-      "correct": true
+      "text": "Weil es lt. JachtVO Pflicht ist ein Logbuch zu führen.",
+      "correct": false
     },
     "answer2": {
-      "text": "önnen.",
-      "correct": false
+      "text": "Um ggf. den Nachweis ordnungsgemäßer Schiffsführung in einem Schadensfall erbringen zu können.",
+      "correct": true
     },
     "answer3": {
       "text": "Um einen Nachweis der Seemännischen Praxis zu haben.",
@@ -15888,14 +15888,14 @@
     }
   },
   {
-    "question": "Welche Befugnisse hat ein Küstenstaat in der Anschlusszone lt. Seerechtsübereinkommen? o a Sämtliche Hoheitsbefugnisse",
+    "question": "Welche Befugnisse hat ein Küstenstaat in der Anschlusszone lt. Seerechtsübereinkommen?",
     "answer1": {
-      "text": "Die Befugnis zur Kontrollausübung zum Schutz seiner Gesundheits-, Zoll- und",
-      "correct": true
+      "text": "Sämtliche Hoheitsbefugnisse",
+      "correct": false
     },
     "answer2": {
-      "text": "eisevorschriften",
-      "correct": false
+      "text": "Die Befugnis zur Kontrollausübung zum Schutz seiner Gesundheits-, Zoll- und Einreisevorschriften",
+      "correct": true
     },
     "answer3": {
       "text": "Die Ahndung von Verstössen in seinem Küstenmeer",
@@ -15936,13 +15936,13 @@
     }
   },
   {
-    "question": "Welche Befugnisse hat ein Küstenstaat in der Wirtschaftszone lt. Seerechtsübereinkommen? o a Sämtliche Hoheitsbefugnisse",
+    "question": "Welche Befugnisse hat ein Küstenstaat in der Wirtschaftszone lt. Seerechtsübereinkommen?",
     "answer1": {
-      "text": "Die Befugnis zur Kontrollausübung zum Schutz seiner Gesundheits-, Zoll- und",
+      "text": "Sämtliche Hoheitsbefugnisse",
       "correct": false
     },
     "answer2": {
-      "text": "eisevorschriften",
+      "text": "Die Befugnis zur Kontrollausübung zum Schutz seiner Gesundheits-, Zoll- und Einreisevorschriften",
       "correct": false
     },
     "answer3": {
@@ -15960,17 +15960,17 @@
     }
   },
   {
-    "question": "Was wird mit dem Begriff MARPOL bezeichnet? o a Die Marinepolizei",
+    "question": "Was wird mit dem Begriff MARPOL bezeichnet?",
     "answer1": {
-      "text": "Vertrag über die Müllentsorgung auf Hoher See und in Küstennähe.",
+      "text": "Die Marinepolizei",
       "correct": false
     },
     "answer2": {
-      "text": "Internationales Übereinkommen zur Verhütung der Meeresverschmutzung durch die",
+      "text": "Vertrag über die Müllentsorgung auf Hoher See und in Küstennähe.",
       "correct": false
     },
     "answer3": {
-      "text": "fsschifffahrt",
+      "text": "Internationales Übereinkommen zur Verhütung der Meeresverschmutzung durch die Berufsschifffahrt",
       "correct": false
     },
     "answer4": {
@@ -16032,17 +16032,17 @@
     }
   },
   {
-    "question": "Für welche Jachten gelten die MARPOL-Bestimmungen? o a Nur für Jachten, die unter der Flagge eines MARPOL-Mitgliedstaates fahren",
+    "question": "Für welche Jachten gelten die MARPOL-Bestimmungen?",
     "answer1": {
-      "text": "Nur für Jachten, die sich in Hoheitsgewässern von MARPOL-Mitgliedstaaten befinden",
+      "text": "Nur für Jachten, die unter der Flagge eines MARPOL-Mitgliedstaates fahren",
       "correct": false
     },
     "answer2": {
-      "text": "Nur für Jachten, die unter der Flagge eines MARPOL-Mitgliedstaates fahren und sich",
+      "text": "Nur für Jachten, die sich in Hoheitsgewässern von MARPOL-Mitgliedstaaten befinden",
       "correct": false
     },
     "answer3": {
-      "text": "chzeitig in Hoheitsgewässern eines MARPOL-Mitgliedstaates befinden",
+      "text": "Nur für Jachten, die unter der Flagge eines MARPOL-Mitgliedstaates fahren und sich gleichzeitig in Hoheitsgewässern eines MARPOL-Mitgliedstaates befinden",
       "correct": false
     },
     "answer4": {
@@ -16056,10 +16056,10 @@
     }
   },
   {
-    "question": "Was ist ein MARPOL-Sondergebiet? x a Ein Meeresgebiet, in dem strengere Vorschriften bezüglich der Meeresverschmutzung",
+    "question": "Was ist ein MARPOL-Sondergebiet?",
     "answer1": {
-      "text": "en",
-      "correct": false
+      "text": "Ein Meeresgebiet, in dem strengere Vorschriften bezüglich der Meeresverschmutzung gelten",
+      "correct": true
     },
     "answer2": {
       "text": "Meeresgebiete, die als solche einzeln in den MARPOL-Bestimmungen genannt werden",
@@ -16104,21 +16104,21 @@
     }
   },
   {
-    "question": "Was besagen die MARPOL-Bestimmungen für die Entsorgung von Müll in Sondergebieten wie dem Mittelmeer? o a Entsorgung von Kunststoff ist verboten, anderer Müll ab 25 sm, Lebensmittelabfälle ab 6 sm, Abwässer inkl. Fäkalien ab 3 sm von der Küste. x b Entsorgung von Lebensmittelabfällen und Abwässern inkl. Fäkalien ab 12 sm von der Küste erlaubt. Einleiten anderen Mülls ist verboten.",
+    "question": "Was besagen die MARPOL-Bestimmungen für die Entsorgung von Müll in Sondergebieten wie dem Mittelmeer?",
     "answer1": {
-      "text": "Entsorgung von Lebensmittelabfällen und Abwässern inkl. Fäkalien ab 24 sm von der",
+      "text": "Entsorgung von Kunststoff ist verboten, anderer Müll ab 25 sm, Lebensmittelabfälle ab 6 sm, Abwässer inkl. Fäkalien ab 3 sm von der Küste.",
       "correct": false
     },
     "answer2": {
-      "text": "e erlaubt. Einleiten anderen Mülls ist verboten.",
-      "correct": false
+      "text": "Entsorgung von Lebensmittelabfällen und Abwässern inkl. Fäkalien ab 12 sm von der Küste erlaubt. Einleiten anderen Mülls ist verboten.",
+      "correct": true
     },
     "answer3": {
-      "text": "Entsorgung von Kunststoff, Lebensmittelabfällen und Abwässern inkl. Fäkalien verboten.",
+      "text": "Entsorgung von Lebensmittelabfällen und Abwässern inkl. Fäkalien ab 24 sm von der Küste erlaubt. Einleiten anderen Mülls ist verboten.",
       "correct": false
     },
     "answer4": {
-      "text": "Entsorgung darf nur an Land erfolgen.",
+      "text": "Entsorgung von Kunststoff, Lebensmittelabfällen und Abwässern inkl. Fäkalien verboten. Die Entsorgung darf nur an Land erfolgen.",
       "correct": false
     },
     "metadata": {
@@ -16224,22 +16224,22 @@
     }
   },
   {
-    "question": "Wie sind die Vorschriften MARPOL Anlage 1 (Verschmutzung durch Öl) auf einer Jacht sinnvoll umzusetzen? o a Die Vorschriften gelten für Schiffe über 400 BRT, weil sie auf Jachten nicht umsetzbar sind. o b Diesel darf aussenbords gepumpt werden, Motoröl nicht.",
+    "question": "Wie sind die Vorschriften MARPOL Anlage 1 (Verschmutzung durch Öl) auf einer Jacht sinnvoll umzusetzen?",
     "answer1": {
-      "text": "Flüssigkeiten mit geringem Anteil an Öl oder Treibstoff können auf See abgepumpt, alle",
+      "text": "Die Vorschriften gelten für Schiffe über 400 BRT, weil sie auf Jachten nicht umsetzbar sind.",
       "correct": false
     },
     "answer2": {
-      "text": "ren an Land entsorgt werden.",
+      "text": "Diesel darf aussenbords gepumpt werden, Motoröl nicht.",
       "correct": false
     },
     "answer3": {
-      "text": "Alle öl- und treibstoffhaltigen Flüssigkeiten werden an Bord gesammelt und adäquat an",
-      "correct": true
+      "text": "Flüssigkeiten mit geringem Anteil an Öl oder Treibstoff können auf See abgepumpt, alle anderen an Land entsorgt werden.",
+      "correct": false
     },
     "answer4": {
-      "text": " entsorgt.",
-      "correct": false
+      "text": "Alle öl- und treibstoffhaltigen Flüssigkeiten werden an Bord gesammelt und adäquat an Land entsorgt.",
+      "correct": true
     },
     "metadata": {
       "category": "Rechtskunde",
@@ -16728,21 +16728,21 @@
     }
   },
   {
-    "question": "Wie weit reichen die Fahrtbereiche lt. Jachtverordnung? x a Watt- oder Tagesfahrt (3 sm), Küstenfahrt (20 sm), Küstennahe Fahrt (200 sm), Weltweite Fahrt (keine Einschränkung) o b Watt- oder Tagesfahrt (3 sm), Küstenfahrt (6 sm), Küstennahe Fahrt (20 sm), Weltweite Fahrt (200 sm)",
+    "question": "Wie weit reichen die Fahrtbereiche lt. Jachtverordnung?",
     "answer1": {
-      "text": "Watt- oder Tagesfahrt (6 sm), Küstenfahrt (12 sm), Küstennahe Fahrt (30 sm),",
-      "correct": false
+      "text": "Watt- oder Tagesfahrt (3 sm), Küstenfahrt (20 sm), Küstennahe Fahrt (200 sm), Weltweite Fahrt (keine Einschränkung)",
+      "correct": true
     },
     "answer2": {
-      "text": "weite Fahrt",
+      "text": "Watt- oder Tagesfahrt (3 sm), Küstenfahrt (6 sm), Küstennahe Fahrt (20 sm), Weltweite Fahrt (200 sm)",
       "correct": false
     },
     "answer3": {
-      "text": "Watt- oder Tagesfahrt (3 sm), Küstenfahrt (30 sm), Küstennahe Fahrt (300 sm),",
+      "text": "Watt- oder Tagesfahrt (6 sm), Küstenfahrt (12 sm), Küstennahe Fahrt (30 sm), Weltweite Fahrt",
       "correct": false
     },
     "answer4": {
-      "text": "weite Fahrt (keine Einschränkung)",
+      "text": "Watt- oder Tagesfahrt (3 sm), Küstenfahrt (30 sm), Küstennahe Fahrt (300 sm), Weltweite Fahrt (keine Einschränkung)",
       "correct": false
     },
     "metadata": {
@@ -16800,17 +16800,17 @@
     }
   },
   {
-    "question": "Welche Jachten dürfen mit dem IC für FB1 geführt werden? x a Jachten bis zu einer Länge von 10 Metern innerhalb des Fahrtbereichs 1 o b Jachten, die mindestens für den Fahrtbereich 1 zugelassen sind, unabhängig von ihrer",
+    "question": "Welche Jachten dürfen mit dem IC für FB1 geführt werden?",
     "answer1": {
-      "text": "e.",
-      "correct": false
+      "text": "Jachten bis zu einer Länge von 10 Metern innerhalb des Fahrtbereichs 1",
+      "correct": true
     },
     "answer2": {
-      "text": "Jachten, die für den Fahrtbereich 1 zugelassen sind, bis zu einer Motorleistung von 30",
+      "text": "Jachten, die mindestens für den Fahrtbereich 1 zugelassen sind, unabhängig von ihrer Länge.",
       "correct": false
     },
     "answer3": {
-      "text": "ro Antriebsmaschine.",
+      "text": "Jachten, die für den Fahrtbereich 1 zugelassen sind, bis zu einer Motorleistung von 30 kW pro Antriebsmaschine.",
       "correct": false
     },
     "answer4": {
@@ -16896,18 +16896,18 @@
     }
   },
   {
-    "question": "Wodurch unterscheiden sich die Begriffe Wetter und Klima? o a Kein Unterschied, nur unterschiedliche Begriffe o b Wetter bezeichnet örtlich auftretende Wettererscheinungen, Klima weltweit auftretende",
+    "question": "Wodurch unterscheiden sich die Begriffe Wetter und Klima?",
     "answer1": {
-      "text": "ererscheinungen.",
+      "text": "Kein Unterschied, nur unterschiedliche Begriffe",
       "correct": false
     },
     "answer2": {
-      "text": "Wetter ist der Zustand zu einem bestimmten Zeitpunkt, Klima ist die statistische",
-      "correct": true
+      "text": "Wetter bezeichnet örtlich auftretende Wettererscheinungen, Klima weltweit auftretende Wettererscheinungen.",
+      "correct": false
     },
     "answer3": {
-      "text": "hreibung der Vorgänge in der Atmosphäre über einen längeren Zeitraum.",
-      "correct": false
+      "text": "Wetter ist der Zustand zu einem bestimmten Zeitpunkt, Klima ist die statistische Beschreibung der Vorgänge in der Atmosphäre über einen längeren Zeitraum.",
+      "correct": true
     },
     "answer4": {
       "text": "Wetter bezeichnet einzelne Zustände der Atmosphäre, Klima ist deren Zusammenfassung",
@@ -17016,13 +17016,13 @@
     }
   },
   {
-    "question": "Warum stellt die Tropopause eine unüberwindbare Grenzschicht für die aufsteigenden Luftmassen der Troposphäre dar? o a Weil das Ozon in der Stratosphäre für Wasserdampf undurchlässig ist.",
+    "question": "Warum stellt die Tropopause eine unüberwindbare Grenzschicht für die aufsteigenden Luftmassen der Troposphäre dar?",
     "answer1": {
-      "text": "Weil die horizontalen Jetstreams die Entstehung von vertikalen Luftströmungen",
+      "text": "Weil das Ozon in der Stratosphäre für Wasserdampf undurchlässig ist.",
       "correct": false
     },
     "answer2": {
-      "text": "indern.",
+      "text": "Weil die horizontalen Jetstreams die Entstehung von vertikalen Luftströmungen verhindern.",
       "correct": false
     },
     "answer3": {
@@ -17928,21 +17928,21 @@
     }
   },
   {
-    "question": "Welche Auswirkungen auf den Wind hat die Coriolis-Kraft? o a Der Wind strömt direkt vom Hoch zum Tief. o b Der Wind strömt direkt vom Tief zum Hoch.",
+    "question": "Welche Auswirkungen auf den Wind hat die Coriolis-Kraft?",
     "answer1": {
-      "text": "Großräumige Luftbewegungen werden auf der Nordhalbkugel nach rechts, auf der",
-      "correct": true
+      "text": "Der Wind strömt direkt vom Hoch zum Tief.",
+      "correct": false
     },
     "answer2": {
-      "text": "albkugel nach links abgelenkt.",
+      "text": "Der Wind strömt direkt vom Tief zum Hoch.",
       "correct": false
     },
     "answer3": {
-      "text": "Die Corioliskraft beschleunigt den Wind auf der Nordhalbkugel und bremst ihn auf der",
-      "correct": false
+      "text": "Großräumige Luftbewegungen werden auf der Nordhalbkugel nach rechts, auf der Südhalbkugel nach links abgelenkt.",
+      "correct": true
     },
     "answer4": {
-      "text": "albkugel.",
+      "text": "Die Corioliskraft beschleunigt den Wind auf der Nordhalbkugel und bremst ihn auf der Südhalbkugel.",
       "correct": false
     },
     "metadata": {
@@ -17952,21 +17952,21 @@
     }
   },
   {
-    "question": "Was ist der Gradientenwind? o a Der vom Druckunterschied hervorgerufene Wind o b Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft",
+    "question": "Was ist der Gradientenwind?",
     "answer1": {
-      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft und",
-      "correct": true
+      "text": "Der vom Druckunterschied hervorgerufene Wind",
+      "correct": false
     },
     "answer2": {
-      "text": "hkraft",
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft",
       "correct": false
     },
     "answer3": {
-      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft,",
-      "correct": false
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft und Fliehkraft",
+      "correct": true
     },
     "answer4": {
-      "text": "hkraft und Reibung an der Oberfläche",
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft, Fliehkraft und Reibung an der Oberfläche",
       "correct": false
     },
     "metadata": {
@@ -17976,21 +17976,21 @@
     }
   },
   {
-    "question": "Was ist der geostrophische Wind? o a Der vom Druckunterschied hervorgerufene Wind x b Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft",
+    "question": "Was ist der geostrophische Wind?",
     "answer1": {
-      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft und",
+      "text": "Der vom Druckunterschied hervorgerufene Wind",
       "correct": false
     },
     "answer2": {
-      "text": "hkraft",
-      "correct": false
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft",
+      "correct": true
     },
     "answer3": {
-      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft,",
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft und Fliehkraft",
       "correct": false
     },
     "answer4": {
-      "text": "hkraft und Reibung an der Oberfläche.",
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft, Fliehkraft und Reibung an der Oberfläche.",
       "correct": false
     },
     "metadata": {
@@ -18000,22 +18000,22 @@
     }
   },
   {
-    "question": "Was ist der Bodenwind? o a Der vom Druckunterschied hervorgerufene Wind o b Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft",
+    "question": "Was ist der Bodenwind?",
     "answer1": {
-      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft und",
+      "text": "Der vom Druckunterschied hervorgerufene Wind",
       "correct": false
     },
     "answer2": {
-      "text": "hkraft",
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft",
       "correct": false
     },
     "answer3": {
-      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft,",
-      "correct": true
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft und Fliehkraft",
+      "correct": false
     },
     "answer4": {
-      "text": "hkraft und Reibung an der Oberfläche",
-      "correct": false
+      "text": "Der vom Druckunterschied hervorgerufene Wind, abgelenkt durch die Coriolis-Kraft, Fliehkraft und Reibung an der Oberfläche",
+      "correct": true
     },
     "metadata": {
       "category": "Wetter",
@@ -18144,21 +18144,21 @@
     }
   },
   {
-    "question": "Was ist der Düseneffekt? x a Erhöhung der Windgeschwindigkeit zwischen zwei Landmassen",
+    "question": "Was ist der Düseneffekt?",
     "answer1": {
+      "text": "Erhöhung der Windgeschwindigkeit zwischen zwei Landmassen",
+      "correct": true
+    },
+    "answer2": {
       "text": "Wind trifft auf ein Küstengebirge, Luft steigt auf",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Wind wird um ein Kap herumgeführt",
       "correct": false
     },
-    "answer3": {
-      "text": "Die Erhöhung der Strömungsgeschwindigkeit zwischen zwei eng nebeneinander",
-      "correct": false
-    },
     "answer4": {
-      "text": "enden Tiefdruckgebieten",
+      "text": "Die Erhöhung der Strömungsgeschwindigkeit zwischen zwei eng nebeneinander liegenden Tiefdruckgebieten",
       "correct": false
     },
     "metadata": {
@@ -18168,22 +18168,22 @@
     }
   },
   {
-    "question": "Was ist ein thermischer Ausgleichswind? o a Fallwind an einer hohen Küste",
+    "question": "Was ist ein thermischer Ausgleichswind?",
     "answer1": {
-      "text": "Ein katabatischer Wind",
+      "text": "Fallwind an einer hohen Küste",
       "correct": false
     },
     "answer2": {
-      "text": "Abwind aus einer Gewitterwolke",
+      "text": "Ein katabatischer Wind",
       "correct": false
     },
     "answer3": {
-      "text": "Wind aufgrund unterschiedlicher Erwärmung bzw. Abkühlung von Landmassen und der",
-      "correct": true
+      "text": "Abwind aus einer Gewitterwolke",
+      "correct": false
     },
     "answer4": {
-      "text": "",
-      "correct": false
+      "text": "Wind aufgrund unterschiedlicher Erwärmung bzw. Abkühlung von Landmassen und der See",
+      "correct": true
     },
     "metadata": {
       "category": "Wetter",
@@ -18576,21 +18576,21 @@
     }
   },
   {
-    "question": "Warum sinkt in der Nacht bei klarem Himmel die Temperatur tiefer ab als bei bewölktem Himmel? x a Weil die Wärmestrahlung der Erde bei wolkenlosem Himmel ungehindert abgegeben wird o b Weil die Wärmestrahlung der Erde bei wolkenlosem Himmel auf der Erdoberfläche bleibt",
+    "question": "Warum sinkt in der Nacht bei klarem Himmel die Temperatur tiefer ab als bei bewölktem Himmel?",
     "answer1": {
-      "text": "Weil bei klarem Himmel die Kälte der hohen Luftschichten ungehindert auf den Boden",
-      "correct": false
+      "text": "Weil die Wärmestrahlung der Erde bei wolkenlosem Himmel ungehindert abgegeben wird",
+      "correct": true
     },
     "answer2": {
-      "text": "en kann",
+      "text": "Weil die Wärmestrahlung der Erde bei wolkenlosem Himmel auf der Erdoberfläche bleibt",
       "correct": false
     },
     "answer3": {
-      "text": "Niedrige Temperaturen hängen nicht vom Bewölkungsgrad ab, sondern von der",
+      "text": "Weil bei klarem Himmel die Kälte der hohen Luftschichten ungehindert auf den Boden sinken kann",
       "correct": false
     },
     "answer4": {
-      "text": "tosphärentemperatur.",
+      "text": "Niedrige Temperaturen hängen nicht vom Bewölkungsgrad ab, sondern von der Stratosphärentemperatur.",
       "correct": false
     },
     "metadata": {
@@ -18720,22 +18720,22 @@
     }
   },
   {
-    "question": "Wie können Gewitter entstehen? o a Wenn bodennahe Luftschichten rasch abgekühlt werden.",
+    "question": "Wie können Gewitter entstehen?",
     "answer1": {
-      "text": "Wenn kalte Luft in wärmere Luftschichten absinkt.",
+      "text": "Wenn bodennahe Luftschichten rasch abgekühlt werden.",
       "correct": false
     },
     "answer2": {
+      "text": "Wenn kalte Luft in wärmere Luftschichten absinkt.",
+      "correct": false
+    },
+    "answer3": {
       "text": "Wenn Luft beim Aufsteigen wärmer als ihre Umgebung bleibt.",
       "correct": true
     },
-    "answer3": {
-      "text": "Wenn bei labiler vertikaler Luftschichtung warme feuchte Luft rasch in große Höhe",
-      "correct": true
-    },
     "answer4": {
-      "text": "teigt.",
-      "correct": false
+      "text": "Wenn bei labiler vertikaler Luftschichtung warme feuchte Luft rasch in große Höhe aufsteigt.",
+      "correct": true
     },
     "metadata": {
       "category": "Wetter",
@@ -18792,17 +18792,17 @@
     }
   },
   {
-    "question": "In der Nähe eines Cumulonimbus weht der Bodenwind schwach Richtung Wolke. Was kann das bedeuten? o a Ein lokales Gewitter kann nicht stark werden, keine Maßnahmen erforderlich. o b An der Windrichtung ist erkennbar, dass sich die Wolke entfernt, keine Maßnahmen",
+    "question": "In der Nähe eines Cumulonimbus weht der Bodenwind schwach Richtung Wolke. Was kann das bedeuten?",
     "answer1": {
-      "text": "rderlich.",
+      "text": "Ein lokales Gewitter kann nicht stark werden, keine Maßnahmen erforderlich.",
       "correct": false
     },
     "answer2": {
-      "text": "An der Windrichtung ist erkennbar, dass die Wolke stationär bleibt, keine Maßnahmen",
+      "text": "An der Windrichtung ist erkennbar, dass sich die Wolke entfernt, keine Maßnahmen erforderlich.",
       "correct": false
     },
     "answer3": {
-      "text": "rderlich.",
+      "text": "An der Windrichtung ist erkennbar, dass die Wolke stationär bleibt, keine Maßnahmen erforderlich.",
       "correct": false
     },
     "answer4": {
@@ -18816,13 +18816,13 @@
     }
   },
   {
-    "question": "Wie können thermische Tiefdruckgebiete entstehen? x a Die Erwärmung bodennaher Luftschichten führt zu einem Aufsteigen der Luft, der Luftdruck nimmt ab.",
+    "question": "Wie können thermische Tiefdruckgebiete entstehen?",
     "answer1": {
-      "text": "Die Erwärmung hoher Luftschichten führt zu einem Absteigen der Luft, der Luftdruck",
-      "correct": false
+      "text": "Die Erwärmung bodennaher Luftschichten führt zu einem Aufsteigen der Luft, der Luftdruck nimmt ab.",
+      "correct": true
     },
     "answer2": {
-      "text": "t ab.",
+      "text": "Die Erwärmung hoher Luftschichten führt zu einem Absteigen der Luft, der Luftdruck nimmt ab.",
       "correct": false
     },
     "answer3": {
@@ -18864,13 +18864,13 @@
     }
   },
   {
-    "question": "Wie entstehen dynamische Tiefs (Zyklonen)? x a Warme Luft aus dem Süden trifft auf polare Kaltluft, es kommt zu einer Wellenbildung der Luftmassengrenze und es bildet sich ein Tiefdruckkern aus dem die Zyklone entsteht.",
+    "question": "Wie entstehen dynamische Tiefs (Zyklonen)?",
     "answer1": {
-      "text": "Die Erwärmung bodennaher Luftschichten führt zum Aufsteigen der Luft und zur",
-      "correct": false
+      "text": "Warme Luft aus dem Süden trifft auf polare Kaltluft, es kommt zu einer Wellenbildung der Luftmassengrenze und es bildet sich ein Tiefdruckkern aus dem die Zyklone entsteht.",
+      "correct": true
     },
     "answer2": {
-      "text": "icklung einer Zyklone.",
+      "text": "Die Erwärmung bodennaher Luftschichten führt zum Aufsteigen der Luft und zur Entwicklung einer Zyklone.",
       "correct": false
     },
     "answer3": {
@@ -19008,21 +19008,21 @@
     }
   },
   {
-    "question": "Wodurch bilden sich dynamische Tiefdruckgebiete in der polaren Tiefdruckrinne? o a Durch das Aufeinandertreffen kontinentaler und maritimer Luftmassen o b Durch Divergenz der polaren und der gemäßigten Luftmassen",
+    "question": "Wodurch bilden sich dynamische Tiefdruckgebiete in der polaren Tiefdruckrinne?",
     "answer1": {
-      "text": "Durch gegengleich gerichtete (horizontale) Strömungsrichtungen der polaren und der",
-      "correct": true
+      "text": "Durch das Aufeinandertreffen kontinentaler und maritimer Luftmassen",
+      "correct": false
     },
     "answer2": {
-      "text": "ßigten Luftmassen",
+      "text": "Durch Divergenz der polaren und der gemäßigten Luftmassen",
       "correct": false
     },
     "answer3": {
-      "text": "Durch gleich gerichtete (horizontale) Strömungsrichtungen der polaren und der",
-      "correct": false
+      "text": "Durch gegengleich gerichtete (horizontale) Strömungsrichtungen der polaren und der gemäßigten Luftmassen",
+      "correct": true
     },
     "answer4": {
-      "text": "ßigten Luftmassen",
+      "text": "Durch gleich gerichtete (horizontale) Strömungsrichtungen der polaren und der gemäßigten Luftmassen",
       "correct": false
     },
     "metadata": {
@@ -19080,13 +19080,13 @@
     }
   },
   {
-    "question": "Was trifft hinsichtlich Warmfront zu? x a Sie ist die Grenze zwischen warmen und kalten Luftmassen an der Vorderseite eines Tiefdruckgebietes.",
+    "question": "Was trifft hinsichtlich Warmfront zu?",
     "answer1": {
-      "text": "Sie ist die Grenze zwischen warmen und kalten Luftmassen an der Rückseite eines",
-      "correct": false
+      "text": "Sie ist die Grenze zwischen warmen und kalten Luftmassen an der Vorderseite eines Tiefdruckgebietes.",
+      "correct": true
     },
     "answer2": {
-      "text": "druckgebietes.",
+      "text": "Sie ist die Grenze zwischen warmen und kalten Luftmassen an der Rückseite eines Tiefdruckgebietes.",
       "correct": false
     },
     "answer3": {
@@ -19152,10 +19152,10 @@
     }
   },
   {
-    "question": "Was ist ein typisches Wettergeschehen beim Durchzugs eines Tiefs? x a Von Westen kommender Wolkenaufzug mit fallendem Luftdruck kündigt die Warmfront",
+    "question": "Was ist ein typisches Wettergeschehen beim Durchzugs eines Tiefs?",
     "answer1": {
-      "text": "",
-      "correct": false
+      "text": "Von Westen kommender Wolkenaufzug mit fallendem Luftdruck kündigt die Warmfront an.",
+      "correct": true
     },
     "answer2": {
       "text": "Auf den Durchzug der Warmfront folgt die Kaltfront mit Niederschlägen, starkem Wind.",
@@ -20256,9 +20256,9 @@
     }
   },
   {
-    "question": "Seit längerem herrscht gleichbleibender höherer Luftdruck. Welche Wettersituation ist zu erwarten? o a Es ist die typische Ruhe vor dem Sturm, in den nächsten Stunden ist mit Starkwind zu",
+    "question": "Seit längerem herrscht gleichbleibender höherer Luftdruck. Welche Wettersituation ist zu erwarten?",
     "answer1": {
-      "text": "nen.",
+      "text": "Es ist die typische Ruhe vor dem Sturm, in den nächsten Stunden ist mit Starkwind zu rechnen.",
       "correct": false
     },
     "answer2": {
@@ -20280,9 +20280,9 @@
     }
   },
   {
-    "question": "Auf mittlerer Breite fällt der Luftdruck innerhalb 3 Stunden um 4 hPa. Welche Windstärke ist zu erwarten? o a Es ist keine Änderung der Windstärke zu erwarten, das entspricht dem normalen",
+    "question": "Auf mittlerer Breite fällt der Luftdruck innerhalb 3 Stunden um 4 hPa. Welche Windstärke ist zu erwarten?",
     "answer1": {
-      "text": "sgang des Luftdrucks.",
+      "text": "Es ist keine Änderung der Windstärke zu erwarten, das entspricht dem normalen Tagesgang des Luftdrucks.",
       "correct": false
     },
     "answer2": {
@@ -20496,10 +20496,10 @@
     }
   },
   {
-    "question": "Was ist MSI? x a Internationales System zur Verbreitung von Sicherheits- und Wetterinformationen für die",
+    "question": "Was ist MSI?",
     "answer1": {
-      "text": "ahrt",
-      "correct": false
+      "text": "Internationales System zur Verbreitung von Sicherheits- und Wetterinformationen für die Seefahrt",
+      "correct": true
     },
     "answer2": {
       "text": "Identifikationsnummer im GMDSS",
@@ -20808,18 +20808,18 @@
     }
   },
   {
-    "question": "Wie wird eine Okklusionsfront in der Wetterkarte dargestellt? o a Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen in Zugrichtung",
+    "question": "Wie wird eine Okklusionsfront in der Wetterkarte dargestellt?",
     "answer1": {
-      "text": "Als eine Linie dem Frontverlauf entsprechend mit Dreiecken in Zugrichtung",
+      "text": "Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen in Zugrichtung",
       "correct": false
     },
     "answer2": {
-      "text": "Als eine Linie dem Frontverlauf entsprechend mit abwechselnd Halbkreisen und",
-      "correct": true
+      "text": "Als eine Linie dem Frontverlauf entsprechend mit Dreiecken in Zugrichtung",
+      "correct": false
     },
     "answer3": {
-      "text": "ecken in Zugrichtung",
-      "correct": false
+      "text": "Als eine Linie dem Frontverlauf entsprechend mit abwechselnd Halbkreisen und Dreiecken in Zugrichtung",
+      "correct": true
     },
     "answer4": {
       "text": "Als eine Linie dem Frontverlauf entsprechend mit einem Druckwert beschriftet",
@@ -20832,17 +20832,17 @@
     }
   },
   {
-    "question": "Wie wird eine Kaltfront in der Wetterkarte dargestellt? o a Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen in Zugrichtung.",
+    "question": "Wie wird eine Kaltfront in der Wetterkarte dargestellt?",
     "answer1": {
+      "text": "Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen in Zugrichtung.",
+      "correct": false
+    },
+    "answer2": {
       "text": "Als eine Linie dem Frontverlauf entsprechend mit Dreiecken in Zugrichtung.",
       "correct": true
     },
-    "answer2": {
-      "text": "Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen und Dreiecken in",
-      "correct": false
-    },
     "answer3": {
-      "text": "ichtung.",
+      "text": "Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen und Dreiecken in Zugrichtung.",
       "correct": false
     },
     "answer4": {
@@ -20880,17 +20880,17 @@
     }
   },
   {
-    "question": "Wie wird eine Warmfront in der Wetterkarte dargestellt? x a Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen in Zugrichtung",
+    "question": "Wie wird eine Warmfront in der Wetterkarte dargestellt?",
     "answer1": {
+      "text": "Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen in Zugrichtung",
+      "correct": true
+    },
+    "answer2": {
       "text": "Als eine Linie dem Frontverlauf entsprechend mit Dreiecken in Zugrichtung",
       "correct": false
     },
-    "answer2": {
-      "text": "Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen und Dreiecken in",
-      "correct": false
-    },
     "answer3": {
-      "text": "ichtung",
+      "text": "Als eine Linie dem Frontverlauf entsprechend mit Halbkreisen und Dreiecken in Zugrichtung",
       "correct": false
     },
     "answer4": {
@@ -21384,21 +21384,21 @@
     }
   },
   {
-    "question": "Was unterscheidet Windsee von Dünung? o a Windsee hat eine längere Wellenlänge als Dünung x b Windsee hat eine kürzere Wellenlänge als Dünung",
+    "question": "Was unterscheidet Windsee von Dünung?",
     "answer1": {
-      "text": "Windsee sind direkt vom Wind angefachte Wellen, Dünung sind dem Wind vorauseilende",
-      "correct": true
+      "text": "Windsee hat eine längere Wellenlänge als Dünung",
+      "correct": false
     },
     "answer2": {
-      "text": " nachlaufende Wellen",
-      "correct": false
+      "text": "Windsee hat eine kürzere Wellenlänge als Dünung",
+      "correct": true
     },
     "answer3": {
-      "text": "Dünung sind direkt vom Wind angefachte Wellen, Windsee sind dem Wind vorauseilende",
-      "correct": false
+      "text": "Windsee sind direkt vom Wind angefachte Wellen, Dünung sind dem Wind vorauseilende oder nachlaufende Wellen",
+      "correct": true
     },
     "answer4": {
-      "text": " nachlaufende Wellen",
+      "text": "Dünung sind direkt vom Wind angefachte Wellen, Windsee sind dem Wind vorauseilende oder nachlaufende Wellen",
       "correct": false
     },
     "metadata": {
@@ -21408,9 +21408,9 @@
     }
   },
   {
-    "question": "Was ist Grundsee? o a Steigerung der Wellenhöhe durch Aufeinandertreffen von Windsee und Dünung",
+    "question": "Was ist Grundsee?",
     "answer1": {
-      "text": "chiedener Richtungen",
+      "text": "Steigerung der Wellenhöhe durch Aufeinandertreffen von Windsee und Dünung verschiedener Richtungen",
       "correct": false
     },
     "answer2": {
@@ -21792,21 +21792,21 @@
     }
   },
   {
-    "question": "Wie arbeitet AIS? o a Ähnlich Radar, auf Basis von elektronischen Echos zur Erkennung von Schiffen in der Umgebung",
+    "question": "Wie arbeitet AIS?",
     "answer1": {
+      "text": "Ähnlich Radar, auf Basis von elektronischen Echos zur Erkennung von Schiffen in der Umgebung",
+      "correct": false
+    },
+    "answer2": {
       "text": "Bewegungs- und Identifikationsdaten werden über UKW ausgesendet und von AISEmpfängern empfangen.",
       "correct": true
     },
-    "answer2": {
+    "answer3": {
       "text": "Schiffsdaten werden via Satellit an andere Schiffe in der Umgebung übermittelt.",
       "correct": false
     },
-    "answer3": {
-      "text": "Auf Basis von Laufzeitdifferenzen ausgesendeter Signale können Schiffe in der Umgebung",
-      "correct": false
-    },
     "answer4": {
-      "text": "nnt werden.",
+      "text": "Auf Basis von Laufzeitdifferenzen ausgesendeter Signale können Schiffe in der Umgebung erkannt werden.",
       "correct": false
     },
     "metadata": {
@@ -21888,17 +21888,17 @@
     }
   },
   {
-    "question": "Wie handhabt man eine Rettungsinsel? o a Die Rettungsinsel wird an Deck entfaltet und dann zu Wasser gebracht. x b Die Reißleine wird an Bord belegt, dann die Rettungsinsel ins Wasser geworfen und",
+    "question": "Wie handhabt man eine Rettungsinsel?",
     "answer1": {
-      "text": "h Reißen an der Reißleine aufgeblasen.",
+      "text": "Die Rettungsinsel wird an Deck entfaltet und dann zu Wasser gebracht.",
       "correct": false
     },
     "answer2": {
-      "text": "Die Rettungsinsel wird ins Wasser geworfen und entfaltet sich durch den Kontakt mit",
-      "correct": false
+      "text": "Die Reißleine wird an Bord belegt, dann die Rettungsinsel ins Wasser geworfen und durch Reißen an der Reißleine aufgeblasen.",
+      "correct": true
     },
     "answer3": {
-      "text": "asser selbständig.",
+      "text": "Die Rettungsinsel wird ins Wasser geworfen und entfaltet sich durch den Kontakt mit Seewasser selbständig.",
       "correct": false
     },
     "answer4": {
@@ -22032,18 +22032,18 @@
     }
   },
   {
-    "question": "Welche Seenotsignalmittel sind gemäß JachtVO in der Küstenfahrt vorgeschrieben? o a Flaggen Charlie/November",
+    "question": "Welche Seenotsignalmittel sind gemäß JachtVO in der Küstenfahrt vorgeschrieben?",
     "answer1": {
-      "text": "Rauchsignal, orange",
+      "text": "Flaggen Charlie/November",
       "correct": false
     },
     "answer2": {
-      "text": "4 rote Fallschirmsignale, 4 rote und 4 weiße Handfackeln, 1 Signalgeber oder",
-      "correct": true
+      "text": "Rauchsignal, orange",
+      "correct": false
     },
     "answer3": {
-      "text": "alpistole mit Munition",
-      "correct": false
+      "text": "4 rote Fallschirmsignale, 4 rote und 4 weiße Handfackeln, 1 Signalgeber oder Signalpistole mit Munition",
+      "correct": true
     },
     "answer4": {
       "text": "EPIRB (Emergency Position Indicating Rescue Beacon)",
@@ -22152,17 +22152,17 @@
     }
   },
   {
-    "question": "Auf See wird eine aufsteigende rote Rakete beobachtet. Was ist zu tun? x a Die Unfallstelle ist anzusteuern, um gegebenenfalls Hilfe leisten zu können.",
+    "question": "Auf See wird eine aufsteigende rote Rakete beobachtet. Was ist zu tun?",
     "answer1": {
+      "text": "Die Unfallstelle ist anzusteuern, um gegebenenfalls Hilfe leisten zu können.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Nichts",
       "correct": false
     },
-    "answer2": {
-      "text": "Jachten haben die Verpflichtung, möglichst rasch in einem Hafen eine behördliche",
-      "correct": false
-    },
     "answer3": {
-      "text": "ung abzugeben.",
+      "text": "Jachten haben die Verpflichtung, möglichst rasch in einem Hafen eine behördliche Meldung abzugeben.",
       "correct": false
     },
     "answer4": {
@@ -22272,10 +22272,10 @@
     }
   },
   {
-    "question": "Wann liegt ein Seenotfall vor? x a Wenn eine unmittelbar bevorstehende Gefahr für das Schiff oder eine Person besteht und",
+    "question": "Wann liegt ein Seenotfall vor?",
     "answer1": {
-      "text": "rtige Hilfe benötigt wird.",
-      "correct": false
+      "text": "Wenn eine unmittelbar bevorstehende Gefahr für das Schiff oder eine Person besteht und sofortige Hilfe benötigt wird.",
+      "correct": true
     },
     "answer2": {
       "text": "Wenn der Proviant zu Ende geht.",
@@ -22488,17 +22488,17 @@
     }
   },
   {
-    "question": "Welche Reichweite hat ein EPIRB Signal x a Praktisch keine Limitierung der Reichweite",
+    "question": "Welche Reichweite hat ein EPIRB Signal",
     "answer1": {
+      "text": "Praktisch keine Limitierung der Reichweite",
+      "correct": true
+    },
+    "answer2": {
       "text": "Ca. 20 sm",
       "correct": false
     },
-    "answer2": {
-      "text": "Reichweite im UKW Frequenzbereich bis 20 sm, im MW Frequentbereich 200 sm und",
-      "correct": false
-    },
     "answer3": {
-      "text": "",
+      "text": "Reichweite im UKW Frequenzbereich bis 20 sm, im MW Frequentbereich 200 sm und mehr",
       "correct": false
     },
     "answer4": {
@@ -22536,18 +22536,18 @@
     }
   },
   {
-    "question": "Was ist eine EPIRB? o a Eine Funkboje, die ihre Position aussendet sobald sie von einem Radarimpuls getroffen wird",
+    "question": "Was ist eine EPIRB?",
     "answer1": {
+      "text": "Eine Funkboje, die ihre Position aussendet sobald sie von einem Radarimpuls getroffen wird",
+      "correct": false
+    },
+    "answer2": {
       "text": "Eine Funkboje, die aktiviert ein Seenotsignal aussendet",
       "correct": true
     },
-    "answer2": {
-      "text": "Eine Funkboje, die im Seenotfall ihre Position aussendet, wenn sie einen GPS-Empfänger",
-      "correct": true
-    },
     "answer3": {
-      "text": "",
-      "correct": false
+      "text": "Eine Funkboje, die im Seenotfall ihre Position aussendet, wenn sie einen GPS-Empfänger hat",
+      "correct": true
     },
     "answer4": {
       "text": "Eine Funkboje zur verbalen Verständigung im Notfall",
@@ -22560,14 +22560,14 @@
     }
   },
   {
-    "question": "Wozu dient eine EPIRB? o a Zur Aussendung eines Seenotsignals auf Radarfrequenzen",
+    "question": "Wozu dient eine EPIRB?",
     "answer1": {
-      "text": "Zur Aussendung eines Seenotsignals, das über COSPAS-SARSAT-Satelliten die Ortung",
-      "correct": true
+      "text": "Zur Aussendung eines Seenotsignals auf Radarfrequenzen",
+      "correct": false
     },
     "answer2": {
-      "text": "glicht",
-      "correct": false
+      "text": "Zur Aussendung eines Seenotsignals, das über COSPAS-SARSAT-Satelliten die Ortung ermöglicht",
+      "correct": true
     },
     "answer3": {
       "text": "Zur Aussendung von Seenotsignalen auf UKW",
@@ -22584,22 +22584,22 @@
     }
   },
   {
-    "question": "Was ist ein SART? x a Ein Transponder, der ein Signal aussendet, sobald er von einem Radarimpuls getroffen wird",
+    "question": "Was ist ein SART?",
     "answer1": {
+      "text": "Ein Transponder, der ein Signal aussendet, sobald er von einem Radarimpuls getroffen wird",
+      "correct": true
+    },
+    "answer2": {
       "text": "Eine Funkboje, die automatisch ihre Position aussendet",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Ein Transponder, dessen Signal am Radarbildschirm als blinkender Punkt erscheint.",
       "correct": false
     },
-    "answer3": {
-      "text": "Ein Radartransponder, der getriggert ein Signal erzeugt, das als 12 Punkte dargestellt",
-      "correct": true
-    },
     "answer4": {
-      "text": ".",
-      "correct": false
+      "text": "Ein Radartransponder, der getriggert ein Signal erzeugt, das als 12 Punkte dargestellt wird.",
+      "correct": true
     },
     "metadata": {
       "category": "Sicherheit",
@@ -22608,10 +22608,10 @@
     }
   },
   {
-    "question": "Was ist eine PLB? x a Eine personenbezogene Notfunkboje, die von Rettungsdiensten gepeilt werden kann,",
+    "question": "Was ist eine PLB?",
     "answer1": {
-      "text": " sie aktiviert wurde",
-      "correct": false
+      "text": "Eine personenbezogene Notfunkboje, die von Rettungsdiensten gepeilt werden kann, wenn sie aktiviert wurde",
+      "correct": true
     },
     "answer2": {
       "text": "Eine Weiterentwicklung der EPIRB, die auf Funk- und Radarfrequenzen sendet",
@@ -22728,22 +22728,22 @@
     }
   },
   {
-    "question": "Wo auf einer Jacht müssen die Feuerlöscher angebracht sein? o a Alle Feuerlöscher müssen von außen erreichbar sein.",
+    "question": "Wo auf einer Jacht müssen die Feuerlöscher angebracht sein?",
     "answer1": {
-      "text": "Alle Feuerlöscher müssen an Deck angebracht sein.",
+      "text": "Alle Feuerlöscher müssen von außen erreichbar sein.",
       "correct": false
     },
     "answer2": {
-      "text": "Unter dem Navigationstisch",
+      "text": "Alle Feuerlöscher müssen an Deck angebracht sein.",
       "correct": false
     },
     "answer3": {
-      "text": "An geeigneten Stellen, leicht zugänglich und getrennt voneinander, einer von außen",
-      "correct": true
+      "text": "Unter dem Navigationstisch",
+      "correct": false
     },
     "answer4": {
-      "text": "ichbar.",
-      "correct": false
+      "text": "An geeigneten Stellen, leicht zugänglich und getrennt voneinander, einer von außen erreichbar.",
+      "correct": true
     },
     "metadata": {
       "category": "Sicherheit",
@@ -22848,21 +22848,21 @@
     }
   },
   {
-    "question": "Wer darf einen Notruf absetzen? x a Jedes Crewmitglied auf Anweisung des Skippers oder wenn der Skipper nicht mehr dazu in der Lage ist.",
+    "question": "Wer darf einen Notruf absetzen?",
     "answer1": {
+      "text": "Jedes Crewmitglied auf Anweisung des Skippers oder wenn der Skipper nicht mehr dazu in der Lage ist.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Jedes Crewmitglied mit einem Sprechfunkzeugnis",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Jedes Crewmitglied im Schiff-Schiff-Verkehr (nicht mit Küstenfunkstellen)",
       "correct": false
     },
-    "answer3": {
-      "text": "Außer dem Skipper darf kein Crewmitglied das Funkgerät bedienen, auch nicht im",
-      "correct": false
-    },
     "answer4": {
-      "text": "otfall.",
+      "text": "Außer dem Skipper darf kein Crewmitglied das Funkgerät bedienen, auch nicht im Seenotfall.",
       "correct": false
     },
     "metadata": {
@@ -22920,21 +22920,21 @@
     }
   },
   {
-    "question": "Unter welchen Umständen darf ein Mayday-Ruf abgesetzt werden? o a Wenn funkärztliche Hilfe benötigt wird. o b Wenn Information über eine ernsthafte Gefahr für den Schiffsverkehr verbreitet werden",
+    "question": "Unter welchen Umständen darf ein Mayday-Ruf abgesetzt werden?",
     "answer1": {
-      "text": ".",
+      "text": "Wenn funkärztliche Hilfe benötigt wird.",
       "correct": false
     },
     "answer2": {
+      "text": "Wenn Information über eine ernsthafte Gefahr für den Schiffsverkehr verbreitet werden soll.",
+      "correct": false
+    },
+    "answer3": {
       "text": "In einem Fall von Seenot",
       "correct": true
     },
-    "answer3": {
-      "text": "In einem Seenotfall, ohne Funkerzeugnis aber nur im Hoheitsgebiet des Landes, in dem",
-      "correct": false
-    },
     "answer4": {
-      "text": "Seefunkgerät gemeldet ist.",
+      "text": "In einem Seenotfall, ohne Funkerzeugnis aber nur im Hoheitsgebiet des Landes, in dem das Seefunkgerät gemeldet ist.",
       "correct": false
     },
     "metadata": {
@@ -23568,10 +23568,10 @@
     }
   },
   {
-    "question": "Was ist bei Aufzug eines Gewitters zu veranlassen? x a Alle an Deck benötigten Crewmitglieder mit Rettungsweste und Sicherheitsgurt und",
+    "question": "Was ist bei Aufzug eines Gewitters zu veranlassen?",
     "answer1": {
-      "text": "erheitsleine ausstatten",
-      "correct": false
+      "text": "Alle an Deck benötigten Crewmitglieder mit Rettungsweste und Sicherheitsgurt und Sicherheitsleine ausstatten",
+      "correct": true
     },
     "answer2": {
       "text": "Nur Sicherheitsleinen mit nichtmetallischen Verschlüssen verwenden",
@@ -23616,18 +23616,18 @@
     }
   },
   {
-    "question": "Was ist bei Aufzug eines Gewitters zu veranlassen? x a Das Vorsegel ist zu verkleinern.",
+    "question": "Was ist bei Aufzug eines Gewitters zu veranlassen?",
     "answer1": {
-      "text": "Das Großsegel ist zu reffen.",
+      "text": "Das Vorsegel ist zu verkleinern.",
       "correct": true
     },
     "answer2": {
-      "text": "Schlechtwetterbekleidung, Rettungsweste und Sicherheitsgurt und Sicherheitsleine sind",
+      "text": "Das Großsegel ist zu reffen.",
       "correct": true
     },
     "answer3": {
-      "text": "legen.",
-      "correct": false
+      "text": "Schlechtwetterbekleidung, Rettungsweste und Sicherheitsgurt und Sicherheitsleine sind anzulegen.",
+      "correct": true
     },
     "answer4": {
       "text": "Die Position ist zu bestimmen und in die Karte einzutragen.",
@@ -23736,18 +23736,18 @@
     }
   },
   {
-    "question": "Welche Überlegungen sind beim Anlaufen eines Schutzhafens an einer Luvküste bei schwerem Wetter anzustellen? x a Ein Überfahren von Barren kann aufgrund der Grundsee sehr gefährlich sein. x b Im Falle von Motorausfällen und Segelschäden treibt das Boot manövrierunfähig auf die",
+    "question": "Welche Überlegungen sind beim Anlaufen eines Schutzhafens an einer Luvküste bei schwerem Wetter anzustellen?",
     "answer1": {
-      "text": "e zu.",
-      "correct": false
+      "text": "Ein Überfahren von Barren kann aufgrund der Grundsee sehr gefährlich sein.",
+      "correct": true
     },
     "answer2": {
-      "text": "In oder nahe der Hafeneinfahrt besteht Kentergefahr/Strandungsgefahr durch mächtige",
+      "text": "Im Falle von Motorausfällen und Segelschäden treibt das Boot manövrierunfähig auf die Küste zu.",
       "correct": true
     },
     "answer3": {
-      "text": "dsee.",
-      "correct": false
+      "text": "In oder nahe der Hafeneinfahrt besteht Kentergefahr/Strandungsgefahr durch mächtige Grundsee.",
+      "correct": true
     },
     "answer4": {
       "text": "Ein Schutzhafen an einer Luvküste darf niemals angelaufen werden.",
@@ -23856,14 +23856,14 @@
     }
   },
   {
-    "question": "Was wird als Legerwall bezeichnet? o a Ein Schiff ist auf einer Barre vor der Küste aufgelaufen.",
+    "question": "Was wird als Legerwall bezeichnet?",
     "answer1": {
-      "text": "Die Küste an der Leeseite einers Seefahrzeugs, von der es beim vorherrschenden",
-      "correct": true
+      "text": "Ein Schiff ist auf einer Barre vor der Küste aufgelaufen.",
+      "correct": false
     },
     "answer2": {
-      "text": "andigen Wind mit eigener Kraft nicht mehr freikommt.",
-      "correct": false
+      "text": "Die Küste an der Leeseite einers Seefahrzeugs, von der es beim vorherrschenden auflandigen Wind mit eigener Kraft nicht mehr freikommt.",
+      "correct": true
     },
     "answer3": {
       "text": "Ein der Hafenmole vorgelagerter Wellenbrecher",
@@ -23952,17 +23952,17 @@
     }
   },
   {
-    "question": "Was ist sofort zu tun, wenn das Boot auf Grund gelaufen ist? x a Boot auf einen möglichen Wassereinbruch untersuchen",
+    "question": "Was ist sofort zu tun, wenn das Boot auf Grund gelaufen ist?",
     "answer1": {
-      "text": "Versuchen das Boot durch Krängung frei zu bekommen",
+      "text": "Boot auf einen möglichen Wassereinbruch untersuchen",
       "correct": true
     },
     "answer2": {
-      "text": "Beiboot zu Wasser bringen und schwere Ausrüstung auslagern um das Gewicht zu",
-      "correct": false
+      "text": "Versuchen das Boot durch Krängung frei zu bekommen",
+      "correct": true
     },
     "answer3": {
-      "text": "zieren",
+      "text": "Beiboot zu Wasser bringen und schwere Ausrüstung auslagern um das Gewicht zu reduzieren",
       "correct": false
     },
     "answer4": {
@@ -23976,17 +23976,17 @@
     }
   },
   {
-    "question": "Was kann man tun um eine auf Grund sitzende Jacht wieder frei zu bekommen? x a Mit der Maschine kräftig retour arbeiten und versuchen das Boot zu krängen",
+    "question": "Was kann man tun um eine auf Grund sitzende Jacht wieder frei zu bekommen?",
     "answer1": {
+      "text": "Mit der Maschine kräftig retour arbeiten und versuchen das Boot zu krängen",
+      "correct": true
+    },
+    "answer2": {
       "text": "Anker am Heck ausbringen und das Boot an der Ankerkette von der Untiefe ziehen",
       "correct": false
     },
-    "answer2": {
-      "text": "Fäkalientank und Wassertanks entleeren, um das Gewicht zu verringern und so die Jacht",
-      "correct": false
-    },
     "answer3": {
-      "text": " zubekommen",
+      "text": "Fäkalientank und Wassertanks entleeren, um das Gewicht zu verringern und so die Jacht frei zubekommen",
       "correct": false
     },
     "answer4": {
@@ -24024,13 +24024,13 @@
     }
   },
   {
-    "question": "Was ist im Falle einer Kollision mit einem anderen Fahrzeug sofort zu unternehmen? o a Unfallursache klären",
+    "question": "Was ist im Falle einer Kollision mit einem anderen Fahrzeug sofort zu unternehmen?",
     "answer1": {
-      "text": "Nach der Meldung des Vorfalls an die Versicherung bzw. den Vercharterer kann die Fahrt",
+      "text": "Unfallursache klären",
       "correct": false
     },
     "answer2": {
-      "text": "gesetzt werden.",
+      "text": "Nach der Meldung des Vorfalls an die Versicherung bzw. den Vercharterer kann die Fahrt fortgesetzt werden.",
       "correct": false
     },
     "answer3": {
@@ -24048,17 +24048,17 @@
     }
   },
   {
-    "question": "Wozu ist der Schiffsführer bei einer Kollision verpflichtet? o a Versicherungsnummer des Unfallgegners erheben",
+    "question": "Wozu ist der Schiffsführer bei einer Kollision verpflichtet?",
     "answer1": {
+      "text": "Versicherungsnummer des Unfallgegners erheben",
+      "correct": false
+    },
+    "answer2": {
       "text": "Unfallbericht verfassen und den Vorfall an die nächste Hafenbehörde melden",
       "correct": true
     },
-    "answer2": {
-      "text": "Wenn keine Personen verletzt wurden und keine Schäden erkennbar sind, kann im",
-      "correct": false
-    },
     "answer3": {
-      "text": "ernehmen mit dem Unfallgegner weitergefahren werden.",
+      "text": "Wenn keine Personen verletzt wurden und keine Schäden erkennbar sind, kann im Einvernehmen mit dem Unfallgegner weitergefahren werden.",
       "correct": false
     },
     "answer4": {
@@ -24072,14 +24072,14 @@
     }
   },
   {
-    "question": "Wie ist bei einem Zusammenstoß auf See die Verpflichtung zur Hilfeleistung geregelt? o a Die Verpflichtung zur Hilfeleistung besteht ausnahmslos.",
+    "question": "Wie ist bei einem Zusammenstoß auf See die Verpflichtung zur Hilfeleistung geregelt?",
     "answer1": {
-      "text": "Von der Verpflichtung zur Hilfeleistung ist man nur befreit, wenn man dadurch das",
-      "correct": true
+      "text": "Die Verpflichtung zur Hilfeleistung besteht ausnahmslos.",
+      "correct": false
     },
     "answer2": {
-      "text": "ne Schiff in ernste Gefahr bringen würde.",
-      "correct": false
+      "text": "Von der Verpflichtung zur Hilfeleistung ist man nur befreit, wenn man dadurch das eigene Schiff in ernste Gefahr bringen würde.",
+      "correct": true
     },
     "answer3": {
       "text": "Die Verpflichtung zur Hilfeleistung gilt nur in der Berufsschifffahrt.",
@@ -24120,10 +24120,10 @@
     }
   },
   {
-    "question": "Was ist bei einer Hubschrauberbergung zu beachten? x a Unter Umständen muss eine zu bergende Person mit dem Beiboot vom Schiff",
+    "question": "Was ist bei einer Hubschrauberbergung zu beachten?",
     "answer1": {
-      "text": "ebracht werden.",
-      "correct": false
+      "text": "Unter Umständen muss eine zu bergende Person mit dem Beiboot vom Schiff weggebracht werden.",
+      "correct": true
     },
     "answer2": {
       "text": "Den Anweisungen des Rettungspersonals ist Folge zu leisten.",
@@ -24168,21 +24168,21 @@
     }
   },
   {
-    "question": "Was ist beim Abschleppen zu beachten? x a Die Schleppleine soll lang und elastisch sein.",
+    "question": "Was ist beim Abschleppen zu beachten?",
     "answer1": {
+      "text": "Die Schleppleine soll lang und elastisch sein.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Schleppleine soll so kurz wie möglich sein.",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Die Rumpfgeschwindigkeit des abgeschleppten Bootes darf nicht überschritten werden.",
       "correct": true
     },
-    "answer3": {
-      "text": "Das Belegen der Schleppleine am geschleppten Boot muss durch die",
-      "correct": false
-    },
     "answer4": {
-      "text": "eppermannschaft erfolgen.",
+      "text": "Das Belegen der Schleppleine am geschleppten Boot muss durch die Schleppermannschaft erfolgen.",
       "correct": false
     },
     "metadata": {
@@ -24192,17 +24192,17 @@
     }
   },
   {
-    "question": "Wie übernimmt eine Jacht bei Wind und Wellen eine Schleppleine? o a Mit dem Wind auf das Heck des Havaristen zulaufen, abstoppen und Schlepptrosse übernehmen x b In langsamer Fahrt auf der Leeseite nähern und kurz vor dem Bug des Havaristen zur",
+    "question": "Wie übernimmt eine Jacht bei Wind und Wellen eine Schleppleine?",
     "answer1": {
-      "text": "nahme der Schleppleine abstoppen",
+      "text": "Mit dem Wind auf das Heck des Havaristen zulaufen, abstoppen und Schlepptrosse übernehmen",
       "correct": false
     },
     "answer2": {
-      "text": "In langsamer Fahrt auf der Luvseite nähern und kurz vor dem Heck des Havaristen zur",
-      "correct": false
+      "text": "In langsamer Fahrt auf der Leeseite nähern und kurz vor dem Bug des Havaristen zur Übernahme der Schleppleine abstoppen",
+      "correct": true
     },
     "answer3": {
-      "text": "nahme der Schleppleine abstoppen",
+      "text": "In langsamer Fahrt auf der Luvseite nähern und kurz vor dem Heck des Havaristen zur Übernahme der Schleppleine abstoppen",
       "correct": false
     },
     "answer4": {
@@ -24312,10 +24312,10 @@
     }
   },
   {
-    "question": "Was ist sofort zu tun, wenn in der Bilge viel Wasser festgestellt wird? x a Eingedrungenes Wasser kosten um festzustellen, ob es sich um Salzwasser oder",
+    "question": "Was ist sofort zu tun, wenn in der Bilge viel Wasser festgestellt wird?",
     "answer1": {
-      "text": "asser handelt",
-      "correct": false
+      "text": "Eingedrungenes Wasser kosten um festzustellen, ob es sich um Salzwasser oder Süßwasser handelt",
+      "correct": true
     },
     "answer2": {
       "text": "Keine Information an die Crew um Panik zu vermeiden, aber sofort das Leck suchen",
@@ -24840,13 +24840,13 @@
     }
   },
   {
-    "question": "Was ist ein „Travel Report“? o a Liste aller Schiffe, die innerhalb von 24 Stunden Funkverkehr geführt haben",
+    "question": "Was ist ein „Travel Report“?",
     "answer1": {
-      "text": "Liste aller Schiffe, die innerhalb von 24 Stunden ein Verkehrstrennungsgebiet befahren",
+      "text": "Liste aller Schiffe, die innerhalb von 24 Stunden Funkverkehr geführt haben",
       "correct": false
     },
     "answer2": {
-      "text": "n",
+      "text": "Liste aller Schiffe, die innerhalb von 24 Stunden ein Verkehrstrennungsgebiet befahren haben",
       "correct": false
     },
     "answer3": {
@@ -24864,14 +24864,14 @@
     }
   },
   {
-    "question": "Welche Maßnahmen können das Risiko des Überbordfallens vermindern? x a Sicherheitsgurt anlegen, Sicherheitsleinen einpicken",
+    "question": "Welche Maßnahmen können das Risiko des Überbordfallens vermindern?",
     "answer1": {
-      "text": "Auf geeignete Befestigungspunkte für zum Einpicken der Sicherheitsleinen-Karabiner",
+      "text": "Sicherheitsgurt anlegen, Sicherheitsleinen einpicken",
       "correct": true
     },
     "answer2": {
-      "text": "eisen",
-      "correct": false
+      "text": "Auf geeignete Befestigungspunkte für zum Einpicken der Sicherheitsleinen-Karabiner hinweisen",
+      "correct": true
     },
     "answer3": {
       "text": "Anlegen der Rettungswesten",
@@ -24984,17 +24984,17 @@
     }
   },
   {
-    "question": "Welche Methoden können beim Suchen eines Überbordgegangenen angewendet werden? x a Eventuell sofort umdrehen und ursprünglichen Kurs in Gegenrichtung abfahren",
+    "question": "Welche Methoden können beim Suchen eines Überbordgegangenen angewendet werden?",
     "answer1": {
-      "text": "Mit einem raster- oder spiralförmigen Suchmuster suchen",
+      "text": "Eventuell sofort umdrehen und ursprünglichen Kurs in Gegenrichtung abfahren",
       "correct": true
     },
     "answer2": {
-      "text": "Verliert man den Verunglückten aus den Augen, wartet man an Ort und Stelle auf",
-      "correct": false
+      "text": "Mit einem raster- oder spiralförmigen Suchmuster suchen",
+      "correct": true
     },
     "answer3": {
-      "text": "forderte Hilfe.",
+      "text": "Verliert man den Verunglückten aus den Augen, wartet man an Ort und Stelle auf angeforderte Hilfe.",
       "correct": false
     },
     "answer4": {
@@ -25032,21 +25032,21 @@
     }
   },
   {
-    "question": "Wie sollte der Rudergänger reagieren, wenn unter Maschine jemand an Steuerbord über Bord fällt? x a Maschine in den Leerlauf, Ruder steuerbord (zum Verunglückten)",
+    "question": "Wie sollte der Rudergänger reagieren, wenn unter Maschine jemand an Steuerbord über Bord fällt?",
     "answer1": {
+      "text": "Maschine in den Leerlauf, Ruder steuerbord (zum Verunglückten)",
+      "correct": true
+    },
+    "answer2": {
       "text": "Maschine in den Leerlauf, Ruder backbord (vom Verunglückten weg)",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Gang eingelegt lassen und hart Ruder legen",
       "correct": false
     },
-    "answer3": {
-      "text": "Maschine in den Leerlauf, Gang retour einlegen und in langsamer Fahrt auf den",
-      "correct": false
-    },
     "answer4": {
-      "text": "nglückten achteraus zufahren",
+      "text": "Maschine in den Leerlauf, Gang retour einlegen und in langsamer Fahrt auf den Verunglückten achteraus zufahren",
       "correct": false
     },
     "metadata": {
@@ -25056,21 +25056,21 @@
     }
   },
   {
-    "question": "Wie sollte der Rudergänger reagieren, wenn unter Maschine jemand an Backbord über Bord fällt? x a Maschine in den Leerlauf, Ruder hart backbord",
+    "question": "Wie sollte der Rudergänger reagieren, wenn unter Maschine jemand an Backbord über Bord fällt?",
     "answer1": {
+      "text": "Maschine in den Leerlauf, Ruder hart backbord",
+      "correct": true
+    },
+    "answer2": {
       "text": "Maschine in den Leerlauf, Ruder hart steuerbord",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Gang eingelegt lassen und hart Ruder legen",
       "correct": false
     },
-    "answer3": {
-      "text": "Maschine in den Leerlauf, Gang retour einlegen und in langsamer Fahrt auf den",
-      "correct": false
-    },
     "answer4": {
-      "text": "nglückten achteraus zufahren",
+      "text": "Maschine in den Leerlauf, Gang retour einlegen und in langsamer Fahrt auf den Verunglückten achteraus zufahren",
       "correct": false
     },
     "metadata": {
@@ -25104,9 +25104,9 @@
     }
   },
   {
-    "question": "Was ist eine Livesling? o a Leinensystem zur Sicherung des Großbaums auf Vorwindkursen zur Bedienung des",
+    "question": "Was ist eine Livesling?",
     "answer1": {
-      "text": "enstanders vom Cockpit aus",
+      "text": "Leinensystem zur Sicherung des Großbaums auf Vorwindkursen zur Bedienung des Bullenstanders vom Cockpit aus",
       "correct": false
     },
     "answer2": {
@@ -25128,18 +25128,18 @@
     }
   },
   {
-    "question": "Wie wird eine Livesling bei POB angewendet? o a Die Livesling wird in Luv des Verunfallten ausgebracht und treibt auf ihn zu. x b Die Lifesling wird in die Nähe des Verunfallten geworfen, wenn das Boot nahe in Luv",
+    "question": "Wie wird eine Livesling bei POB angewendet?",
     "answer1": {
-      "text": "ichst langsam vorbeifährt.",
+      "text": "Die Livesling wird in Luv des Verunfallten ausgebracht und treibt auf ihn zu.",
       "correct": false
     },
     "answer2": {
-      "text": "Der Verunfallte wird mit der nachgeschleppten Lifesling umkreist, damit er sie fassen",
+      "text": "Die Lifesling wird in die Nähe des Verunfallten geworfen, wenn das Boot nahe in Luv möglichst langsam vorbeifährt.",
       "correct": true
     },
     "answer3": {
-      "text": ".",
-      "correct": false
+      "text": "Der Verunfallte wird mit der nachgeschleppten Lifesling umkreist, damit er sie fassen kann.",
+      "correct": true
     },
     "answer4": {
       "text": "Die Lifesling muss dem Verunfallten direkt zugeworfen werden.",
@@ -25176,14 +25176,14 @@
     }
   },
   {
-    "question": "Wie erfolgt die Zündung bei einem Dieselmotor? o a Der Treibstoff wird mittels Glühkerze gezündet.",
+    "question": "Wie erfolgt die Zündung bei einem Dieselmotor?",
     "answer1": {
-      "text": "Das Diesel-Luft-Gemisch zündet selbst durch hohen Druck und hohe Temperatur im",
-      "correct": true
+      "text": "Der Treibstoff wird mittels Glühkerze gezündet.",
+      "correct": false
     },
     "answer2": {
-      "text": "rennungsraum.",
-      "correct": false
+      "text": "Das Diesel-Luft-Gemisch zündet selbst durch hohen Druck und hohe Temperatur im Verbrennungsraum.",
+      "correct": true
     },
     "answer3": {
       "text": "Diesel zündet selbst, sobald er in einem bestimmten Verhältnis mit Luft vermischt wird.",
@@ -25224,9 +25224,9 @@
     }
   },
   {
-    "question": "Wie erfolgt die Zündung bei einem Benzinmotor? o a Das Benzin-Luft-Gemisch entzündet sich durch hohen Druck und hohe Temperatur im",
+    "question": "Wie erfolgt die Zündung bei einem Benzinmotor?",
     "answer1": {
-      "text": "rennungsraum selbst.",
+      "text": "Das Benzin-Luft-Gemisch entzündet sich durch hohen Druck und hohe Temperatur im Verbrennungsraum selbst.",
       "correct": false
     },
     "answer2": {
@@ -25536,22 +25536,22 @@
     }
   },
   {
-    "question": "Was ist kennzeichnend für eine Zweikreiskühlung? o a Motor und Getriebe werden getrennt gekühlt. o b Bei höheren Motortemperaturen wird ein zweiter Kühlkreislauf zugeschaltet.",
+    "question": "Was ist kennzeichnend für eine Zweikreiskühlung?",
     "answer1": {
-      "text": "Ein innerer Kreislauf kühlt die beweglichen Teile des Motors, ein äußerer Kreislauf den",
+      "text": "Motor und Getriebe werden getrennt gekühlt.",
       "correct": false
     },
     "answer2": {
-      "text": "rblock.",
+      "text": "Bei höheren Motortemperaturen wird ein zweiter Kühlkreislauf zugeschaltet.",
       "correct": false
     },
     "answer3": {
-      "text": "In einem Wärmetauscher wird die Kühlflüssigkeit des Motorkreislaufes mit Seewasser",
-      "correct": true
+      "text": "Ein innerer Kreislauf kühlt die beweglichen Teile des Motors, ein äußerer Kreislauf den Motorblock.",
+      "correct": false
     },
     "answer4": {
-      "text": "hlt.",
-      "correct": false
+      "text": "In einem Wärmetauscher wird die Kühlflüssigkeit des Motorkreislaufes mit Seewasser gekühlt.",
+      "correct": true
     },
     "metadata": {
       "category": "Modul Motor",
@@ -27528,17 +27528,17 @@
     }
   },
   {
-    "question": "Welche Aufgaben hat der Scherstift bei einem Außenbordmotor? x a Der Scherstift ist eine Sollbruchstelle, die beim Blockieren des Propellers bricht.",
+    "question": "Welche Aufgaben hat der Scherstift bei einem Außenbordmotor?",
     "answer1": {
+      "text": "Der Scherstift ist eine Sollbruchstelle, die beim Blockieren des Propellers bricht.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Der Scherstift stoppt den Motor wenn der Fahrer über Bord geht.",
       "correct": false
     },
-    "answer2": {
-      "text": "Der Scherstift verhindert das Hochkippen des Außenborders wenn der Rückwärtsgang",
-      "correct": false
-    },
     "answer3": {
-      "text": "elegt wird.",
+      "text": "Der Scherstift verhindert das Hochkippen des Außenborders wenn der Rückwärtsgang eingelegt wird.",
       "correct": false
     },
     "answer4": {
@@ -27552,17 +27552,17 @@
     }
   },
   {
-    "question": "Welche Aufgaben hat der Scherstift bei einem Außenbordmotor? x a Er überträgt das Drehmoment von der Antriebswelle auf den Propeller.",
+    "question": "Welche Aufgaben hat der Scherstift bei einem Außenbordmotor?",
     "answer1": {
-      "text": "Er soll die Beschädigung der Welle und des Getriebes bei Überlastung verhindern.",
+      "text": "Er überträgt das Drehmoment von der Antriebswelle auf den Propeller.",
       "correct": true
     },
     "answer2": {
-      "text": "Er dient zur Begrenzung der Kraftstoffförderung, um eine Überlastung des Motos zu",
-      "correct": false
+      "text": "Er soll die Beschädigung der Welle und des Getriebes bei Überlastung verhindern.",
+      "correct": true
     },
     "answer3": {
-      "text": "indern.",
+      "text": "Er dient zur Begrenzung der Kraftstoffförderung, um eine Überlastung des Motos zu verhindern.",
       "correct": false
     },
     "answer4": {
@@ -27624,9 +27624,9 @@
     }
   },
   {
-    "question": "Was ist beim Starten eines getriebelosen Außenbordmotors zu beachten? o a Die Tankentlüftung muss geschlossen sein, damit kein Salzwasser in den Tank gelangen",
+    "question": "Was ist beim Starten eines getriebelosen Außenbordmotors zu beachten?",
     "answer1": {
-      "text": ".",
+      "text": "Die Tankentlüftung muss geschlossen sein, damit kein Salzwasser in den Tank gelangen kann.",
       "correct": false
     },
     "answer2": {
@@ -27864,21 +27864,21 @@
     }
   },
   {
-    "question": "Was ist eine Stopfbuchse? x a Die Stopfbuchse ist eine Wellendichtung, die das Eindringen von Wasser durch das Stevenrohr verhindert. o b Die Stopfbuchse dient zur Zerkleinerung der Fäkalien bevor diese in den Fäkalientank",
+    "question": "Was ist eine Stopfbuchse?",
     "answer1": {
-      "text": "itet werden.",
-      "correct": false
+      "text": "Die Stopfbuchse ist eine Wellendichtung, die das Eindringen von Wasser durch das Stevenrohr verhindert.",
+      "correct": true
     },
     "answer2": {
-      "text": "Die Stopfbuchse dient zur provisorischen Abdichtung eines gebrochenen Seeventils.",
+      "text": "Die Stopfbuchse dient zur Zerkleinerung der Fäkalien bevor diese in den Fäkalientank geleitet werden.",
       "correct": false
     },
     "answer3": {
-      "text": "Die Stopfbuchse ist ein Rückschlagventil, das das Eindringen von Wasser in",
+      "text": "Die Stopfbuchse dient zur provisorischen Abdichtung eines gebrochenen Seeventils.",
       "correct": false
     },
     "answer4": {
-      "text": "fdurchlässe unterhalb der Wasserlinie verhindert.",
+      "text": "Die Stopfbuchse ist ein Rückschlagventil, das das Eindringen von Wasser in Rumpfdurchlässe unterhalb der Wasserlinie verhindert.",
       "correct": false
     },
     "metadata": {
@@ -28032,21 +28032,21 @@
     }
   },
   {
-    "question": "Was ist das Prinzip eines Jetantriebs? x a Wasser wird angesaugt und über bewegliche Düsen am Heck wieder ausgestoßen.",
+    "question": "Was ist das Prinzip eines Jetantriebs?",
     "answer1": {
+      "text": "Wasser wird angesaugt und über bewegliche Düsen am Heck wieder ausgestoßen.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Luft wird angesaugt und über bewegliche Düsen am Heck wieder ausgestoßen.",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Der Propeller wird von einer Turbine angetrieben.",
       "correct": false
     },
-    "answer3": {
-      "text": "Turbinen erzeugen einen nach unten gerichteten Luftstrom, der das Fahrzeug aus dem",
-      "correct": false
-    },
     "answer4": {
-      "text": "er hebt.",
+      "text": "Turbinen erzeugen einen nach unten gerichteten Luftstrom, der das Fahrzeug aus dem Wasser hebt.",
       "correct": false
     },
     "metadata": {
@@ -28224,18 +28224,18 @@
     }
   },
   {
-    "question": "Was wird als Kavitation bezeichnet? o a Kavitation ist das vom Propeller erzeugte Drehmoment.",
+    "question": "Was wird als Kavitation bezeichnet?",
     "answer1": {
-      "text": "Kavitation ist der Übergang von Verdrängungsfahrt auf Gleitfahrt.",
+      "text": "Kavitation ist das vom Propeller erzeugte Drehmoment.",
       "correct": false
     },
     "answer2": {
-      "text": "Kavitation ist die Bildung und Auflösung von Dampfblasen auf der Unterdruckseite der",
-      "correct": true
+      "text": "Kavitation ist der Übergang von Verdrängungsfahrt auf Gleitfahrt.",
+      "correct": false
     },
     "answer3": {
-      "text": "ellerblätter.",
-      "correct": false
+      "text": "Kavitation ist die Bildung und Auflösung von Dampfblasen auf der Unterdruckseite der Propellerblätter.",
+      "correct": true
     },
     "answer4": {
       "text": "Kavitation ist der Materialabtrag am Propeller durch elektrolytische Korrosion.",
@@ -28320,18 +28320,18 @@
     }
   },
   {
-    "question": "Was sind Unterschiede zwischen einem Verdränger und einem Gleiter? x a Ein Verdränger kann die Rumpfgeschwindigkeit unter Maschine nicht überschreiten.",
+    "question": "Was sind Unterschiede zwischen einem Verdränger und einem Gleiter?",
     "answer1": {
+      "text": "Ein Verdränger kann die Rumpfgeschwindigkeit unter Maschine nicht überschreiten.",
+      "correct": true
+    },
+    "answer2": {
       "text": "Ein Verdränger hat zumindest eine Kielflosse.",
       "correct": false
     },
-    "answer2": {
-      "text": "Ein Gleiter kann bei entsprechender Antriebsleistung auf seine eigene Bugwelle",
-      "correct": true
-    },
     "answer3": {
-      "text": "leiten.",
-      "correct": false
+      "text": "Ein Gleiter kann bei entsprechender Antriebsleistung auf seine eigene Bugwelle aufgleiten.",
+      "correct": true
     },
     "answer4": {
       "text": "Der Gleiter hat zumindest im Heckbereich ein flaches, breites Unterwasserschiff.",
@@ -28584,21 +28584,21 @@
     }
   },
   {
-    "question": "Was bewirkt das Dichtholen der Rollreffleine bei üblichen VorsegelRollreffanlagen? o a Die Rollreffleine wird von der Trommel abgewickelt und rollt das Segel über das drehbare Vorstagprofil aus. x b Die Rollreffleine wird von der Trommel abgewickelt und rollt das Segel über das drehbare Vorstagprofil ein.",
+    "question": "Was bewirkt das Dichtholen der Rollreffleine bei üblichen VorsegelRollreffanlagen?",
     "answer1": {
-      "text": "Die Rollreffleine wird auf die Trommel aufgewickelt und rollt das Segel über das drehbare",
+      "text": "Die Rollreffleine wird von der Trommel abgewickelt und rollt das Segel über das drehbare Vorstagprofil aus.",
       "correct": false
     },
     "answer2": {
-      "text": "tagprofil ein.",
-      "correct": false
+      "text": "Die Rollreffleine wird von der Trommel abgewickelt und rollt das Segel über das drehbare Vorstagprofil ein.",
+      "correct": true
     },
     "answer3": {
-      "text": "Die Rollreffleine wird auf die Trommel aufgewickelt und rollt das Segel über das drehbare",
+      "text": "Die Rollreffleine wird auf die Trommel aufgewickelt und rollt das Segel über das drehbare Vorstagprofil ein.",
       "correct": false
     },
     "answer4": {
-      "text": "tagprofil aus.",
+      "text": "Die Rollreffleine wird auf die Trommel aufgewickelt und rollt das Segel über das drehbare Vorstagprofil aus.",
       "correct": false
     },
     "metadata": {
@@ -28632,14 +28632,14 @@
     }
   },
   {
-    "question": "Was sind Lazy Bags? o a Planen zum Abdecken von Großsegel bzw. Vorsegel",
+    "question": "Was sind Lazy Bags?",
     "answer1": {
-      "text": "Taschen seitlich am Baum zum Auffangen des überschüssigen Großsegeltuchs nach dem",
-      "correct": true
+      "text": "Planen zum Abdecken von Großsegel bzw. Vorsegel",
+      "correct": false
     },
     "answer2": {
-      "text": "en",
-      "correct": false
+      "text": "Taschen seitlich am Baum zum Auffangen des überschüssigen Großsegeltuchs nach dem Reffen",
+      "correct": true
     },
     "answer3": {
       "text": "Taschen seitlich am Baum zum Auffangen des Großsegels beim Bergen",
@@ -28848,22 +28848,22 @@
     }
   },
   {
-    "question": "Welche der angeführten Merkmale sind kennzeichnend für das Schnellreff? x a Durch Dichtholen eines Schmerreeps wird eine am Achterliek befindliche Kausch zum Horn des gerefften Großsegels gezogen. o b Durch Dichtholen eines Schmerreeps wird eine am Vorliek befindliche Kausch zum Hals",
+    "question": "Welche der angeführten Merkmale sind kennzeichnend für das Schnellreff?",
     "answer1": {
-      "text": "gerefften Großsegels gezogen.",
-      "correct": false
+      "text": "Durch Dichtholen eines Schmerreeps wird eine am Achterliek befindliche Kausch zum Horn des gerefften Großsegels gezogen.",
+      "correct": true
     },
     "answer2": {
-      "text": "Ein Teil des Großsegels wird um den Baum gewickelt und mit Bändseln festgebunden.",
+      "text": "Durch Dichtholen eines Schmerreeps wird eine am Vorliek befindliche Kausch zum Hals des gerefften Großsegels gezogen.",
       "correct": false
     },
     "answer3": {
-      "text": "Eine am Vorliek befindliche Kausch wird knapp über dem Lümmelbeschlag fixiert, um das",
-      "correct": true
+      "text": "Ein Teil des Großsegels wird um den Baum gewickelt und mit Bändseln festgebunden.",
+      "correct": false
     },
     "answer4": {
-      "text": "iek zu verkürzen.",
-      "correct": false
+      "text": "Eine am Vorliek befindliche Kausch wird knapp über dem Lümmelbeschlag fixiert, um das Vorliek zu verkürzen.",
+      "correct": true
     },
     "metadata": {
       "category": "Modul Segeln",
@@ -28872,10 +28872,10 @@
     }
   },
   {
-    "question": "Was ist ein Einleinenreff? x a Ein Reffsystem, bei dem die Reffleinen (Schmerreeps) durch Reffkauschen am Achterliek",
+    "question": "Was ist ein Einleinenreff?",
     "answer1": {
-      "text": "am Vorliek geführt sind.",
-      "correct": false
+      "text": "Ein Reffsystem, bei dem die Reffleinen (Schmerreeps) durch Reffkauschen am Achterliek und am Vorliek geführt sind.",
+      "correct": true
     },
     "answer2": {
       "text": "Ein Reffsystem, bei dem die Reffleinen über eine Winsch geführt werden.",
@@ -29640,10 +29640,10 @@
     }
   },
   {
-    "question": "Welche der folgenden Abläufe beschreiben grob übliche Manöver, um unter Segel zu ankern? x a Vorsegel bergen - Vorwindkurs - Anker fallen - Ankertrosse stecken - Ankertrosse fest",
+    "question": "Welche der folgenden Abläufe beschreiben grob übliche Manöver, um unter Segel zu ankern?",
     "answer1": {
-      "text": "anluven - Großsegel bergen",
-      "correct": false
+      "text": "Vorsegel bergen - Vorwindkurs - Anker fallen - Ankertrosse stecken - Ankertrosse fest und anluven - Großsegel bergen",
+      "correct": true
     },
     "answer2": {
       "text": "Vorsegel bergen - Aufschießer - Anker fallen - Ankertrosse stecken - Großsegel bergen",
@@ -29664,22 +29664,22 @@
     }
   },
   {
-    "question": "Was ist beim Manöver Anker auf unter Segel zu beachten? o a Segel dürfen erst nach dem Ausbrechen des Ankers gesetzt werden.",
+    "question": "Was ist beim Manöver Anker auf unter Segel zu beachten?",
     "answer1": {
-      "text": "Der Anker muss ausgebrochen werden, bevor er kurzstag ist.",
+      "text": "Segel dürfen erst nach dem Ausbrechen des Ankers gesetzt werden.",
       "correct": false
     },
     "answer2": {
+      "text": "Der Anker muss ausgebrochen werden, bevor er kurzstag ist.",
+      "correct": false
+    },
+    "answer3": {
       "text": "Zumindest ein Segel muss gesetzt werden, bevor der Anker kurzstag ist.",
       "correct": true
     },
-    "answer3": {
-      "text": "Um in eine bestimmte Richtung abzulgen, kann ein Segel auf dieser Seite backgehalten",
-      "correct": true
-    },
     "answer4": {
-      "text": "en.",
-      "correct": false
+      "text": "Um in eine bestimmte Richtung abzulgen, kann ein Segel auf dieser Seite backgehalten werden.",
+      "correct": true
     },
     "metadata": {
       "category": "Modul Segeln",
@@ -29712,10 +29712,10 @@
     }
   },
   {
-    "question": "Was bedeutet trimmen? x a Segel so einstellen, dass bei den Windbedingungen entsprechender Fahrt der Ruderdruck",
+    "question": "Was bedeutet trimmen?",
     "answer1": {
-      "text": "ng ist",
-      "correct": false
+      "text": "Segel so einstellen, dass bei den Windbedingungen entsprechender Fahrt der Ruderdruck gering ist",
+      "correct": true
     },
     "answer2": {
       "text": "Umstauen der Ausrüstung und Mannschaft abhängig von Kurs und Geschwindigkeit",
@@ -30168,21 +30168,21 @@
     }
   },
   {
-    "question": "Was wird als Holepunkt bezeichnet? x a Ein Umlenkpunkt der Vorschot",
+    "question": "Was wird als Holepunkt bezeichnet?",
     "answer1": {
+      "text": "Ein Umlenkpunkt der Vorschot",
+      "correct": true
+    },
+    "answer2": {
       "text": "Der Bootsbeschlag, an dem Wanten mit dem Rumpf verbunden sind",
       "correct": false
     },
-    "answer2": {
+    "answer3": {
       "text": "Ein quer zur Schiffslängsachse verschiebbarer Umlenkpunkt der Großschot",
       "correct": false
     },
-    "answer3": {
-      "text": "Der Punkt an dem beim Kreuzen gewendet werden muss, um ein Ziel in Luv anliegen zu",
-      "correct": false
-    },
     "answer4": {
-      "text": "en.",
+      "text": "Der Punkt an dem beim Kreuzen gewendet werden muss, um ein Ziel in Luv anliegen zu können.",
       "correct": false
     },
     "metadata": {
@@ -31176,17 +31176,17 @@
     }
   },
   {
-    "question": "Welche Auswirkungen hat die Lage des Lateraldruckpunkts auf die Segeleigenschaften? x a Seine Lage zum Segeldruckpunkt beeinflusst die Luv- und Leegierigkeit. x b Liegt der Lateraldruckpunkt hinter dem Segeldruckpunkt wird stets die Leegierigkeit",
+    "question": "Welche Auswirkungen hat die Lage des Lateraldruckpunkts auf die Segeleigenschaften?",
     "answer1": {
-      "text": "nstigt.",
-      "correct": false
+      "text": "Seine Lage zum Segeldruckpunkt beeinflusst die Luv- und Leegierigkeit.",
+      "correct": true
     },
     "answer2": {
-      "text": "Liegt der Lateraldruckpunkt in Lee des Segeldruckpunkts wird stets die Luvgierigkeit",
-      "correct": false
+      "text": "Liegt der Lateraldruckpunkt hinter dem Segeldruckpunkt wird stets die Leegierigkeit begünstigt.",
+      "correct": true
     },
     "answer3": {
-      "text": "nstigt.",
+      "text": "Liegt der Lateraldruckpunkt in Lee des Segeldruckpunkts wird stets die Luvgierigkeit begünstigt.",
       "correct": false
     },
     "answer4": {
@@ -33864,18 +33864,18 @@
     }
   },
   {
-    "question": "Was ist im Falle eines Mastbruches zu tun? o a Maschine starten, um manövrieren zu können.",
+    "question": "Was ist im Falle eines Mastbruches zu tun?",
     "answer1": {
+      "text": "Maschine starten, um manövrieren zu können.",
+      "correct": false
+    },
+    "answer2": {
       "text": "Nach Möglichkeit Mast samt stehendem und laufendem Gut bergen und sichern.",
       "correct": true
     },
-    "answer2": {
-      "text": "Können Teile der Takelage nicht geborgen werden, Wanten und Stage kappen um",
-      "correct": true
-    },
     "answer3": {
-      "text": "den am Rumpf zu verhindern.",
-      "correct": false
+      "text": "Können Teile der Takelage nicht geborgen werden, Wanten und Stage kappen um Schäden am Rumpf zu verhindern.",
+      "correct": true
     },
     "answer4": {
       "text": "Notruf absetzen.",

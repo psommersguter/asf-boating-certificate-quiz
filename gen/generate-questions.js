@@ -34,24 +34,33 @@ function parseQuestion(questionParts) {
     }
   }
 
-  function determineCorrect(rawAnswer) {
-    const indicatorChar = rawAnswer.charAt(0);
-    return indicatorChar === 'x'
+  function determineCorrect(joinedQuestionsAndAnswers, answerChar) {
+    if (joinedQuestionsAndAnswers.includes(` x ${answerChar} `)) {
+      return true;
+    }
+
+    if (joinedQuestionsAndAnswers.includes(` o ${answerChar} `)) {
+      return false;
+    }
+
+    console.error(joinedQuestionsAndAnswers);
+    throw new Error(`Could not determine correctness of answer '${answerChar}'`)
   }
 
-  const question = questionParts.slice(1, questionParts.length - 5).join(" ")
-
-  const rawAnswer1 = questionParts[questionParts.length - 5];
-  const rawAnswer2 = questionParts[questionParts.length - 4];
-  const rawAnswer3 = questionParts[questionParts.length - 3];
-  const rawAnswer4 = questionParts[questionParts.length - 2];
+  //join and split to correctly handle multiline questions and answers
+  const joinedQuestionsAndAnswers = questionParts.slice(1, questionParts.length - 1).join(" ")
+  const sanitizedQuestionAndAnswers = joinedQuestionsAndAnswers.split(new RegExp(" [xo] [abcd] "))
+  if (sanitizedQuestionAndAnswers.length !== 5) {
+    console.error(sanitizedQuestionAndAnswers);
+    throw new Error("The length of the sanitizedQuestionAndAnswers array is not correct!");
+  }
 
   return {
-    "question": question,
-    "answer1": {"text": rawAnswer1.substring(4), "correct": determineCorrect(rawAnswer1)},
-    "answer2": {"text": rawAnswer2.substring(4), "correct": determineCorrect(rawAnswer2)},
-    "answer3": {"text": rawAnswer3.substring(4), "correct": determineCorrect(rawAnswer3)},
-    "answer4": {"text": rawAnswer4.substring(4), "correct": determineCorrect(rawAnswer4)},
+    "question": sanitizedQuestionAndAnswers[0],
+    "answer1": {"text": sanitizedQuestionAndAnswers[1], "correct": determineCorrect(joinedQuestionsAndAnswers, "a")},
+    "answer2": {"text": sanitizedQuestionAndAnswers[2], "correct": determineCorrect(joinedQuestionsAndAnswers, "b")},
+    "answer3": {"text": sanitizedQuestionAndAnswers[3], "correct": determineCorrect(joinedQuestionsAndAnswers, "c")},
+    "answer4": {"text": sanitizedQuestionAndAnswers[4], "correct": determineCorrect(joinedQuestionsAndAnswers, "d")},
     // "pictureBase64": "",
     "metadata": {
       "category": determineCategory(questionParts[0].charAt(0)),
@@ -71,7 +80,7 @@ let questionStartIndex = null;
 for (let i = 0; i < lines.length; i++) {
   const currentLine = lines[i];
 
-  if (currentLine.match("^[ABCDEFMS]\\d{6}\\w?$")) {
+  if (currentLine.match(new RegExp("^[ABCDEFMS]\\d{6}\\w?$"))) {
     if (questionStartIndex !== null) {
       throw new Error("Start index is already set. Check the flow logic!");
     }
@@ -79,7 +88,7 @@ for (let i = 0; i < lines.length; i++) {
     continue;
   }
 
-  if (currentLine.match("^\\d(\\.)?\\d{0,3}$")) {
+  if (currentLine.match(new RegExp("^\\d(\\.)?\\d{0,3}$"))) {
     if (questionStartIndex === null) {
       throw new Error("Found question end before question start. Check the regexes!");
     }
