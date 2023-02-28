@@ -9,7 +9,7 @@ interface Props {
 
 function LearningQuiz(props: Props) {
 
-  const [activeQuestionIndex, setActiveQuestionIndex] = useState<number>(0)
+  const [activeQuestionIndex, setActiveQuestionIndex] = useState<number>(Math.floor(Math.random() * questionData.length))
   const [showValidation, setShowValidation] = useState(false)
 
   function selectNextQuestion() {
