@@ -27,7 +27,6 @@ export function Welcome(props: Props) {
           }}
         >
           <Button onClick={() => {
-            console.log("start button clicked", selectedCategory)
             if (selectedCategory === "Alle") {
               onStartLearnQuizClick(undefined)
             } else {
