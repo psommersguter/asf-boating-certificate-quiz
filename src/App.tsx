@@ -7,8 +7,10 @@ import { Box } from '@mui/material';
 function App() {
   const [welcomeVisible, setWelcomeVisible] = useState(true)
   const [learnQuizVisible, setLearnQuizVisible] = useState(false)
+  const [categoryFilter, setCategoryFilter] = useState<string| undefined>(undefined)
 
-  function startLearnQuiz() {
+  function startLearnQuiz(categoryFilter?: string) {
+    setCategoryFilter(categoryFilter)
     setWelcomeVisible(false)
     setLearnQuizVisible(true)
   }
@@ -26,7 +28,7 @@ function App() {
   return (
     <Box className="App">
       {welcomeVisible ? <Welcome onStartLearnQuizClick={startLearnQuiz} /> : null}
-      {learnQuizVisible ? <LearningQuiz onBack={backToWelcome} /> : null}
+      {learnQuizVisible ? <LearningQuiz categoryFilter={categoryFilter} onBack={backToWelcome} /> : null}
     </Box>
   )
 }

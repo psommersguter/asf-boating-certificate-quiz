@@ -5,17 +5,31 @@ import questionData from './assets/fb2-questions.json';
 
 interface Props {
   onBack: () => void
+  categoryFilter?: string
+}
+
+function generateRandomNumber(upperBoundExclusive: number) {
+  return Math.floor(Math.random() * upperBoundExclusive);
 }
 
 function LearningQuiz(props: Props) {
+  const { categoryFilter, onBack } = props;
 
-  const [activeQuestionIndex, setActiveQuestionIndex] = useState<number>(Math.floor(Math.random() * questionData.length))
+  const filteredQuestions = questionData.filter(question => {
+    if (categoryFilter === undefined) {
+      return true;
+    }
+
+    return question.metadata.category === categoryFilter;
+  })
+
+  const [activeQuestionIndex, setActiveQuestionIndex] = useState<number>(generateRandomNumber(filteredQuestions.length))
   const [showValidation, setShowValidation] = useState(false)
 
   function selectNextQuestion() {
-    let nextQuestionIndex = Math.floor(Math.random() * questionData.length);
+    let nextQuestionIndex = generateRandomNumber(filteredQuestions.length);
     while (nextQuestionIndex === activeQuestionIndex) {
-      nextQuestionIndex = Math.floor(Math.random() * questionData.length);
+      nextQuestionIndex = generateRandomNumber(filteredQuestions.length);
     }
     setActiveQuestionIndex(nextQuestionIndex)
     setShowValidation(false)
@@ -28,7 +42,7 @@ function LearningQuiz(props: Props) {
     }}>
       <Button
         variant={"outlined"}
-        onClick={props.onBack}
+        onClick={onBack}
         style={{
           marginBottom: "2rem"
         }}
@@ -36,7 +50,7 @@ function LearningQuiz(props: Props) {
         Session Beenden
       </Button>
       <QuizCard
-        itemData={questionData[activeQuestionIndex]}
+        itemData={filteredQuestions[activeQuestionIndex]}
         onNextQuestion={selectNextQuestion}
         showValidation={showValidation}
         setShowValidation={setShowValidation}

@@ -1,12 +1,14 @@
-import { Box, Button, Typography } from '@mui/material';
+import { Box, Button, FormControl, InputLabel, MenuItem, Select, Typography } from '@mui/material';
+import { useState } from 'react';
 
 interface Props {
-  onStartLearnQuizClick: () => void
+  onStartLearnQuizClick: (categoryFilter?: string) => void
 }
 
 export function Welcome(props: Props) {
-
   const { onStartLearnQuizClick } = props
+
+  const [selectedCategory, setSelectedCategory] = useState<string>("Alle")
 
   return (
     <Box>
@@ -18,14 +20,51 @@ export function Welcome(props: Props) {
         display: "flex",
         flexDirection: "column"
       }}>
-        <Button onClick={onStartLearnQuizClick}>
-          FB2 - Lernquiz Starten
-        </Button>
+        <Box
+          sx={{
+            width: "100%",
+            flexDirection: "row"
+          }}
+        >
+          <Button onClick={() => {
+            console.log("start button clicked", selectedCategory)
+            if (selectedCategory === "Alle") {
+              onStartLearnQuizClick(undefined)
+            } else {
+              onStartLearnQuizClick(selectedCategory)
+            }
+          }}>
+            FB2 - Lernquiz Starten
+          </Button>
+          <FormControl sx={{
+            marginLeft: "1rem",
+            width: "10rem",
+          }}>
+            <InputLabel id="category-select-label">Kategorie</InputLabel>
+            <Select
+              labelId="category-select-label"
+              value={selectedCategory}
+              label="Kategorie"
+              onChange={event => {
+                setSelectedCategory(event.target.value)
+              }}
+            >
+              <MenuItem value={"Alle"}>Alle</MenuItem>
+              <MenuItem value={"Jachtbedienung"}>Jachtbedienung</MenuItem>
+              <MenuItem value={"Bootsbau"}>Bootsbau</MenuItem>
+              <MenuItem value={"Navigation"}>Navigation</MenuItem>
+              <MenuItem value={"Rechtskunde"}>Rechtskunde</MenuItem>
+              <MenuItem value={"Wetter"}>Wetter</MenuItem>
+              <MenuItem value={"Sicherheit"}>Sicherheit</MenuItem>
+              <MenuItem value={"Modul Motor"}>Modul Motor</MenuItem>
+              <MenuItem value={"Modul Segeln"}>Modul Segeln</MenuItem>
+            </Select>
+          </FormControl>
+        </Box>
       </Box>
     </Box>
   )
 
 }
-
 
 export default Welcome
