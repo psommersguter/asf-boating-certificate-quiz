@@ -20,7 +20,7 @@ export function Welcome(props: WelcomeProps) {
         marginTop={"2rem"}
         justifyContent={"center"}
         direction={"row"}
-        spacing={4}
+        spacing={"2rem"}
       >
         <Button
           variant={"contained"}

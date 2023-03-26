@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Box, Button } from '@mui/material';
+import { Button, Stack } from '@mui/material';
 import QuizCard from './QuizCard';
 import questionData from './assets/fb2-questions.json';
 
@@ -36,16 +36,12 @@ function LearningQuiz(props: Props) {
   }
 
   return (
-    <Box style={{
-      display: "flex",
-      flexDirection: "column"
-    }}>
+    <Stack
+      spacing={"2rem"}
+    >
       <Button
         variant={"outlined"}
         onClick={onBack}
-        style={{
-          marginBottom: "2rem"
-        }}
       >
         Session Beenden
       </Button>
@@ -55,7 +51,7 @@ function LearningQuiz(props: Props) {
         showValidation={showValidation}
         setShowValidation={setShowValidation}
       />
-    </Box>
+    </Stack>
   )
 }
 

@@ -7,13 +7,15 @@ import {
   CardHeader,
   CardMedia,
   Checkbox,
+  Container,
   FormControlLabel,
+  Stack,
   Typography
 } from '@mui/material';
 import { AnswerData, QuizItemData } from './model';
 import { useState } from 'react';
 
-interface Props {
+interface QuizCardProps {
 
   itemData: QuizItemData,
 
@@ -37,7 +39,7 @@ function ValidationText({ everythingCorrect }: { everythingCorrect: boolean | nu
   )
 }
 
-interface AnswerThingyProps {
+interface AnswerOptionProps {
   data: AnswerData,
 
   userChecked: boolean,
@@ -46,7 +48,7 @@ interface AnswerThingyProps {
   showValidation: boolean
 }
 
-function AnswerThingy(props: AnswerThingyProps) {
+function AnswerOption(props: AnswerOptionProps) {
 
   const { data, userChecked, setUserChecked, showValidation } = props
   const { text, correct } = data
@@ -64,21 +66,47 @@ function AnswerThingy(props: AnswerThingyProps) {
   }
 
   return (
-    <FormControlLabel
-      control={
-        <Checkbox checked={userChecked} onChange={event => setUserChecked(event.target.checked)} />
-      }
-      label={text}
-      sx={{
-        textAlign: "left",
-        color: determineValidationColor()
-      }}
-    />
+    <Box>
+      <FormControlLabel
+        control={
+          <Checkbox checked={userChecked} onChange={event => setUserChecked(event.target.checked)} />
+        }
+        label={text}
+        sx={{
+          textAlign: "left",
+          color: determineValidationColor()
+        }}
+      />
+    </Box>
   )
 
 }
 
-function QuizCard(props: Props) {
+function OptionalPicture({ pictureBase64 }: { pictureBase64: string | undefined }) {
+  if (pictureBase64 === undefined) {
+    return null;
+  }
+
+  return (
+    <Container sx={{
+      padding: "1rem"
+    }}>
+      <CardMedia
+        component="img"
+        image={pictureBase64}
+        sx={{
+          width: { md: "auto" },
+          height: { md: "20rem" },
+          display: "block",
+          marginLeft: "auto",
+          marginRight: "auto"
+        }}
+      />
+    </Container>
+  );
+}
+
+function QuizCard(props: QuizCardProps) {
   const { itemData, onNextQuestion, showValidation, setShowValidation } = props
   const { question, answer1, answer2, answer3, answer4, metadata } = itemData
 
@@ -101,63 +129,45 @@ function QuizCard(props: Props) {
         subheader={subheaderText}
       >
       </CardHeader>
-      {
-        itemData.pictureBase64 === undefined ? null :
-          <Box sx={{
-            padding: "1rem"
-          }}>
-            <CardMedia
-              component="img"
-              image={itemData.pictureBase64}
-              sx={{
-                width: { md: "auto" },
-                height: { md: "20rem" },
-                display: "block",
-                marginLeft: "auto",
-                marginRight: "auto"
-              }}
-            />
-          </Box>
-      }
+      <OptionalPicture pictureBase64={itemData.pictureBase64} />
       <CardContent>
-        <Box sx={{
-          display: "grid",
-          gridTemplateColumns: "1fr",
-          alignItems: "center",
-          gridRowGap: "1rem"
-        }}>
-          <AnswerThingy
+        <Stack
+          alignItems={"flex-start"}
+          justifyContent={"center"}
+          spacing={"1rem"}
+        >
+          <AnswerOption
             data={answer1}
             userChecked={answer1Check}
             setUserChecked={setAnswer1Check}
             showValidation={showValidation}
           />
-          <AnswerThingy
+          <AnswerOption
             data={answer2}
             userChecked={answer2Check}
             setUserChecked={setAnswer2Check}
             showValidation={showValidation}
           />
-          <AnswerThingy
+          <AnswerOption
             data={answer3}
             userChecked={answer3Check}
             setUserChecked={setAnswer3Check}
             showValidation={showValidation}
           />
-          <AnswerThingy
+          <AnswerOption
             data={answer4}
             userChecked={answer4Check}
             setUserChecked={setAnswer4Check}
             showValidation={showValidation}
           />
-        </Box>
+        </Stack>
         <ValidationText everythingCorrect={showValidation ? allCheckboxesCorrect : null} />
       </CardContent>
       <CardActions>
-        <Box sx={{
-          width: "100%",
-          textAlign: "right"
-        }}
+        <Stack
+          width={"100%"}
+          direction={"row"}
+          justifyContent={"flex-end"}
         >
           {!showValidation ?
             <Button size="small" onClick={() => setShowValidation(!showValidation)}>Überprüfen</Button>
@@ -172,7 +182,7 @@ function QuizCard(props: Props) {
               Nächste Frage
             </Button>
           }
-        </Box>
+        </Stack>
       </CardActions>
     </Card>
   )
