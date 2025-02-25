@@ -12,16 +12,16 @@
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-    "@mui/material": "^5.16.14",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "@mui/material": "^6.4.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.3.5",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react-swc": "^3.8.0",
     "typescript": "^5.7.3",
-    "vite": "^5.4.14"
+    "vite": "^6.2.0"
   },
   "packageManager": "yarn@4.6.0"
 }
