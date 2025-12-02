@@ -10,18 +10,21 @@
     "generate-question-json": "node gen/generate-questions.js"
   },
   "dependencies": {
-    "@emotion/react": "^11.14.0",
+    "@emotion/react": "11.14.0",
     "@emotion/styled": "^11.14.1",
-    "@mui/material": "^7.3.2",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "@mui/material": "^7.3.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
-    "@types/react": "^19.1.16",
-    "@types/react-dom": "^19.1.9",
-    "@vitejs/plugin-react-swc": "^4.1.0",
-    "typescript": "^5.9.2",
-    "vite": "^7.1.7"
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react-swc": "^4.2.2",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.6"
   },
-  "packageManager": "yarn@4.10.3"
+  "resolutions": {
+    "glob": "10.5.0"
+  },
+  "packageManager": "yarn@4.12.0"
 }
