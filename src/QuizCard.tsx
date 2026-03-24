@@ -12,7 +12,7 @@ import {
   Stack,
   Typography
 } from '@mui/material';
-import { AnswerData, QuizItemData } from './model';
+import type { AnswerData, QuizItemData } from './model';
 import { useState } from 'react';
 
 interface QuizCardProps {

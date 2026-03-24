@@ -1,6 +1,6 @@
 import { Button, FormControl, InputLabel, MenuItem, Select, Stack, Typography } from '@mui/material';
 import { useState } from 'react';
-import { SelectInputProps } from '@mui/material/Select/SelectInput';
+import type { SelectInputProps } from '@mui/material/Select/SelectInput';
 
 interface WelcomeProps {
   onStartLearnQuizClick: (categoryFilter?: string) => void
